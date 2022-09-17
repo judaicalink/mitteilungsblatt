@@ -1,29 +1,11 @@
 {
-    "MBNR.9.PER.3": {
-        "name": {
-            "first": "wegen",
-            "last": "Ausnahmen"
-        },
-        "info": [
-            "liufigkeit:",
-            "- HT =ur,Hans Tremer",
-            "- EUL- Dref.G.Lowenthal(Perlin)",
-            "- Lillenfeld- vr. Ivan LWillenfeld(der nur unter Sieeln schreibt)",
-            "Sonstige Klirzungent",
-            "- (N) = Nachmif",
-            "\u2014 Rer. = Rerension",
-            "- \"JR.\" = Jilische Rundschau",
-            "- JIm, = Jerusalen",
-            "- TA = Tel-Aviv,"
-        ]
-    },
     "MBNR.9.PER.13": {
         "name": {
-            "first": "rledrich",
-            "last": "Aller"
+            "first": "Friedrich",
+            "last": "Adler"
         },
         "info": [
-            "serv(jalfa)\u013190 17.8.79"
+            "Seev (Haifa)\u013190 17.8.79"
         ]
     },
     "MBNR.9.PER.14": {
@@ -66,29 +48,32 @@
     },
     "MBNR.9.PER.19": {
         "name": {
-            "first": "Salomm:friefe",
+            "first": "Salomon",
             "last": "Ansky"
         },
         "info": [
-            "an Rosa Ettinger(Gottgetreu) 11.7.80"
+            ":Briefe an Rosa Ettinger(Gottgetreu) 11.7.80"
         ]
     },
     "MBNR.9.PER.20": {
         "name": {
-            "first": "Frof",
+            "title": "Prof.",
+            "first": "Ruth",
             "last": "Arnon"
         },
         "info": [
-            ".Ruth(keizm nn-Instit.):Robert-Foch-Ireis 1.2.80"
+            "(keizm",
+            "nn-Instit.):Robert-Foch-Ireis 1.2.80"
         ]
     },
     "MBNR.9.PER.21": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "Raymond",
             "last": "Aron"
         },
         "info": [
-            "'rof. Raymond :Goethe-ireis 31.8.79"
+            ":Goethe-ireis 31.8.79"
         ]
     },
     "MBNR.9.PER.22": {

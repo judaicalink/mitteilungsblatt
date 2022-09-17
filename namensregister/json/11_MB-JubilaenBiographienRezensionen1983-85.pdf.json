@@ -1,31 +1,116 @@
 {
+    "MBNR.11.PER.10": {
+        "name": {
+            "first": "S.J.",
+            "last": "Agnon"
+        },
+        "info": [
+            "W.die dt. Juden(Toblas) 7.9.83"
+        ]
+    },
+    "MBNR.11.PER.11": {
+        "name": {
+            "first": "Grete",
+            "last": "Anschel"
+        },
+        "info": [
+            "Nachruf (Estreicher) 7.12.84"
+        ]
+    },
     "MBNR.11.PER.12": {
         "name": {
             "first": "Chaim",
-            "last": "lgeeteit"
+            "last": "Arlosoroff"
         },
         "info": [
-            "50.Todestag (R.Weltsoh in J.R.33 Nachruf) 10,6,83",
-            "/ Aron, Prof. Raymond Nachruf 28.10.83",
-            "4 \"Aufbau\" (New York) 50 Jahre 7.12.84",
-            "Ei u Baofk, Ralib.Dr.leo Ansprache (J.R.1935) 8.2.85",
-            "#y,  Balrmald, Alsxanler(\u00e4reliiteih) (HW Goldstein) 21.12.84",
-            "} Bamberger, Prof. Fritz Nachruf (Lowenthal) 2.11.84",
-            "\u00c4 'Beer-Hofmann, Hiriam Nachruf(A.Bein) 1.2.85",
-            "Ki = \\ Beer-Hofma\u0131tn, Richard \"Jaakobs Traum\" s.u.Eloesser",
-            "I 7) Bein,Alex \u201880 { P.A.Alsberg) 21.1,83",
-            "/ - \u201e Rez.Toblas 28,.3,83",
-            "\u2019 Bein, Naftalt| ;H,(Haifa) 85 24,6.83"
+            "50.Todestag (R.Weltsoh in J.R.33 Nachruf) 10,6,83"
+        ]
+    },
+    "MBNR.11.PER.13": {
+        "name": {
+            "title": "Prof.",
+            "first": "Raymond",
+            "last": "Aron"
+        },
+        "info": [
+            "Nachruf 28.10.83",
+            "4 \"Aufbau\" (New York) 50 Jahre 7.12.84"
+        ]
+    },
+    "MBNR.11.PER.15": {
+        "name": {
+            "title": "Rabb.",
+            "first": "Dr.Leo",
+            "last": "Baeck"
+        },
+        "info": [
+            "Ansprache (J.R.1935) 8.2.85"
+        ]
+    },
+    "MBNR.11.PER.16": {
+        "name": {
+            "first": "Alexander",
+            "last": "Baerwald"
+        },
+        "info": [
+            "(Architekt) (HW Goldstein) 21.12.84"
+        ]
+    },
+    "MBNR.11.PER.17": {
+        "name": {
+            "title": "Prof.",
+            "first": "Fritz",
+            "last": "Bamberger"
+        },
+        "info": [
+            "Nachruf (Lowenthal) 2.11.84"
+        ]
+    },
+    "MBNR.11.PER.18": {
+        "name": {
+            "first": "Miriam",
+            "last": "Beer-Hofmann"
+        },
+        "info": [
+            "Nachruf(A.Bein) 1.2.85"
+        ]
+    },
+    "MBNR.11.PER.19": {
+        "name": {
+            "first": "Richard",
+            "last": "Beer-Hofma\u0131tn"
+        },
+        "info": [
+            "\"Jaakobs Traum\" s.u.Eloesser"
+        ]
+    },
+    "MBNR.11.PER.20": {
+        "name": {
+            "first": "Alex",
+            "last": "Bein"
+        },
+        "info": [
+            "\u201880 { P.A.Alsberg) 21.1,83",
+            "/ - Rez.Toblas 28,.3,83"
+        ]
+    },
+    "MBNR.11.PER.22": {
+        "name": {
+            "first": "Naftali",
+            "last": "Bein"
+        },
+        "info": [
+            ";H,(Haifa) 85 24,6.83"
         ]
     },
     "MBNR.11.PER.23": {
         "name": {
-            "first": "",
+            "first": "S.",
             "last": "Ben-Chorin"
         },
         "info": [
-            "5: Deutschsprachige Dichter in Iarael 7. 9.83",
-            "- \u201ebeutsctier u.Jude 1.3.85"
+            ": Deutschsprachige Dichter in Iarael 7. 9.83",
+            "- Deutscher u.Jude 1.3.85"
         ]
     },
     "MBNR.11.PER.25": {
