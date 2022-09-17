@@ -386,7 +386,7 @@ Blum,Rabb.Dr.Samuel Ch. 20.8.43 60
 Blumenfeld,Kurt 12,1.40 B,in USA
 6.6.45 B.zurück hier
 26,5.44 60 (R.W, ‚Rosenblüth, lioses, Landauer,Gross,
-Landsberg, L.lierrmann, Friedenthal).
+Landsberg,L.lierrmann, Friedenthal).
 28.5.5470 (H.T. ‚Moses, Auerbach,Kanowitz,R.W.,
 Herlitz, Landauer, Baeck)
 29.5.59 75
@@ -1015,7 +1015,7 @@ Hauptmann,Gerhart (+6.6. 46) A
 14.11.52 (90.Geburtstag) jensh Ru = Y
 
 lecker,Ing.Max (KV) 6.2.59 80 (Herlitz)
-Hecker, ,wilheln (Jerusalem) 20.7.45 Nachruf
+Hecker,Wilhelm (Jerusalem) 20.7.45 Nachruf
 Heimann, Robert 13.2.48 üachruf
 
 Heine ,‚Heinrich(1797-1856)
@@ -1419,9 +1419,9 @@ Klein,Rabb.Dr.Arnold Abr(Nürnberg) 27.1.61 Nachruf(Neufeld)
 Klein,Dr.Ludwie 13.6.58 Nachruf
 
 Kleinmann,Mosche (Journalist) 3.12.48 Nachruf(Tauber)
-Klinghofer, David 14.9.56 70
+Klinghofer,David 14.9.56 70
 
-Klinghoffer, (benJaakov),David 9.6.61 To
+Klinghoffer,(benJaakov),David 9.6.61 To
 
 Kloetzel,C.2, 14.2.41 50 43%. oM. Fr ga Be
 
@@ -1561,7 +1561,7 @@ Preuss,E.Simon)
 99 u
 6.2.59 5. " (Ru,HT,KL,Luft)
 
-Landauer, ‚Gustav 6.5.49 30.Todestag (Buber)
+Landauer,Gustav 6.5.49 30.Todestag (Buber)
 8.5.59 1870-1919 (H.T.)
 
 Landowska,l/anda (Musik) 4.9.59 Nachruf
@@ -1757,7 +1757,7 @@ Loewe ‚Theodor 39/1950 9.
 Löwenheim,Dr.Julius (Berlin) 8.5.42 Tod
 Löwenherz,Dr.Joseph(Wien) 4.7.41 Tod
 
-Löwenstein, (Peretz),Dr.Fritz Hoshe(KJV) 20.3.42 50
+Löwenstein,(Peretz),Dr.Fritz Hoshe(KJV) 20.3.42 50
 
 Löwenstein,Dr.Julius(Kf.Sirkin) 7.7.44 To
 1.3,46 Nachruf
@@ -2256,7 +2256,7 @@ Riesenfeld,Dr.Paul 43/1950 7o
 28.10.60 80
 
 d f Br)
-ee, a8. dass
+ee a8. dass
 + roman! la 17.2,61 8&o
 Romano,Dr.Marco 1,5.42 wachruf(Rir)
 
@@ -2476,7 +2476,7 @@ Schmitz,Dr.Siegefr. 21.3.41 Tod
 Schnabel,Arthur(Pianist) 34/1951 Nachruf
 Schnabel,Berta 28/1950 Nachruf
 
-Schneur, ,Salman 6.3.59 lachruf(Irlayer)
+Schneur,Salman 6.3.59 lachruf(Irlayer)
 Schneurson, Prof,Fischel 11.7.58 Nachruf
 
 Schnitzler,Arthur 46/1951 Nachlass AS(H.Schnitzler)
@@ -2958,7 +2958,7 @@ Weizmann,Prof.Chaim 14.11.52 Nachruf(Leitartikel) KL
 Plaut,Ebner)
 
 ls Blumenfeld FR . 42:53
-a, (Mentale), „(ek AL ALS
+a (Mentale), „(ek AL ALS
 Weldler,Norbert 39/1951 is Dienst an Israel
 
 Welt,Erni 27.10.61 60
@@ -3002,7 +3002,7 @@ Wise,Dr.Stephen 24,3,44 70
 
 Wittelshöfer,Fritz Josef 13,6.58 Nachruf
 Wittgenstein,Paul(Pianist) 24.3,61 Nachruf
-Wohlgemßth,Prof. Julius 10,3.44 7o
+Wohlgemßth,Prof.Julius 10,3.44 7o
 MB-Register -55-
 
 Wolf,Rabb.Dr.Pinchas Benedikt 11.3,55 8o
