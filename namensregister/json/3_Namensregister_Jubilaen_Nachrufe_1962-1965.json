@@ -1507,11 +1507,11 @@
     },
     "MBNR.3.PER.216": {
         "name": {
-            "first": "",
+            "first": "He",
             "last": "Heine"
         },
         "info": [
-            "He inrich FamilienHaggada 16.4.62 (Braun)",
+            "inrich FamilienHaggada 16.4.62 (Braun)",
             "Brunnen in M\u00fcnchen 5.10.62",
             "Briefe 17.lo.62",
             "s.Brief W\u00f6rmann \u00fcb.Strich 27.9.63",
@@ -2044,11 +2044,11 @@
     },
     "MBNR.3.PER.303": {
         "name": {
-            "first": "",
+            "first": "David",
             "last": "Klinghoffer"
         },
         "info": [
-            "David Nachr. 7.2.64 (ZKr)KMpfxkrxKKrrjrx?5xi2xix\u00a32"
+            "Nachr. 7.2.64 (ZKr)KMpfxkrxKKrrjrx?5xi2xix\u00a32"
         ]
     },
     "MBNR.3.PER.304": {
@@ -2535,11 +2535,12 @@
     },
     "MBNR.3.PER.377": {
         "name": {
-            "first": "",
+            "first": "Erich",
             "last": "L\u00fcth"
         },
         "info": [
-            "Erich( geb. 19o2)60: 31.1.64(irr)",
+            "(",
+            "geb. 19o2)60: 31.1.64(irr)",
             "\"MB\" 1962/65 -13-",
             "Maimon(Raw)j.L. Nachr.20.7.62"
         ]
@@ -3313,11 +3314,12 @@
     },
     "MBNR.3.PER.483": {
         "name": {
-            "first": "",
+            "title": "Dr.",
+            "first": "Martin",
             "last": "Rosenbliith"
         },
         "info": [
-            "Dr.Martin Nachr.l2.7.63/19.7.63(SN)"
+            "Nachr.l2.7.63/19.7.63(SN)"
         ]
     },
     "MBNR.3.PER.484": {
@@ -3872,11 +3874,12 @@
     },
     "MBNR.3.PER.555": {
         "name": {
-            "first": "",
+            "title": "Dr.",
+            "first": "Ernest",
             "last": "Sterng&jlss"
         },
         "info": [
-            "Dr. Ernest J. W\u00fcrdigung 26.4.63(Baumgardt)"
+            "J. W\u00fcrdigung 26.4.63(Baumgardt)"
         ]
     },
     "MBNR.3.PER.556": {

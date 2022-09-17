@@ -1,11 +1,12 @@
 {
     "MBNR.10.PER.1": {
         "name": {
-            "first": "",
+            "first": "Rivka",
             "last": "Ahronson"
         },
         "info": [
-            "Rivka(\"Nili\") Nachruf. 28.8.81",
+            "(\"Nili\")",
+            "Nachruf. 28.8.81",
             "Alt\u0131nann Prof.Alexander 715 (Fr. Bamberger) 17.4.81 /el._ 6.6:498 7. _"
         ]
     },
@@ -94,11 +95,11 @@
     },
     "MBNR.10.PER.12": {
         "name": {
-            "first": "",
+            "first": "Miriam",
             "last": "Ben-David"
         },
         "info": [
-            "Miriam Todesanzeige 5.11.82"
+            "Todesanzeige 5.11.82"
         ]
     },
     "MBNR.10.PER.13": {
@@ -213,11 +214,11 @@
     },
     "MBNR.10.PER.31": {
         "name": {
-            "first": "",
+            "first": "Jona",
             "last": "Ettlinger"
         },
         "info": [
-            "Jona Todesanz. 3.7.81"
+            "Todesanz. 3.7.81"
         ]
     },
     "MBNR.10.PER.32": {
@@ -363,11 +364,13 @@
     },
     "MBNR.10.PER.52": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "Alfred",
             "last": "Haverkamp"
         },
         "info": [
-            "Prof.Alfred(Hrsg):Juden im ma-Deutezchld.Rez. J\u00fctte.1.10.82",
+            "(Hrsg):Juden",
+            "im ma-Deutezchld.Rez. J\u00fctte.1.10.82",
             "10G Hitachdut\u00fclej\u00dfermania 50 Jahre",
             ":Anzeigeshistor.Haterial perucht %0.3.81",
             ": Capell 12.3.82"
@@ -386,29 +389,29 @@
     },
     "MBNR.10.PER.59": {
         "name": {
-            "first": "",
+            "first": "Emmy",
             "last": "lirschberg"
         },
         "info": [
-            "Emmy Toderanz. 7.8.81"
+            "Toderanz. 7.8.81"
         ]
     },
     "MBNR.10.PER.60": {
         "name": {
-            "first": "",
+            "first": "Fritz",
             "last": "Hirschmann"
         },
         "info": [
-            "Fritz llachr.N.Prinz 17.7.8"
+            "llachr.N.Prinz 17.7.8"
         ]
     },
     "MBNR.10.PER.61": {
         "name": {
-            "first": "",
+            "first": "Joseph",
             "last": "Hirshhorn"
         },
         "info": [
-            "Joseph (N.Y.)!achr,16.10.81",
+            "(N.Y.)!achr,16.10.81",
             "HOCHSCHULE f.JUD.STUDIEN-Heidelberg 14.8.81"
         ]
     },
@@ -435,11 +438,11 @@
     },
     "MBNR.10.PER.67": {
         "name": {
-            "first": "",
+            "first": "Siegfr.1845-82",
             "last": "Isaacsohn"
         },
         "info": [
-            "Siegfr.1845-82 (Nadav)261.11.82"
+            "(Nadav)261.11.82"
         ]
     },
     "MBNR.10.PER.68": {
@@ -453,11 +456,11 @@
     },
     "MBNR.10.PER.69": {
         "name": {
-            "first": "",
+            "first": "Elfriede",
             "last": "Jakobson"
         },
         "info": [
-            "Elfriede Todesanz.13.2.01"
+            "Todesanz.13.2.01"
         ]
     },
     "MBNR.10.PER.70": {
@@ -473,11 +476,11 @@
     },
     "MBNR.10.PER.72": {
         "name": {
-            "first": "",
+            "first": "Rarbara:",
             "last": "Just-Dahlmann"
         },
         "info": [
-            "Rarbara: JUd.Dichtg n.Auschwitz rez.ES 9.1.81",
+            "JUd.Dichtg n.Auschwitz rez.ES 9.1.81",
             "(Mp-Personalia 4981/82 - 3 - )",
             "KJV -KartellJUd.Verbindungen \u201aTagung 11;0,82",
             "KEL-Kgren Kayeng\u00dft 2.09, upnrelFresden) 312."
@@ -504,29 +507,29 @@
     },
     "MBNR.10.PER.78": {
         "name": {
-            "first": "",
+            "first": "Gideon",
             "last": "Kaminka"
         },
         "info": [
-            "Gideon :Haifa 1943 6.5.81"
+            ":Haifa 1943 6.5.81"
         ]
     },
     "MBNR.10.PER.79": {
         "name": {
-            "first": "",
+            "first": "Willian:",
             "last": "Katz"
         },
         "info": [
-            "Willian: J\u00fcd.-dt.Leben.rez.Capell 16.10.81"
+            "J\u00fcd.-dt.Leben.rez.Capell 16.10.81"
         ]
     },
     "MBNR.10.PER.80": {
         "name": {
-            "first": "",
+            "first": "Hilde",
             "last": "Katzenstein"
         },
         "info": [
-            "Hilde Todesanz. 12.3.82"
+            "Todesanz. 12.3.82"
         ]
     },
     "MBNR.10.PER.81": {
@@ -541,11 +544,11 @@
     },
     "MBNR.10.PER.83": {
         "name": {
-            "first": "",
+            "first": "Henry",
             "last": "Kissinger"
         },
         "info": [
-            "Henry Memoiren rez. J.1-.Bl"
+            "Memoiren rez. J.1-.Bl"
         ]
     },
     "MBNR.10.PER.84": {
@@ -609,40 +612,41 @@
     },
     "MBNR.10.PER.103": {
         "name": {
-            "first": "",
+            "first": "jalter",
             "last": "Lippmann"
         },
         "info": [
-            "jalter(J\u00fcd.telbsthass) Gottgetreu 27.2.81",
+            "(J\u00fcd.telbsthass)",
+            "Gottgetreu 27.2.81",
             "Liton( Lichtenstein) Dr. Judith lachr.5.2.82",
             "1#wenstein(geb.Lustig)Renate fodesanz.31.7.81"
         ]
     },
     "MBNR.10.PER.106": {
         "name": {
-            "first": "",
+            "first": "Emil",
             "last": "Ludwig"
         },
         "info": [
-            "Emil 100.Geburtstag(Gottgetreu) 23,1,.81"
+            "100.Geburtstag(Gottgetreu) 23,1,.81"
         ]
     },
     "MBNR.10.PER.107": {
         "name": {
-            "first": "",
+            "first": "Josef",
             "last": "Hlahrer"
         },
         "info": [
-            "Josef 80 (Eaminka) 24.7.81"
+            "80 (Eaminka) 24.7.81"
         ]
     },
     "MBNR.10.PER.108": {
         "name": {
-            "first": "",
+            "first": "Thomas",
             "last": "Wann"
         },
         "info": [
-            "Thomas",
+            "",
             "\"Raustus\"-Vorlesg st.lloses( Tobias) 3.4.81",
             "\"Zauberberg\" Film 14.8.8"
         ]
@@ -671,11 +675,11 @@
     },
     "MBNR.10.PER.116": {
         "name": {
-            "first": "",
+            "first": "Luise",
             "last": "Kenrdelsohn"
         },
         "info": [
-            "Luise Nachrufnotiz 30.1.8"
+            "Nachrufnotiz 30.1.8"
         ]
     },
     "MBNR.10.PER.117": {
@@ -719,11 +723,11 @@
     },
     "MBNR.10.PER.121": {
         "name": {
-            "first": "",
+            "first": "via",
             "last": "Nachmansohn"
         },
         "info": [
-            "via Dt. jud. Pioniere\" rez.J.Leibowitz 25.9.81"
+            "Dt. jud. Pioniere\" rez.J.Leibowitz 25.9.81"
         ]
     },
     "MBNR.10.PER.122": {
@@ -738,11 +742,12 @@
     },
     "MBNR.10.PER.123": {
         "name": {
-            "first": "",
+            "first": "Anni",
             "last": "Neumann"
         },
         "info": [
-            "Anni(lialerin 1906/55) 27.2.81"
+            "(lialerin",
+            "1906/55) 27.2.81"
         ]
     },
     "MBNR.10.PER.124": {
@@ -757,11 +762,11 @@
     },
     "MBNR.10.PER.125": {
         "name": {
-            "first": "",
+            "first": "Moritz",
             "last": "Oppenheim"
         },
         "info": [
-            "Moritz Daniel(1799-1882) Rothschild 19.2.82"
+            "Daniel(1799-1882) Rothschild 19.2.82"
         ]
     },
     "MBNR.10.PER.126": {
@@ -803,38 +808,40 @@
     },
     "MBNR.10.PER.131": {
         "name": {
-            "first": "",
+            "first": "walther",
             "last": "Rathenau"
         },
         "info": [
-            "walther(JUd.Selbsthass)Gottgetreu lern Bl"
+            "(JUd.Selbsthass)Gottgetreu",
+            "lern Bl"
         ]
     },
     "MBNR.10.PER.132": {
         "name": {
-            "first": "",
+            "first": "Yehuda",
             "last": "Reinharz"
         },
         "info": [
-            "Yehuda \"Dok.2.Gesch.d.dt.Zionicmus\" (H.Gross) 5.4.82"
+            "\"Dok.2.Gesch.d.dt.Zionicmus\" (H.Gross) 5.4.82"
         ]
     },
     "MBNR.10.PER.133": {
         "name": {
-            "first": "",
+            "first": "erner",
             "last": "R\u00f6der"
         },
         "info": [
-            "erner( [Irsg) Biog.Handb.d.Emigration 7.8.01"
+            "(",
+            "[Irsg) Biog.Handb.d.Emigration 7.8.01"
         ]
     },
     "MBNR.10.PER.134": {
         "name": {
-            "first": "",
+            "first": "Arthur",
             "last": "Rubinstein"
         },
         "info": [
-            "Arthur Nachruf 24.12.82"
+            "Nachruf 24.12.82"
         ]
     },
     "MBNR.10.PER.135": {
@@ -858,11 +865,11 @@
     },
     "MBNR.10.PER.137": {
         "name": {
-            "first": "",
+            "first": "Julius",
             "last": "Sachs"
         },
         "info": [
-            "Julius Nachr.19.11.82"
+            "Nachr.19.11.82"
         ]
     },
     "MBNR.10.PER.138": {
@@ -896,20 +903,20 @@
     },
     "MBNR.10.PER.141": {
         "name": {
-            "first": "",
+            "first": "Walter",
             "last": "Schelitzer"
         },
         "info": [
-            "Walter tachr.Atlasz 19.11.32"
+            "tachr.Atlasz 19.11.32"
         ]
     },
     "MBNR.10.PER.142": {
         "name": {
-            "first": "",
+            "first": "Alfred",
             "last": "Scherek"
         },
         "info": [
-            "Alfred schloschim.. 19.3.82"
+            "schloschim.. 19.3.82"
         ]
     },
     "MBNR.10.PER.143": {
@@ -932,20 +939,21 @@
     },
     "MBNR.10.PER.145": {
         "name": {
-            "first": "",
+            "first": "Gershom",
             "last": "Schocken"
         },
         "info": [
-            "Gershom 70 RW 1.10.82"
+            "70 RW 1.10.82"
         ]
     },
     "MBNR.10.PER.146": {
         "name": {
-            "first": "",
+            "first": "Prof,.Gershom",
             "last": "Scholen"
         },
         "info": [
-            "Prof,.Gershom(Tavor 1977 z.80.Gehurtstg,hier els Nachruf)26.2.82",
+            "(Tavor",
+            "1977 z.80.Gehurtstg,hier els Nachruf)26.2.82",
             "\u201c \" uft 5.3.82"
         ]
     },
@@ -1018,20 +1026,20 @@
     },
     "MBNR.10.PER.156": {
         "name": {
-            "first": "",
+            "first": "Selma",
             "last": "Stern-T4ubler"
         },
         "info": [
-            "Selma llachr.Grueneswald 11.9.81"
+            "llachr.Grueneswald 11.9.81"
         ]
     },
     "MBNR.10.PER.157": {
         "name": {
-            "first": "",
+            "first": "Dr,",
             "last": "Sternberg"
         },
         "info": [
-            "Dr, Sinai, Neswoiren( Tobias) 9.7.82"
+            "Sinai, Neswoiren( Tobias) 9.7.82"
         ]
     },
     "MBNR.10.PER.158": {
@@ -1102,21 +1110,21 @@
     },
     "MBNR.10.PER.165": {
         "name": {
-            "first": "",
+            "first": "Raoul-Afffe",
             "last": "Wallenberg"
         },
         "info": [
-            "Raoul-Afffe Gottgetreu 16.1.21",
+            "Gottgetreu 16.1.21",
             "Warburgs v.Altona:Biogr.iienzel rez.Gottgetreu 16.10.21"
         ]
     },
     "MBNR.10.PER.167": {
         "name": {
-            "first": "",
+            "first": "Frederic",
             "last": "warburg"
         },
         "info": [
-            "Frederic liachr.E6L 10.7.8"
+            "liachr.E6L 10.7.8"
         ]
     },
     "MBNR.10.PER.168": {
@@ -1131,11 +1139,11 @@
     },
     "MBNR.10.PER.169": {
         "name": {
-            "first": "",
+            "first": "Shmuel",
             "last": "Weintraub"
         },
         "info": [
-            "Shmuel Traueranz. 5.6.81"
+            "Traueranz. 5.6.81"
         ]
     },
     "MBNR.10.PER.170": {

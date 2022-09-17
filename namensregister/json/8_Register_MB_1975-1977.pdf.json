@@ -59,11 +59,11 @@
     },
     "MBNR.8.PER.15": {
         "name": {
-            "first": "",
+            "first": "liaymond",
             "last": "Aron"
         },
         "info": [
-            "liaymond Todesnachricht 2,5,75"
+            "Todesnachricht 2,5,75"
         ]
     },
     "MBNR.8.PER.16": {
@@ -118,11 +118,12 @@
     },
     "MBNR.8.PER.24": {
         "name": {
-            "first": "",
+            "first": "Alexander",
             "last": "Baerwald"
         },
         "info": [
-            "Alexander(architekt) l0o00.Geburtstag(L.C.) 13.5,77"
+            "(architekt)",
+            "l0o00.Geburtstag(L.C.) 13.5,77"
         ]
     },
     "MBNR.8.PER.25": {
@@ -146,11 +147,11 @@
     },
     "MBNR.8.PER.27": {
         "name": {
-            "first": "",
+            "first": "Frof.",
             "last": "Bargebuhr"
         },
         "info": [
-            "Frof. Frederick B. kez.ibnGabirol(BenChorin) 20.5.77"
+            "Frederick B. kez.ibnGabirol(BenChorin) 20.5.77"
         ]
     },
     "MBNR.8.PER.28": {
@@ -192,11 +193,11 @@
     },
     "MBNR.8.PER.32": {
         "name": {
-            "first": "",
+            "first": "Saul",
             "last": "Bellow"
         },
         "info": [
-            "Saul kez.\"Ilumboldt\" 10.10.75",
+            "kez.\"Ilumboldt\" 10.10.75",
             "Nobel:reis (HT) 5.11.76",
             "kez.Jerusalembuch (kanowitz) 1.4.77"
         ]
@@ -213,11 +214,11 @@
     },
     "MBNR.8.PER.36": {
         "name": {
-            "first": "",
+            "first": "Paul",
             "last": "Ben-Haim"
         },
         "info": [
-            "Paul (Komponist) 80 (Gradenwitz) 1.7.77",
+            "(Komponist) 80 (Gradenwitz) 1.7.77",
             "Al sa",
             "( MB-REGISTER 1975/77 -2- )"
         ]
@@ -242,11 +243,12 @@
     },
     "MBNR.8.PER.41": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "lugo",
             "last": "Bergman"
         },
         "info": [
-            "Prof.lugo S. Nachruf(gest.18.6.)(HT) 27.6.75",
+            "S. Nachruf(gest.18.6.)(HT) 27.6.75",
             "Brief an Dr.k.schwager 5.9.75",
             "Freundschaft mit R.Weltsch 13.6.75"
         ]
@@ -300,11 +302,11 @@
     },
     "MBNR.8.PER.50": {
         "name": {
-            "first": "",
+            "first": "Iomanuel",
             "last": "Birnbaun"
         },
         "info": [
-            "Iomanuel Rez,.Erinnerungen (Lichtenstein) 14.3.75"
+            "Rez,.Erinnerungen (Lichtenstein) 14.3.75"
         ]
     },
     "MBNR.8.PER.51": {
@@ -347,11 +349,11 @@
     },
     "MBNR.8.PER.56": {
         "name": {
-            "first": "",
+            "first": "Frof.Franz",
             "last": "B\u00f6hm"
         },
         "info": [
-            "Frof.Franz 80 (ECL) 21.2.75",
+            "80 (ECL) 21.2.75",
             "\u201cachruf HT 14.10.77"
         ]
     },
@@ -444,11 +446,11 @@
     },
     "MBNR.8.PER.71": {
         "name": {
-            "first": "",
+            "first": "Benno",
             "last": "Cohn"
         },
         "info": [
-            "Benno lachruf UT 23.11.75",
+            "lachruf UT 23.11.75",
             "zu schloschim(Capell) 26.12.75",
             "hachruf Gerling 2.1.76",
             "Gedenkfeier Tel Jizchak 14.1.77"
@@ -456,29 +458,29 @@
     },
     "MBNR.8.PER.75": {
         "name": {
-            "first": "",
+            "first": "Julius",
             "last": "Cohn"
         },
         "info": [
-            "Julius iBerlin?) Todesanzeige 23.1.76"
+            "iBerlin?) Todesanzeige 23.1.76"
         ]
     },
     "MBNR.8.PER.76": {
         "name": {
-            "first": "",
+            "first": "Nilhelm",
             "last": "Coh(e)n"
         },
         "info": [
-            "Nilhelm Seew Aus Erinnerungen 30.12.77"
+            "Seew Aus Erinnerungen 30.12.77"
         ]
     },
     "MBNR.8.PER.77": {
         "name": {
-            "first": "",
+            "first": "hilly",
             "last": "Cohn"
         },
         "info": [
-            "hilly Israel(Breslau) Rez. Tagebuch (Tobias) 23.1.76"
+            "Israel(Breslau) Rez. Tagebuch (Tobias) 23.1.76"
         ]
     },
     "MBNR.8.PER.78": {
@@ -493,20 +495,21 @@
     },
     "MBNR.8.PER.80": {
         "name": {
-            "first": "",
+            "first": "Jizchak",
             "last": "Danziger"
         },
         "info": [
-            "Jizchak(Bildhauer) lachruf(ER) 22.7.77"
+            "(Bildhauer)",
+            "lachruf(ER) 22.7.77"
         ]
     },
     "MBNR.8.PER.81": {
         "name": {
-            "first": "",
+            "first": "lioshe",
             "last": "Dayan"
         },
         "info": [
-            "lioshe Rez.ilenoiren(lavor) 1.10.76"
+            "Rez.ilenoiren(lavor) 1.10.76"
         ]
     },
     "MBNR.8.PER.82": {
@@ -587,11 +590,12 @@
     },
     "MBNR.8.PER.93": {
         "name": {
-            "first": "",
+            "first": "Sanuel",
             "last": "Echt"
         },
         "info": [
-            "Sanuel(aus banzir) Todesnachricht 23.2.75"
+            "(aus",
+            "banzir) Todesnachricht 23.2.75"
         ]
     },
     "MBNR.8.PER.94": {
@@ -714,11 +718,11 @@
     },
     "MBNR.8.PER.114": {
         "name": {
-            "first": "",
+            "first": "Ismar",
             "last": "Freund"
         },
         "info": [
-            "Ismar loo,.Geburtstag 14.4.76"
+            "loo,.Geburtstag 14.4.76"
         ]
     },
     "MBNR.8.PER.115": {
@@ -804,11 +808,11 @@
     },
     "MBNR.8.PER.128": {
         "name": {
-            "first": "",
+            "first": "dr.",
             "last": "Goldstein"
         },
         "info": [
-            "dr. \u00aboritz 95 (ER.) 11.475",
+            "\u00aboritz 95 (ER.) 11.475",
             "Zuschri.t br,Schwaser 2.5.75",
             "Nachruf (E.R.) 30.93.77"
         ]
@@ -851,11 +855,11 @@
     },
     "MBNR.8.PER.135": {
         "name": {
-            "first": "",
+            "first": "Sammy",
             "last": "Gronemann"
         },
         "info": [
-            "Sammy loo.Geburtstag(Geis) 28.2.75",
+            "loo.Geburtstag(Geis) 28.2.75",
             "dazu Leserbriefe 14.3.75",
             "Verlagsnotiz Moadim 11.4.75",
             "Anekdoten 14.5.76",
@@ -999,11 +1003,11 @@
     },
     "MBNR.8.PER.157": {
         "name": {
-            "first": "",
+            "first": "loses",
             "last": "Hess"
         },
         "info": [
-            "loses loo.iolestag (Tobias) 26.3.75 /5/",
+            "loo.iolestag (Tobias) 26.3.75 /5/",
             "(B-WEGISUER 1975/77 -5-)",
             "Hesse \u201aHermann 100, Geburtstag 1.7.77",
             "s.u.rostune arfulge 12,9.77"
@@ -1029,11 +1033,12 @@
     },
     "MBNR.8.PER.163": {
         "name": {
-            "first": "",
+            "first": "kritz",
             "last": "Hirschmann"
         },
         "info": [
-            "kritz(Haifa) 75 23.12.77"
+            "(Haifa)",
+            "75 23.12.77"
         ]
     },
     "MBNR.8.PER.164": {
@@ -1048,20 +1053,20 @@
     },
     "MBNR.8.PER.166": {
         "name": {
-            "first": "",
+            "first": "la",
             "last": "Holder-laube"
         },
         "info": [
-            "la chel nachruf 14.2.75"
+            "chel nachruf 14.2.75"
         ]
     },
     "MBNR.8.PER.167": {
         "name": {
-            "first": "",
+            "first": "Friedrich",
             "last": "Hollaender"
         },
         "info": [
-            "Friedrich (Schlarerkomp\u00e4nist) nachruf 30.1.76"
+            "(Schlarerkomp\u00e4nist) nachruf 30.1.76"
         ]
     },
     "MBNR.8.PER.168": {
@@ -1134,11 +1139,12 @@
     },
     "MBNR.8.PER.177": {
         "name": {
-            "first": "",
+            "first": "Frantisck",
             "last": "Kafka"
         },
         "info": [
-            "Frantisck(Prager Geweindevorsitzender) 18.4.75"
+            "(Prager",
+            "Geweindevorsitzender) 18.4.75"
         ]
     },
     "MBNR.8.PER.178": {
@@ -1179,11 +1185,11 @@
     },
     "MBNR.8.PER.182": {
         "name": {
-            "first": "",
+            "first": "Josef",
             "last": "Kastein"
         },
         "info": [
-            "Josef Biographisches (Dreyer) 28.1.77",
+            "Biographisches (Dreyer) 28.1.77",
             "2. 938.12:34)"
         ]
     },
@@ -1236,11 +1242,11 @@
     },
     "MBNR.8.PER.190": {
         "name": {
-            "first": "",
+            "first": "Justin",
             "last": "Kleemann"
         },
         "info": [
-            "Justin -[odesanzeige 24.12.76",
+            "-[odesanzeige 24.12.76",
             "schloschiw(Finner) 14.1.77"
         ]
     },
@@ -1257,11 +1263,11 @@
     },
     "MBNR.8.PER.194": {
         "name": {
-            "first": "",
+            "first": "Oskar",
             "last": "Kokoschla"
         },
         "info": [
-            "Oskar 90 (Strauss) 21.5.76"
+            "90 (Strauss) 21.5.76"
         ]
     },
     "MBNR.8.PER.195": {
@@ -1417,11 +1423,11 @@
     },
     "MBNR.8.PER.220": {
         "name": {
-            "first": "",
+            "first": "Ferdinand",
             "last": "Lassalle"
         },
         "info": [
-            "Ferdinand 150.Geburtstag(EG) 26.3.75",
+            "150.Geburtstag(EG) 26.3.75",
             "Grab in Breslau 25.6.76"
         ]
     },
@@ -1446,11 +1452,11 @@
     },
     "MBNR.8.PER.224": {
         "name": {
-            "first": "",
+            "first": "kudolf",
             "last": "Lehmann"
         },
         "info": [
-            "kudolf (Bildhauer) iachruf LCohn 4.3.77",
+            "(Bildhauer) iachruf LCohn 4.3.77",
             "Leo Baeck Institut 20 Jahre (Ru,Cinat) 9.5.75"
         ]
     },
@@ -1484,11 +1490,11 @@
     },
     "MBNR.8.PER.229": {
         "name": {
-            "first": "",
+            "first": "Fritz",
             "last": "Lewinson"
         },
         "info": [
-            "Fritz A, 70  21.5.76"
+            "A, 70  21.5.76"
         ]
     },
     "MBNR.8.PER.230": {
@@ -1513,11 +1519,11 @@
     },
     "MBNR.8.PER.232": {
         "name": {
-            "first": "",
+            "first": "Frof,kax",
             "last": "Liebermann"
         },
         "info": [
-            "Frof,kax s.Artikel ib,Paul Landau 19.3.7656"
+            "s.Artikel ib,Paul Landau 19.3.7656"
         ]
     },
     "MBNR.8.PER.233": {
@@ -1610,11 +1616,11 @@
     },
     "MBNR.8.PER.245": {
         "name": {
-            "first": "",
+            "first": "Jakob",
             "last": "Kaimon"
         },
         "info": [
-            "Jakob (Stenograph) (MG) 5.3.76"
+            "(Stenograph) (MG) 5.3.76"
         ]
     },
     "MBNR.8.PER.246": {
@@ -1853,11 +1859,11 @@
     },
     "MBNR.8.PER.291": {
         "name": {
-            "first": "",
+            "first": "Prof,David",
             "last": "Nachaanscohn"
         },
         "info": [
-            "Prof,David Ref,.ioses-iiemorial Lecture 10.12.76",
+            "Ref,.ioses-iiemorial Lecture 10.12.76",
             "Naharia 40 Jahre 9.5475"
         ]
     },
@@ -2131,11 +2137,12 @@
     },
     "MBNR.8.PER.325": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "Israel",
             "last": "Reichert"
         },
         "info": [
-            "Prof.Israel Nachruf E.R, 5,975"
+            "Nachruf E.R, 5,975"
         ]
     },
     "MBNR.8.PER.326": {
@@ -2245,11 +2252,11 @@
     },
     "MBNR.8.PER.339": {
         "name": {
-            "first": "",
+            "first": "James",
             "last": "Rosenthal"
         },
         "info": [
-            "James Jacob T\u00fc(Lilienfeld) 12.9.75"
+            "Jacob T\u00fc(Lilienfeld) 12.9.75"
         ]
     },
     "MBNR.8.PER.340": {
@@ -2272,11 +2279,11 @@
     },
     "MBNR.8.PER.342": {
         "name": {
-            "first": "",
+            "first": "Franz",
             "last": "Rosenzweig"
         },
         "info": [
-            "Franz (90.Geburtstax,(Benchorin) 24.12.76"
+            "(90.Geburtstax,(Benchorin) 24.12.76"
         ]
     },
     "MBNR.8.PER.343": {
@@ -2421,11 +2428,11 @@
     },
     "MBNR.8.PER.360": {
         "name": {
-            "first": "",
+            "first": "Gershom",
             "last": "Scholem"
         },
         "info": [
-            "Gershom Freundschaft m,\\i,Benianin HT 20.2.76",
+            "Freundschaft m,\\i,Benianin HT 20.2.76",
             "kez.Studien(fohias) 30.7.76",
             "80 HT 2",
             "\"\" 1,.Cohn 316:32,.77"
@@ -2444,11 +2451,11 @@
     },
     "MBNR.8.PER.367": {
         "name": {
-            "first": "",
+            "first": "Dimitri",
             "last": "Schostakowitsch"
         },
         "info": [
-            "Dimitri \u00fcachruf 22.28.75"
+            "\u00fcachruf 22.28.75"
         ]
     },
     "MBNR.8.PER.368": {
@@ -2519,11 +2526,11 @@
     },
     "MBNR.8.PER.375": {
         "name": {
-            "first": "",
+            "first": "rrof.&.A.",
             "last": "Simon"
         },
         "info": [
-            "rrof.&.A. Brief Rx \u00fcber Ss, 14.10.77"
+            "Brief Rx \u00fcber Ss, 14.10.77"
         ]
     },
     "MBNR.8.PER.376": {
@@ -2540,11 +2547,11 @@
     },
     "MBNR.8.PER.379": {
         "name": {
-            "first": "",
+            "first": "\u0131iax",
             "last": "Sinasohn"
         },
         "info": [
-            "\u0131iax ii. (Lehrer) /ff 90 (PR) 18.11.77"
+            "ii. (Lehrer) /ff 90 (PR) 18.11.77"
         ]
     },
     "MBNR.8.PER.380": {
@@ -2638,11 +2645,11 @@
     },
     "MBNR.8.PER.393": {
         "name": {
-            "first": "",
+            "first": "Baruch",
             "last": "Talonn(%olffenstein)"
         },
         "info": [
-            "Baruch B. Todesanzeige 13.56.75"
+            "B. Todesanzeige 13.56.75"
         ]
     },
     "MBNR.8.PER.394": {
@@ -2668,11 +2675,11 @@
     },
     "MBNR.8.PER.397": {
         "name": {
-            "first": "",
+            "first": "Ernst",
             "last": "Techow"
         },
         "info": [
-            "Ernst (Rathenau-ii\u00f6rder)(Freeden) 31.1.75"
+            "(Rathenau-ii\u00f6rder)(Freeden) 31.1.75"
         ]
     },
     "MBNR.8.PER.398": {
@@ -2790,11 +2797,12 @@
     },
     "MBNR.8.PER.413": {
         "name": {
-            "first": "",
+            "first": "\u00fc\u00f6lischewa",
             "last": "Weihe"
         },
         "info": [
-            "\u00fc\u00f6lischewa(ilaharia) 80 3.8.75"
+            "(ilaharia)",
+            "80 3.8.75"
         ]
     },
     "MBNR.8.PER.414": {

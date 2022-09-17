@@ -19,11 +19,11 @@
     },
     "MBNR.9.PER.13": {
         "name": {
-            "first": "",
+            "first": "rledrich",
             "last": "Aller"
         },
         "info": [
-            "rledrich serv(jalfa)\u013190 17.8.79"
+            "serv(jalfa)\u013190 17.8.79"
         ]
     },
     "MBNR.9.PER.14": {
@@ -38,20 +38,21 @@
     },
     "MBNR.9.PER.16": {
         "name": {
-            "first": "",
+            "first": "Yigal",
             "last": "Allon"
         },
         "info": [
-            "Yigal(Minister:Tode: nachricht 1,3,00"
+            "(Minister:Tode:",
+            "nachricht 1,3,00"
         ]
     },
     "MBNR.9.PER.17": {
         "name": {
-            "first": "",
+            "first": "K\u00e4the:",
             "last": "Andorn"
         },
         "info": [
-            "K\u00e4the: Todesnnreire 8.0.80"
+            "Todesnnreire 8.0.80"
         ]
     },
     "MBNR.9.PER.18": {
@@ -74,11 +75,11 @@
     },
     "MBNR.9.PER.20": {
         "name": {
-            "first": "",
+            "first": "Frof",
             "last": "Arnon"
         },
         "info": [
-            "Frof .Ruth(keizm nn-Instit.):Robert-Foch-Ireis 1.2.80"
+            ".Ruth(keizm nn-Instit.):Robert-Foch-Ireis 1.2.80"
         ]
     },
     "MBNR.9.PER.21": {
@@ -92,11 +93,12 @@
     },
     "MBNR.9.PER.22": {
         "name": {
-            "first": "",
+            "first": "schalon:100.Gchurtstag",
             "last": "Asch"
         },
         "info": [
-            "schalon:100.Gchurtstag(Tobias) 11,1,86"
+            "(Tobias)",
+            "11,1,86"
         ]
     },
     "MBNR.9.PER.23": {
@@ -129,11 +131,11 @@
     },
     "MBNR.9.PER.26": {
         "name": {
-            "first": "",
+            "first": "Erna",
             "last": "Bach"
         },
         "info": [
-            "Erna : Todesanzeige 4.9.78"
+            ": Todesanzeige 4.9.78"
         ]
     },
     "MBNR.9.PER.27": {
@@ -179,11 +181,12 @@
     },
     "MBNR.9.PER.34": {
         "name": {
-            "first": "",
+            "title": "Dr.",
+            "first": "Alex",
             "last": "Bein"
         },
         "info": [
-            "Dr.Alex :75 (Gottretreu) 10.2.78",
+            ":75 (Gottretreu) 10.2.78",
             "N \u201aDie Julenfrape\" Rez.Toblas 5.9.80"
         ]
     },
@@ -198,11 +201,11 @@
     },
     "MBNR.9.PER.37": {
         "name": {
-            "first": "",
+            "first": "Elljam\u0131:\"Verschw\u00f6rung",
             "last": "Ben-klissar"
         },
         "info": [
-            "Elljam\u0131:\"Verschw\u00f6rung 2. Vernichtung\" Rez.Capell 8.6.79"
+            "2. Vernichtung\" Rez.Capell 8.6.79"
         ]
     },
     "MBNR.9.PER.38": {
@@ -246,11 +249,11 @@
     },
     "MBNR.9.PER.44": {
         "name": {
-            "first": "",
+            "first": "ilisebeth:filmt",
             "last": "Berner"
         },
         "info": [
-            "ilisebeth:filmt in Rorlin 21.7.78"
+            "in Rorlin 21.7.78"
         ]
     },
     "MBNR.9.PER.45": {
@@ -277,11 +280,11 @@
     },
     "MBNR.9.PER.51": {
         "name": {
-            "first": "",
+            "first": "Fax",
             "last": "Birnhbaum"
         },
         "info": [
-            "Fax F.: 75 14.11.80"
+            "F.: 75 14.11.80"
         ]
     },
     "MBNR.9.PER.52": {
@@ -305,11 +308,12 @@
     },
     "MBNR.9.PER.54": {
         "name": {
-            "first": "",
+            "first": "irmst",
             "last": "Bloch"
         },
         "info": [
-            "irmst(komponist) 1loo.Geburtstag(Graden\u00bbitz) 8.8.80"
+            "(komponist)",
+            "1loo.Geburtstag(Graden\u00bbitz) 8.8.80"
         ]
     },
     "MBNR.9.PER.55": {
@@ -323,21 +327,21 @@
     },
     "MBNR.9.PER.56": {
         "name": {
-            "first": "",
+            "first": "Flora:Todesanzeire",
             "last": "Blumenthal"
         },
         "info": [
-            "Flora:Todesanzeire 30,6,73",
+            "30,6,73",
             "Rone \u201aHermann (Kinderheimleiter):Tolesanzeipe 23.5.R0"
         ]
     },
     "MBNR.9.PER.58": {
         "name": {
-            "first": "",
+            "first": "Rahb,.Dr.",
             "last": "Breuer"
         },
         "info": [
-            "Rahb,.Dr. Toseph:Tolesnachricht 2,5,80"
+            "Toseph:Tolesnachricht 2,5,80"
         ]
     },
     "MBNR.9.PER.59": {
@@ -448,20 +452,20 @@
     },
     "MBNR.9.PER.82": {
         "name": {
-            "first": "",
+            "first": "ker",
             "last": "Cohen"
         },
         "info": [
-            "ker Frof.ilrrmenn ;Neuauspabe (IT) 15.9.78"
+            "Frof.ilrrmenn ;Neuauspabe (IT) 15.9.78"
         ]
     },
     "MBNR.9.PER.83": {
         "name": {
-            "first": "",
+            "first": "Benno",
             "last": "Cohn"
         },
         "info": [
-            "Benno :5,.Todestag(Capell) 19.12.80"
+            ":5,.Todestag(Capell) 19.12.80"
         ]
     },
     "MBNR.9.PER.84": {
@@ -522,11 +526,11 @@
     },
     "MBNR.9.PER.92": {
         "name": {
-            "first": "",
+            "first": "Albert",
             "last": "Rinstein"
         },
         "info": [
-            "Albert :loo-Jahr-Feiern 23,2,79",
+            ":loo-Jahr-Feiern 23,2,79",
             "\" 15.1. J1m. (Gottgetreu) 16.3.79",
             "\" \u201d :Stimmen zum F,-Jahr 23,3,79",
             "(\"KB\" 1976-1980 -3-)"
@@ -576,11 +580,11 @@
     },
     "MBNR.9.PER.103": {
         "name": {
-            "first": "",
+            "first": "siordechai",
             "last": "Feuerstein"
         },
         "info": [
-            "siordechai (Ihotograph) Ausstellungs 29.12.78"
+            "(Ihotograph) Ausstellungs 29.12.78"
         ]
     },
     "MBNR.9.PER.104": {
@@ -625,29 +629,30 @@
     },
     "MBNR.9.PER.112": {
         "name": {
-            "first": "",
+            "first": "Josef",
             "last": "Fr\u00f6hlich"
         },
         "info": [
-            "Josef(URO) :Tolesanzeige 8.12.78"
+            "(URO)",
+            ":Tolesanzeige 8.12.78"
         ]
     },
     "MBNR.9.PER.113": {
         "name": {
-            "first": "",
+            "first": "krich:",
             "last": "From"
         },
         "info": [
-            "krich: lelly-sachs-Freis 13.7.79"
+            "lelly-sachs-Freis 13.7.79"
         ]
     },
     "MBNR.9.PER.114": {
         "name": {
-            "first": "",
+            "first": "Kauan:Geschichte",
             "last": "Fryster(?)"
         },
         "info": [
-            "Kauan:Geschichte d.tauses Levy(Capell) 23.3,.80"
+            "d.tauses Levy(Capell) 23.3,.80"
         ]
     },
     "MBNR.9.PER.115": {
@@ -671,11 +676,12 @@
     },
     "MBNR.9.PER.117": {
         "name": {
-            "first": "",
+            "first": "Valeska",
             "last": "Gert"
         },
         "info": [
-            "Valeska(\u00fcnzerin) (N) 31.3.78"
+            "(\u00fcnzerin)",
+            "(N) 31.3.78"
         ]
     },
     "MBNR.9.PER.118": {
@@ -797,30 +803,30 @@
     },
     "MBNR.9.PER.135": {
         "name": {
-            "first": "",
+            "first": "Johannes:",
             "last": "Gutenberg"
         },
         "info": [
-            "Johannes: G.-Bibel zuriick in Kainz 24.3.78"
+            "G.-Bibel zuriick in Kainz 24.3.78"
         ]
     },
     "MBNR.9.PER.136": {
         "name": {
-            "first": "",
+            "first": "Frof,.Jullus:",
             "last": "Guttmann"
         },
         "info": [
-            "Frof,.Jullus: loo.Geburtstag(N.sonn) 18,.4.80",
+            "loo.Geburtstag(N.sonn) 18,.4.80",
             "(\"MR\" 1978-180  -4-)"
         ]
     },
     "MBNR.9.PER.138": {
         "name": {
-            "first": "",
+            "first": "Trof.Nerbert:",
             "last": "Hang"
         },
         "info": [
-            "Trof.Nerbert: \\iber AT,Rez.Ben-Chorin 27.4.79"
+            "\\iber AT,Rez.Ben-Chorin 27.4.79"
         ]
     },
     "MBNR.9.PER.139": {
@@ -864,29 +870,30 @@
     },
     "MBNR.9.PER.143": {
         "name": {
-            "first": "",
+            "first": "Emil",
             "last": "Hauser"
         },
         "info": [
-            "Emil(funiker) (N) Grrdenwitz 17.72.78"
+            "(funiker)",
+            "(N) Grrdenwitz 17.72.78"
         ]
     },
     "MBNR.9.PER.144": {
         "name": {
-            "first": "",
+            "first": "artin:Aus",
             "last": "Hauser"
         },
         "info": [
-            "artin:Aus a, Tarebuch 5.9.80"
+            "a, Tarebuch 5.9.80"
         ]
     },
     "MBNR.9.PER.145": {
         "name": {
-            "first": "",
+            "first": "Heinrich",
             "last": "Heine"
         },
         "info": [
-            "Heinrich : I,-Rilste Dlsseldorf 20.1.78",
+            ": I,-Rilste Dlsseldorf 20.1.78",
             "\\ \" \u201a\u2019interm\u00e4rchen auf Chinesisch 23.95.78",
             "' f! :Piorr.#adepuhl Rer.Toblas 275.2.78",
             "\" \" ver dichtete d.rzwei Grenndiere?(N.sambursky) 25.1.80"
@@ -922,11 +929,11 @@
     },
     "MBNR.9.PER.152": {
         "name": {
-            "first": "",
+            "first": "Raron",
             "last": "Hirsch"
         },
         "info": [
-            "Raron Robert v. :Basel-Versteirerung 30.6.78"
+            "Robert v. :Basel-Versteirerung 30.6.78"
         ]
     },
     "MBNR.9.PER.153": {
@@ -1031,11 +1038,12 @@
     },
     "MBNR.9.PER.171": {
         "name": {
-            "first": "",
+            "first": "atb.Issachar",
             "last": "Jacobson"
         },
         "info": [
-            "atb.Issachar($.R.) Buchrez.Jacob Rothschild 20.10.79"
+            "($.R.)",
+            "Buchrez.Jacob Rothschild 20.10.79"
         ]
     },
     "MBNR.9.PER.172": {
@@ -1106,20 +1114,20 @@
     },
     "MBNR.9.PER.187": {
         "name": {
-            "first": "",
+            "first": "Franz",
             "last": "Kaelter"
         },
         "info": [
-            "Franz David(1906-1978) G.Cohen 10.53.78"
+            "David(1906-1978) G.Cohen 10.53.78"
         ]
     },
     "MBNR.9.PER.188": {
         "name": {
-            "first": "",
+            "first": "Franz",
             "last": "Kafka"
         },
         "info": [
-            "Franz \u00f6ntmythologisierung(Bea-Chorin) 2.311479",
+            "\u00f6ntmythologisierung(Bea-Chorin) 2.311479",
             "\" \u0131 K.s irag (Lilienfeld) 15.8.20"
         ]
     },
@@ -1173,11 +1181,11 @@
     },
     "MBNR.9.PER.196": {
         "name": {
-            "first": "",
+            "first": "Prof,Jacob",
             "last": "Katz"
         },
         "info": [
-            "Prof,Jacob sZiundisuus contra Antiseuitisaus 12.+19.10.79",
+            "sZiundisuus contra Antiseuitisaus 12.+19.10.79",
             "z e : 75 (Rosenbl\u00fcth) 16.11.79",
             "\" \" \u0131 Kaplan-Preis 25.1.80"
         ]
@@ -1283,20 +1291,22 @@
     },
     "MBNR.9.PER.214": {
         "name": {
-            "first": "",
+            "first": "Rwiolf",
             "last": "Kohn"
         },
         "info": [
-            "Rwiolf(iB)s 85 Eeitothschild 9.3.79"
+            "(iB)s",
+            "85 Eeitothschild 9.3.79"
         ]
     },
     "MBNR.9.PER.215": {
         "name": {
-            "first": "",
+            "first": "Oskar",
             "last": "Kokoschka"
         },
         "info": [
-            "Oskar(Haler):Todesnachricht 29.2.80"
+            "(Haler):Todesnachricht",
+            "29.2.80"
         ]
     },
     "MBNR.9.PER.216": {
@@ -1330,11 +1340,12 @@
     },
     "MBNR.9.PER.220": {
         "name": {
-            "first": "",
+            "first": "frude:Gdenkausstellung",
             "last": "krolik"
         },
         "info": [
-            "frude:Gdenkausstellung(Kost) 26.10.79"
+            "(Kost)",
+            "26.10.79"
         ]
     },
     "MBNR.9.PER.221": {
@@ -1389,11 +1400,11 @@
     },
     "MBNR.9.PER.231": {
         "name": {
-            "first": "",
+            "first": "Rudi",
             "last": "Lehwann"
         },
         "info": [
-            "Rudi (Bildhauer) :Gedenkausstellung(Sauer) 22.12.78"
+            "(Bildhauer) :Gedenkausstellung(Sauer) 22.12.78"
         ]
     },
     "MBNR.9.PER.232": {
@@ -1440,20 +1451,21 @@
     },
     "MBNR.9.PER.250": {
         "name": {
-            "first": "",
+            "first": "kerez",
             "last": "leshen"
         },
         "info": [
-            "kerez(Fr.Lichtonstein): 75 (Cottgetreu) 8.9.78"
+            "(Fr.Lichtonstein):",
+            "75 (Cottgetreu) 8.9.78"
         ]
     },
     "MBNR.9.PER.251": {
         "name": {
-            "first": "",
+            "first": "Fritz",
             "last": "Levinson"
         },
         "info": [
-            "Fritz A Toiesnazelge 51.10.80",
+            "A Toiesnazelge 51.10.80",
             "\" u (RK) Capell 31.10.80"
         ]
     },
@@ -1477,11 +1489,11 @@
     },
     "MBNR.9.PER.255": {
         "name": {
-            "first": "",
+            "first": "irof.",
             "last": "Liebermann"
         },
         "info": [
-            "irof. Max (Maler)Schriften(Sauer) 2.3.79",
+            "Max (Maler)Schriften(Sauer) 2.3.79",
             "\" \u201c L.-Aussetellung Berlin (EGL) 14.12.79"
         ]
     },
@@ -1506,11 +1518,11 @@
     },
     "MBNR.9.PER.259": {
         "name": {
-            "first": "",
+            "first": "Franz",
             "last": "Lisgt"
         },
         "info": [
-            "Franz :Aufruf f.d.Jwien (Grademwitz) 21.9.79",
+            ":Aufruf f.d.Jwien (Grademwitz) 21.9.79",
             "L\u00f6wenberg , Jakob (Pidagoge) (6.Stern) 11.4.79"
         ]
     },
@@ -1631,11 +1643,12 @@
     },
     "MBNR.9.PER.276": {
         "name": {
-            "first": "",
+            "first": "Induig",
             "last": "Nayer"
         },
         "info": [
-            "Induig(Jim Buchh\u00e4ndler) Todesnachricht 9,6.79",
+            "(Jim",
+            "Buchh\u00e4ndler) Todesnachricht 9,6.79",
             "\" (N)Gottgetreu 23,.6.78"
         ]
     },
@@ -1804,11 +1817,11 @@
     },
     "MBNR.9.PER.301": {
         "name": {
-            "first": "",
+            "first": "Jacques",
             "last": "Offenbach"
         },
         "info": [
-            "Jacques 100.Todestag (Gradenwritz) 21.11.80"
+            "100.Todestag (Gradenwritz) 21.11.80"
         ]
     },
     "MBNR.9.PER.302": {
@@ -1822,11 +1835,11 @@
     },
     "MBNR.9.PER.303": {
         "name": {
-            "first": "",
+            "first": "Amos",
             "last": "Os"
         },
         "info": [
-            "Amos Rez,.Toblas 29,9. .XKR3K\u0131L8 73",
+            "Rez,.Toblas 29,9. .XKR3K\u0131L8 73",
             "n \" n 23.11.79"
         ]
     },
@@ -1884,11 +1897,11 @@
     },
     "MBNR.9.PER.315": {
         "name": {
-            "first": "",
+            "first": "Josef:Rlorr.Pelke",
             "last": "Popper-Iynkeus"
         },
         "info": [
-            "Josef:Rlorr.Pelke (IIT) 25.08.78"
+            "(IIT) 25.08.78"
         ]
     },
     "MBNR.9.PER.316": {
@@ -1923,11 +1936,11 @@
     },
     "MBNR.9.PER.321": {
         "name": {
-            "first": "",
+            "first": "Friedl",
             "last": "Freuss"
         },
         "info": [
-            "Friedl Todesanzeige 19.12.80"
+            "Todesanzeige 19.12.80"
         ]
     },
     "MBNR.9.PER.322": {
@@ -1950,11 +1963,11 @@
     },
     "MBNR.9.PER.324": {
         "name": {
-            "first": "",
+            "first": "horche",
             "last": "Reismann"
         },
         "info": [
-            "horche ( TOMR=-Rilro)Todesnazripe 22.6279"
+            "( TOMR=-Rilro)Todesnazripe 22.6279"
         ]
     },
     "MBNR.9.PER.325": {
@@ -1988,11 +2001,11 @@
     },
     "MBNR.9.PER.328": {
         "name": {
-            "first": "",
+            "first": "Ing.",
             "last": "Roer"
         },
         "info": [
-            "Ing. \u00f6manue1(1891-1977) (N)F.Rothachild 10.2.78",
+            "\u00f6manue1(1891-1977) (N)F.Rothachild 10.2.78",
             "Rosen alnghag (N) HT 10.5.78 (auch Anzeigen)",
             "A (N)Kansitz 2.6.70",
             "u Gelenkrede Capell 20,7.78",
@@ -2030,11 +2043,11 @@
     },
     "MBNR.9.PER.336": {
         "name": {
-            "first": "",
+            "first": "Franz",
             "last": "Rosenzwvelr"
         },
         "info": [
-            "Franz",
+            "",
             "\" Neuausmbe (MT) 20.10.78",
             "u 50.Tolestar (Srev Lew) 7.12.79",
             "\" Gedenknusstellung 28.17.79",
@@ -2043,11 +2056,11 @@
     },
     "MBNR.9.PER.341": {
         "name": {
-            "first": "",
+            "first": "istislaw",
             "last": "Rostroporitsch"
         },
         "info": [
-            "istislaw -\u2014 Verbannung 31.3.78"
+            "-\u2014 Verbannung 31.3.78"
         ]
     },
     "MBNR.9.PER.342": {
@@ -2102,20 +2115,21 @@
     },
     "MBNR.9.PER.352": {
         "name": {
-            "first": "",
+            "first": "fFrof,leo",
             "last": "Sachs"
         },
         "info": [
-            "fFrof,leo( eizrann Insit.) Wolf-Freis 25.7.80"
+            "(",
+            "eizrann Insit.) Wolf-Freis 25.7.80"
         ]
     },
     "MBNR.9.PER.353": {
         "name": {
-            "first": "",
+            "first": "Julius",
             "last": "Sachs"
         },
         "info": [
-            "Julius 85 (Grademmitr) 17.2.79"
+            "85 (Grademmitr) 17.2.79"
         ]
     },
     "MBNR.9.PER.354": {
@@ -2140,11 +2154,11 @@
     },
     "MBNR.9.PER.357": {
         "name": {
-            "first": "",
+            "first": "Sascha",
             "last": "Salmansol\u0131n"
         },
         "info": [
-            "Sascha (54) Todesanzeige 17.2.78",
+            "(54) Todesanzeige 17.2.78",
             "\" (NRothschild 17.3.78"
         ]
     },
@@ -2226,11 +2240,12 @@
     },
     "MBNR.9.PER.371": {
         "name": {
-            "first": "",
+            "first": "Frieda",
             "last": "Schloss"
         },
         "info": [
-            "Frieda(Haifa) 95(Schelas) 29.2.80"
+            "(Haifa)",
+            "95(Schelas) 29.2.80"
         ]
     },
     "MBNR.9.PER.372": {
@@ -2336,11 +2351,11 @@
     },
     "MBNR.9.PER.391": {
         "name": {
-            "first": "",
+            "first": "Frof,&mst",
             "last": "Simon"
         },
         "info": [
-            "Frof,&mst A. 80 (C.Frankenstein,N.Sonn) 9.3.79",
+            "A. 80 (C.Frankenstein,N.Sonn) 9.3.79",
             "a 2) \"Entscheidung 2. Judentum\" kez.Toblas 11.7.80",
             "H \" Erstschrift Rez.N,Sonn 24,.9.80"
         ]
@@ -2357,11 +2372,11 @@
     },
     "MBNR.9.PER.396": {
         "name": {
-            "first": "",
+            "first": "Baschewis",
             "last": "Singer"
         },
         "info": [
-            "Baschewis Nobelpreis-Rede 22.17.79"
+            "Nobelpreis-Rede 22.17.79"
         ]
     },
     "MBNR.9.PER.397": {
@@ -2513,11 +2528,11 @@
     },
     "MBNR.9.PER.415": {
         "name": {
-            "first": "",
+            "first": "Kriedrich",
             "last": "Torbere"
         },
         "info": [
-            "Kriedrich (N)Gottertreu 23.11.79",
+            "(N)Gottertreu 23.11.79",
             "\" \" \"Kaddisch\" (Gedicht) 5.9.80"
         ]
     },
@@ -2624,11 +2639,11 @@
     },
     "MBNR.9.PER.436": {
         "name": {
-            "first": "",
+            "first": "Bernard",
             "last": "Wassersteiln"
         },
         "info": [
-            "Bernard \"Pritain & the Jews 0f Burope\u201d\" (Fanmit2)28.3.80"
+            "\"Pritain & the Jews 0f Burope\u201d\" (Fanmit2)28.3.80"
         ]
     },
     "MBNR.9.PER.437": {
@@ -2781,11 +2796,11 @@
     },
     "MBNR.9.PER.456": {
         "name": {
-            "first": "",
+            "first": "Franz",
             "last": "Zwillinger"
         },
         "info": [
-            "Franz (Wien,Drematiker) IT 24.2.78",
+            "(Wien,Drematiker) IT 24.2.78",
             "er & rat",
             "Januar 1981."
         ]

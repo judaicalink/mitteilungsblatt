@@ -187,11 +187,12 @@
     },
     "MBNR.5.PER.27": {
         "name": {
-            "first": "",
+            "first": "Ellesor",
             "last": "Bergmann"
         },
         "info": [
-            "Ellesor(1834/36) ( )(tachauer) 2.8.68 en"
+            "(1834/36)",
+            "( )(tachauer) 2.8.68 en"
         ]
     },
     "MBNR.5.PER.28": {
@@ -428,11 +429,11 @@
     },
     "MBNR.5.PER.68": {
         "name": {
-            "first": "",
+            "first": "David",
             "last": "Davidovitch"
         },
         "info": [
-            "David kezens.kKetuba(HStrauss) 14.53.69"
+            "kezens.kKetuba(HStrauss) 14.53.69"
         ]
     },
     "MBNR.5.PER.69": {
@@ -624,7 +625,8 @@
             "last": "Glubb"
         },
         "info": [
-            "(Sir)John B, Hezens.Gesch.d.\u00e4raber (Plessner) 9.5.69"
+            "(Sir)John",
+            "B, Hezens.Gesch.d.\u00e4raber (Plessner) 9.5.69"
         ]
     },
     "MBNR.5.PER.98": {
@@ -763,11 +765,11 @@
     },
     "MBNR.5.PER.117": {
         "name": {
-            "first": "",
+            "first": "Ernest",
             "last": "Hamburger"
         },
         "info": [
-            "Ernest Rezens.LBI-Buch(KL) 8.11.68"
+            "Rezens.LBI-Buch(KL) 8.11.68"
         ]
     },
     "MBNR.5.PER.118": {
@@ -883,11 +885,11 @@
     },
     "MBNR.5.PER.140": {
         "name": {
-            "first": "",
+            "first": "Pau}",
             "last": "Horn"
         },
         "info": [
-            "Pau} Havana Tertil u.BibellER) 3.1.69",
+            "Havana Tertil u.BibellER) 3.1.69",
             "NHAMENREGISTER ZUM \"MR\"",
             "1/68 bis 12/69 -4-"
         ]
@@ -1164,11 +1166,11 @@
     },
     "MBNR.5.PER.185": {
         "name": {
-            "first": "",
+            "first": "ro",
             "last": "un"
         },
         "info": [
-            "ro -",
+            "-",
             "-Deutungen(AMeyer) 9.8.68",
             "-in Jerusalem(Sturmann) 17.1.69",
             "-loo,.Geburtstg(Gottgetreu) 14.2.69",
@@ -1191,20 +1193,20 @@
     },
     "MBNR.5.PER.196": {
         "name": {
-            "first": "",
+            "first": "Leo",
             "last": "Lauterbach"
         },
         "info": [
-            "Leo Nachruf(H7) 9.8.68"
+            "Nachruf(H7) 9.8.68"
         ]
     },
     "MBNR.5.PER.197": {
         "name": {
-            "first": "",
+            "first": "Paul",
             "last": "Lazarus"
         },
         "info": [
-            "Paul -z.Gedenken{Elk) 1.11.68",
+            "-z.Gedenken{Elk) 1.11.68",
             "- Strasse in Wiesbaden 6.12.68"
         ]
     },
@@ -1625,11 +1627,11 @@
     },
     "MBNR.5.PER.260": {
         "name": {
-            "first": "",
+            "first": "Jcques",
             "last": "Offenbach"
         },
         "info": [
-            "Jcques -: K\u00f6lner Stiftungspreis 13.6.69",
+            "-: K\u00f6lner Stiftungspreis 13.6.69",
             "-  * Ausstellung 27.6.69"
         ]
     },

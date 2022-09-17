@@ -1,11 +1,11 @@
 {
     "MBNR.11.PER.12": {
         "name": {
-            "first": "",
+            "first": "Chaim",
             "last": "lgeeteit"
         },
         "info": [
-            "Chaim 50.Todestag (R.Weltsoh in J.R.33 Nachruf) 10,6,83",
+            "50.Todestag (R.Weltsoh in J.R.33 Nachruf) 10,6,83",
             "/ Aron, Prof. Raymond Nachruf 28.10.83",
             "4 \"Aufbau\" (New York) 50 Jahre 7.12.84",
             "Ei u Baofk, Ralib.Dr.leo Ansprache (J.R.1935) 8.2.85",
@@ -30,11 +30,12 @@
     },
     "MBNR.11.PER.25": {
         "name": {
-            "first": "",
+            "first": "Peul",
             "last": "Ben-Haim"
         },
         "info": [
-            "Peul(Komponist) Nachruf 20.1,84"
+            "(Komponist)",
+            "Nachruf 20.1,84"
         ]
     },
     "MBNR.11.PER.26": {
@@ -48,29 +49,29 @@
     },
     "MBNR.11.PER.27": {
         "name": {
-            "first": "",
+            "first": "Frof",
             "last": "Bentwich"
         },
         "info": [
-            "Frof \u201aNorman loo.Geburtstag (Lowenthal) 22.4.83"
+            "\u201aNorman loo.Geburtstag (Lowenthal) 22.4.83"
         ]
     },
     "MBNR.11.PER.28": {
         "name": {
-            "first": "",
+            "first": "Trofl,",
             "last": "Berendsohn"
         },
         "info": [
-            "Trofl, Walter Nachruf 17.2.84"
+            "Walter Nachruf 17.2.84"
         ]
     },
     "MBNR.11.PER.29": {
         "name": {
-            "first": "",
+            "first": "Frof.Higo",
             "last": "Bergman"
         },
         "info": [
-            "Frof.Higo S. 1loo.Geburtstag 30.12.83 (gt. 48.6.4979)"
+            "S. 1loo.Geburtstag 30.12.83 (gt. 48.6.4979)"
         ]
     },
     "MBNR.11.PER.30": {
@@ -114,11 +115,11 @@
     },
     "MBNR.11.PER.37": {
         "name": {
-            "first": "",
+            "first": "Frof.",
             "last": "Buber"
         },
         "info": [
-            "Frof. Martin (B\u00fccher ber B.Rer.Ben-Chorin) 25,2,83"
+            "Martin (B\u00fccher ber B.Rer.Ben-Chorin) 25,2,83"
         ]
     },
     "MBNR.11.PER.38": {
@@ -167,11 +168,11 @@
     },
     "MBNR.11.PER.47": {
         "name": {
-            "first": "",
+            "first": "Willy",
             "last": "Cohn"
         },
         "info": [
-            "Willy Juienstaat bei Schiller(J,R.1934) 2.11.84"
+            "Juienstaat bei Schiller(J,R.1934) 2.11.84"
         ]
     },
     "MBNR.11.PER.48": {
@@ -223,11 +224,11 @@
     },
     "MBNR.11.PER.79": {
         "name": {
-            "first": "",
+            "first": "Abba",
             "last": "Eban"
         },
         "info": [
-            "Abba \"lleritage\"-Film Rez. 28.12.84",
+            "\"lleritage\"-Film Rez. 28.12.84",
             "I Einstein, Fr\u00f6f.Albert E.-Archiv Univ.Jerusalem 19.8.83",
             ". | \"EL-AL\"  8su,Ch, Weizmann!",
             "\u201d \u00b0 Ellbogen, Frof. Ismar Ao.Todestag(Lowenthal) 5.8.83"
@@ -254,11 +255,12 @@
     },
     "MBNR.11.PER.85": {
         "name": {
-            "first": "",
+            "title": "Dr.",
+            "first": "Oskar",
             "last": "Esthelbaohbr"
         },
         "info": [
-            "Dr. Oskar Nachruf(Capell) 13.7.84"
+            "Nachruf(Capell) 13.7.84"
         ]
     },
     "MBNR.11.PER.86": {
@@ -300,11 +302,11 @@
     },
     "MBNR.11.PER.91": {
         "name": {
-            "first": "",
+            "first": "Recha",
             "last": "Freier"
         },
         "info": [
-            "Recha Nachruf (Michaelis) 4.5.84"
+            "Nachruf (Michaelis) 4.5.84"
         ]
     },
     "MBNR.11.PER.92": {
@@ -337,11 +339,12 @@
     },
     "MBNR.11.PER.104": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "S.D.",
             "last": "Goitein"
         },
         "info": [
-            "Prof.S.D. (Fritz) Nachruf(E.Rothschild) 15.2,85"
+            "(Fritz) Nachruf(E.Rothschild) 15.2,85"
         ]
     },
     "MBNR.11.PER.105": {
@@ -394,21 +397,21 @@
     },
     "MBNR.11.PER.111": {
         "name": {
-            "first": "",
+            "first": "Fassage",
             "last": "Haestrup"
         },
         "info": [
-            "Fassage to Falestine Rez,Michaelis 23.11.84",
+            "to Falestine Rez,Michaelis 23.11.84",
             "Hakoah (Wien) 75 21.12.84"
         ]
     },
     "MBNR.11.PER.113": {
         "name": {
-            "first": "",
+            "first": "Ernst",
             "last": "Hamburger"
         },
         "info": [
-            "Ernst Nachruf E.Rothschild 9.11.84"
+            "Nachruf E.Rothschild 9.11.84"
         ]
     },
     "MBNR.11.PER.114": {
@@ -422,11 +425,12 @@
     },
     "MBNR.11.PER.115": {
         "name": {
-            "first": "",
+            "first": "Dr,Reuben",
             "last": "Hecht"
         },
         "info": [
-            "Dr,Reuben(Hnifa) 75 10,8.84",
+            "(Hnifa)",
+            "75 10,8.84",
             "-  , Festschrift (E.Rothschild) 10.10.84"
         ]
     },
@@ -470,11 +474,11 @@
     },
     "MBNR.11.PER.122": {
         "name": {
-            "first": "",
+            "first": "Fritz",
             "last": "Hirschmann"
         },
         "info": [
-            "Fritz S,(Haifa) in memorian 21.71.84 gs",
+            "S,(Haifa) in memorian 21.71.84 gs",
             "Irgun Ole, Merkas Europa Landestagung 1984 16.3.84"
         ]
     },
@@ -524,11 +528,11 @@
     },
     "MBNR.11.PER.135": {
         "name": {
-            "first": "",
+            "first": "Franz",
             "last": "Kafka"
         },
         "info": [
-            "Franz 10o,Geburtstag (Hilde Spiel) 27,5.83",
+            "10o,Geburtstag (Hilde Spiel) 27,5.83",
             "is ; \" \" (Ben-Chorin) 1.7.83"
         ]
     },
@@ -552,20 +556,20 @@
     },
     "MBNR.11.PER.139": {
         "name": {
-            "first": "",
+            "first": "Mendel",
             "last": "Karin-Karger"
         },
         "info": [
-            "Mendel Todesanzeige 24,8,.84"
+            "Todesanzeige 24,8,.84"
         ]
     },
     "MBNR.11.PER.140": {
         "name": {
-            "first": "",
+            "first": "Frof.Jacob",
             "last": "Katz"
         },
         "info": [
-            "Frof.Jacob Dt.Juden (e.Vortrag) 26.9,84 + 10.10.84",
+            "Dt.Juden (e.Vortrag) 26.9,84 + 10.10.84",
             "- ,.80 (Walk) 7.12.84"
         ]
     },
@@ -581,11 +585,11 @@
     },
     "MBNR.11.PER.143": {
         "name": {
-            "first": "",
+            "first": "Richard",
             "last": "Kauffmann"
         },
         "info": [
-            "Richard (Architekt) (G.Kaminka) 29.3.85",
+            "(Architekt) (G.Kaminka) 29.3.85",
             "(HB-Register 1983/85 -4- )",
             "kKfar Tikwa 8.u.Sieefr.Hirsch"
         ]
@@ -601,11 +605,11 @@
     },
     "MBNR.11.PER.147": {
         "name": {
-            "first": "",
+            "first": "Beate",
             "last": "Klarsfeld"
         },
         "info": [
-            "Beate : Franz\u00f6s, Ehrung (D.Strothmann) 26.10,84"
+            ": Franz\u00f6s, Ehrung (D.Strothmann) 26.10,84"
         ]
     },
     "MBNR.11.PER.148": {
@@ -630,11 +634,11 @@
     },
     "MBNR.11.PER.152": {
         "name": {
-            "first": "",
+            "first": "Rulolf",
             "last": "Kohn"
         },
         "info": [
-            "Rulolf 90",
+            "90",
             "Kohl-Besuch von auffen gesehn(Rothschild) 17.2.84"
         ]
     },
@@ -737,11 +741,12 @@
     },
     "MBNR.11.PER.177": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "Theodor",
             "last": "Lessing"
         },
         "info": [
-            "Prof. Theodor 50,Todestag(Lowenthal) 26.8.83"
+            "50,Todestag(Lowenthal) 26.8.83"
         ]
     },
     "MBNR.11.PER.178": {
@@ -776,11 +781,11 @@
     },
     "MBNR.11.PER.182": {
         "name": {
-            "first": "",
+            "first": "Frof,Nax",
             "last": "l\u00e4ebemmann"
         },
         "info": [
-            "Frof,Nax (Nachruf Landaberger J.R. 1935) 25.1.85"
+            "(Nachruf Landaberger J.R. 1935) 25.1.85"
         ]
     },
     "MBNR.11.PER.183": {
@@ -898,11 +903,11 @@
     },
     "MBNR.11.PER.203": {
         "name": {
-            "first": "",
+            "first": "Karl",
             "last": "Yarx"
         },
         "info": [
-            "Karl lvo. Todestag (Capell) 28.3.83"
+            "lvo. Todestag (Capell) 28.3.83"
         ]
     },
     "MBNR.11.PER.204": {
@@ -916,20 +921,21 @@
     },
     "MBNR.11.PER.205": {
         "name": {
-            "first": "",
+            "first": "Jcoseph",
             "last": "Melzer"
         },
         "info": [
-            "Jcoseph(Verleger) Nachruf 27.1.84 \\"
+            "(Verleger)",
+            "Nachruf 27.1.84 \\"
         ]
     },
     "MBNR.11.PER.206": {
         "name": {
-            "first": "",
+            "first": "Eva",
             "last": "Nichaells-Stern"
         },
         "info": [
-            "Eva 80 (Freoden) 18.1,85  s.a. Jugend-Alljah"
+            "80 (Freoden) 18.1,85  s.a. Jugend-Alljah"
         ]
     },
     "MBNR.11.PER.207": {
@@ -962,20 +968,20 @@
     },
     "MBNR.11.PER.210": {
         "name": {
-            "first": "",
+            "first": "Erich",
             "last": "Mihsam"
         },
         "info": [
-            "Erich 50,Todestag (m.Notiz Rothschild) 26.10.84 |"
+            "50,Todestag (m.Notiz Rothschild) 26.10.84 |"
         ]
     },
     "MBNR.11.PER.211": {
         "name": {
-            "first": "",
+            "first": "Irof,David",
             "last": "Nachmangohn"
         },
         "info": [
-            "Irof,David Nachruf (Frof.5.Sanbursky ) % 12.88",
+            "Nachruf (Frof.5.Sanbursky ) % 12.88",
             "Naharljah 50 Jahre (Lehmann) 25.1485"
         ]
     },
@@ -1024,29 +1030,29 @@
     },
     "MBNR.11.PER.231": {
         "name": {
-            "first": "",
+            "first": "Arthur",
             "last": "Rubinstein"
         },
         "info": [
-            "Arthur Rez,M\u201cmolren durch Grademitz) 28.1.83"
+            "Rez,M\u201cmolren durch Grademitz) 28.1.83"
         ]
     },
     "MBNR.11.PER.232": {
         "name": {
-            "first": "",
+            "first": "Frof.Chaim",
             "last": "Scliatiker"
         },
         "info": [
-            "Frof.Chaim Judentum in Geschichtslehrblichern der BRD 18,.1,85"
+            "Judentum in Geschichtslehrblichern der BRD 18,.1,85"
         ]
     },
     "MBNR.11.PER.233": {
         "name": {
-            "first": "",
+            "first": "Forf.",
             "last": "Scholem"
         },
         "info": [
-            "Forf. Gershom Rede \u00fcber Israel 18,2,83",
+            "Gershom Rede \u00fcber Israel 18,2,83",
             "1, - ,\u201e Erinnerungen an S.(lotte Cohn) 28.3.83",
             "1 \u201a| - ,\u201e 5,,5pinoza,Kabbala(Ben-Chorin) 7.12.84",
             "1 - \u201eEin \"Denk-Zettel\"v.S, (Rothschl1d) 8.3.85",
@@ -1055,11 +1061,12 @@
     },
     "MBNR.11.PER.238": {
         "name": {
-            "first": "",
+            "first": "Ldwig",
             "last": "Schwerin"
         },
         "info": [
-            "Ldwig(Maler) Nachruf 29,7.83"
+            "(Maler)",
+            "Nachruf 29,7.83"
         ]
     },
     "MBNR.11.PER.239": {
@@ -1084,11 +1091,11 @@
     },
     "MBNR.11.PER.243": {
         "name": {
-            "first": "",
+            "first": "Joshua",
             "last": "Sobol"
         },
         "info": [
-            "Joshua \"Ghetto\" Rez, 27.7.84"
+            "\"Ghetto\" Rez, 27.7.84"
         ]
     },
     "MBNR.11.PER.244": {
@@ -1145,21 +1152,21 @@
     },
     "MBNR.11.PER.254": {
         "name": {
-            "first": "",
+            "first": "Frof,",
             "last": "Tal"
         },
         "info": [
-            "Frof, Uri Todesanzei\u00dfe 15.6.84",
+            "Uri Todesanzei\u00dfe 15.6.84",
             "/Tau,Fritz 80 (K,licht) 15.4.83 5"
         ]
     },
     "MBNR.11.PER.256": {
         "name": {
-            "first": "",
+            "first": "Silvia",
             "last": "Tennenibaum"
         },
         "info": [
-            "Silvia \"Straf\u00dfen v.gestern\" Rez,Lillenfeld 31.8.84"
+            "\"Straf\u00dfen v.gestern\" Rez,Lillenfeld 31.8.84"
         ]
     },
     "MBNR.11.PER.257": {
@@ -1174,11 +1181,11 @@
     },
     "MBNR.11.PER.258": {
         "name": {
-            "first": "",
+            "first": "Jaoobo",
             "last": "Timerman"
         },
         "info": [
-            "Jaoobo \"Israels l\u00e4n@ster Krieg\" Rez, Freeden a f"
+            "\"Israels l\u00e4n@ster Krieg\" Rez, Freeden a f"
         ]
     },
     "MBNR.11.PER.259": {
@@ -1210,32 +1217,33 @@
     },
     "MBNR.11.PER.262": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "Joseph",
             "last": "Walk"
         },
         "info": [
-            "Prof. Joseph 70 (E.A,Simon) 20.1,84 0,",
+            "70 (E.A,Simon) 20.1,84 0,",
             ": \\"
         ]
     },
     "MBNR.11.PER.264": {
         "name": {
-            "first": "",
+            "first": "Ja:ob",
             "last": "Wassermann"
         },
         "info": [
-            "Ja:ob 50. Todestag 30.12.83 N z",
+            "50. Todestag 30.12.83 N z",
             "N Weis,br.Georg(Wien) 85 171.83 \\ \\",
             "a Weilsl,Wolfgang von 10,Todestag(Faerber) 24,.2.84 ji \\"
         ]
     },
     "MBNR.11.PER.267": {
         "name": {
-            "first": "",
+            "first": "Fritz",
             "last": "Weissenstein"
         },
         "info": [
-            "Fritz Nachruf(hoitasch) IX 14.10.83 fi j FR",
+            "Nachruf(hoitasch) IX 14.10.83 fi j FR",
             "\u201a; Velzmann, Frof.Chain Vor 50 Jahren v.G. luft Antervient(J.R.):2.11.84",
             "os - Erster lassagier von \"EI-Al\", 4,1,85 hi %",
             "\\ xelsmannsInstitut 50 Jahre 1.6.84",

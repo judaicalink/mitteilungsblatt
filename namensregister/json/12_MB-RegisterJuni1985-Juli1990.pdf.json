@@ -166,11 +166,11 @@
     },
     "MBNR.12.PER.78": {
         "name": {
-            "first": "",
+            "first": "Victor",
             "last": "Bach"
         },
         "info": [
-            "Victor Todesanzeige III/87 3.2."
+            "Todesanzeige III/87 3.2."
         ]
     },
     "MBNR.12.PER.79": {
@@ -217,11 +217,12 @@
     },
     "MBNR.12.PER.86": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "Hugo",
             "last": "Bergmann"
         },
         "info": [
-            "Prof.Hugo 8. Rez.Erinnerungen (Ben-Chorin) IV/87,8.7"
+            "8. Rez.Erinnerungen (Ben-Chorin) IV/87,8.7"
         ]
     },
     "MBNR.12.PER.87": {
@@ -446,21 +447,21 @@
     },
     "MBNR.12.PER.128": {
         "name": {
-            "first": "",
+            "first": "Margot",
             "last": "Hamburger"
         },
         "info": [
-            "Margot",
+            "",
             "% Hecht,Dr.Reuben"
         ]
     },
     "MBNR.12.PER.130": {
         "name": {
-            "first": "",
+            "first": "Immanuel",
             "last": "Horn"
         },
         "info": [
-            "Immanuel",
+            "",
             "Riese \u201aKurt"
         ]
     },
@@ -505,11 +506,12 @@
     },
     "MBNR.12.PER.146": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "David!Pessach,Zeit",
             "last": "Flusser"
         },
         "info": [
-            "Prof.David!Pessach,Zeit d.Befreiung. III/90 S.1 \u00a3."
+            "d.Befreiung. III/90 S.1 \u00a3."
         ]
     },
     "MBNR.12.PER.147": {
@@ -646,11 +648,12 @@
     },
     "MBNR.12.PER.174": {
         "name": {
-            "first": "",
+            "title": "Dr.",
+            "first": "Reuben",
             "last": "Hecht"
         },
         "info": [
-            "Dr.Reuben (KJV)",
+            "(KJV)",
             "x - Israel-Preis (J.Bach)X1/87 \u201a8.7",
             "_(s.a. MB 10.10.84 !",
             "- 80 (Dr.J.Nebenzahl + J.Canaan) VII1/89,9. 3 \u00a3."
@@ -729,11 +732,12 @@
     },
     "MBNR.12.PER.187": {
         "name": {
-            "first": "",
+            "first": "Immanuel",
             "last": "Horn"
         },
         "info": [
-            "Immanuel(Inhaber \"Etun\") VII/88,3.4"
+            "(Inhaber",
+            "\"Etun\") VII/88,3.4"
         ]
     },
     "MBNR.12.PER.188": {
@@ -888,11 +892,11 @@
     },
     "MBNR.12.PER.221": {
         "name": {
-            "first": "",
+            "first": "Ferd$\u00e4nd",
             "last": "Lassalle"
         },
         "info": [
-            "Ferd$\u00e4nd 125.Todestag(Matsdorf) VIII/89,S.6"
+            "125.Todestag(Matsdorf) VIII/89,S.6"
         ]
     },
     "MBNR.12.PER.222": {
@@ -948,11 +952,12 @@
     },
     "MBNR.12.PER.232": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "Max",
             "last": "Liebermann"
         },
         "info": [
-            "Prof.Max Zum 140.Geburtstag VII/87,3.6"
+            "Zum 140.Geburtstag VII/87,3.6"
         ]
     },
     "MBNR.12.PER.233": {
@@ -1039,11 +1044,13 @@
     },
     "MBNR.12.PER.255": {
         "name": {
-            "first": "",
+            "title": "Dr.",
+            "first": "Siegfried",
             "last": "Moses"
         },
         "info": [
-            "Dr.Siegfried(KJV)",
+            "(KJV)",
+            "",
             "- Jerusalem-Gedenkfeier V/86,3.7",
             "7 s.a.Rede Prof.Y.Gelber a.hebr.Schlusseite!"
         ]
@@ -1092,11 +1099,11 @@
     },
     "MBNR.12.PER.266": {
         "name": {
-            "first": "",
+            "first": "Thea",
             "last": "Nathan"
         },
         "info": [
-            "Thea 80(G.L\u00fc\u00f6wenstein) I11/88,5.10"
+            "80(G.L\u00fc\u00f6wenstein) I11/88,5.10"
         ]
     },
     "MBNR.12.PER.267": {
@@ -1123,11 +1130,11 @@
     },
     "MBNR.12.PER.273": {
         "name": {
-            "first": "",
+            "first": "Rebh.Dr.",
             "last": "File"
         },
         "info": [
-            "Rebh.Dr. TonstintkgV) Nachruf X1/88,5.7"
+            "TonstintkgV) Nachruf X1/88,5.7"
         ]
     },
     "MBNR.12.PER.274": {
@@ -1267,11 +1274,12 @@
     },
     "MBNR.12.PER.306": {
         "name": {
-            "first": "",
+            "title": "Dr.",
+            "first": "Julius",
             "last": "Jeligsohn"
         },
         "info": [
-            "Dr.Julius zum Loo. Geburtstag(gest.1942) (Lowenthal)",
+            "zum Loo. Geburtstag(gest.1942) (Lowenthal)",
             "Seley Aunelre ee ir vIr/90,8.6",
             "Senioren-Problem nn",
             "- Gehirntraining(kaminka)VIII/85,$8.5",
@@ -1290,11 +1298,12 @@
     },
     "MBNR.12.PER.313": {
         "name": {
-            "first": "",
+            "title": "Prof.",
+            "first": "lirnst",
             "last": "Simon"
         },
         "info": [
-            "Prof.lirnst A. (KJV)Nachruf Prof.Amir.X/88,5.5"
+            "A. (KJV)Nachruf Prof.Amir.X/88,5.5"
         ]
     },
     "MBNR.12.PER.314": {
