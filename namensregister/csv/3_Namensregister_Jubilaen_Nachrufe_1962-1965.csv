@@ -1,125 +1,133 @@
 title;first name;last name;jub;issue_date;other;nachruf/tode;Geburt/Tod
-Prof.;Karl;Adler;75;5.2.65;;-;-
--;S.;Adler-Rudel;-;-;7o:26.6.64(SM  HT  MK);-;-
--;S.J.;Agnon;75;2.8.63;MMayer);-;-
--;Hermann;Ahlfeld;-;6.4.62;7o:  mTP);-;-
--;Marianne;Ahlfeld-Heymann;-;5.2.65;6o:  mTP);-;-
--;Ur.Kurt;Alexander;-;9.3.62;,Nachruf  EGL);-;-
--;Kartin;Altertum;75;7.9.62;;-;-
--;Jakob;Altmaier;-;15.2.63;;Todesanzeige;-
--;Paul;(Amann;-;-;"""Jüd.Rundsch""  3o.11,34  Rez.";-;-
-Dr.;Rudolf;Amelunxen;75;9.8.63;;-;-
+Prof.;Karl;Adler;75;05.02.1965;;-;-
+-;S.;Adler-Rudel;70;26.06.1964;(SM  HT  MK);-;-
+-;S.J.;Agnon;75;02.08.1963;MMayer);-;-
+-;Hermann;Ahlfeld;70;06.04.1962;mTP);-;-
+-;Marianne;Ahlfeld-Heymann;60;05.02.1965;mTP);-;-
+Dr.;Kurt;Alexander;-;09.03.1962;,Nachruf  EGL);-;-
+-;Martin;Altertum;75;07.09.1962;;-;-
+-;Jakob;Altmaier;-;15.02.1963;;Todesanzeige;-
+-;Paul;Amann;-;-;"""Jüd.Rundsch""  3o.11,34  Rez.";-;-
+Dr.;Rudolf;Amelunxen;75;09.08.1963;;-;-
 -;Jehuda;Amichai;-;-;Rez.18.9.63(WLewin);-;-
--;Hannah;Arendt;-;14.11.58;Rez.Rahel  WLewin);-;-
--;Meir;Argov;-;-;6.12,63;Nachruf;-
--;-;-;-;21.6.63;3o.Todestag;-;-
--;Paula;Arnold;-;-;8o(?):22.6.62;-;-
--;Berthold;Auerbach;-;-;15o.Geburtstg.2.3.62  u.13.7.62(Gottgetreu);-;-
-Dr.;Elias;Auerbach;-;27.7.62:8o;(HT)  u.3.8.62(Preiser);-;-
--;Victor;Bach;-;8.1.65;7o:  Kishoni);-;-
-Dr.;Leo;Baeck;-;-;(B.hebräisch)9o.Geburtstg.24.5.63(Wilhelm);-;-
--;Bertha;Badt-Strauss;-;-;8o:lo.12.65;-;-
-Dr.;Albert;Baer;75;5.4.63;;-;-
--;Jacob;Baer;-;13.12.63;Georg;Nachruf;-
-Dr.;K.(Empfang;Bal1-Kaduri;-;-;YadWashem)3•5.63;-;-
-Prof.;Fritz;Bamberger;-;12.1.62;Professur  egl);-;-
--;Ludwig;-Jiamberger;-;-;Reminiszenz  B.v.Brentano:3o.3.62,<<  j;-;-
--;Shulamit;Batdori;-;27.9.62;Gespräch  MTP)	'';-;-
-Prof.;David;Baumgardt;-;9.8.63;(ESimon);Nachruf;-
--;Arthur;Beermann;-;-;"7o;13.7.62";-;-
-Dr.;Alex;Bein;-;-;6o:18.1.63(Herlitz);-;-
+-;Hannah;Arendt;-;14.11.1958;Rez.Rahel  WLewin);-;-
+-;Meir;Argov;-;06.12.1963;;Nachruf;-
+-;Chaim;Arlosoroff;30;21.06.1963;3o.Todestag;-;-
+-;Paula;Arnold;80;22.06.1962;8o(?):22.6.62 oder 80. 5.2.1965;-;-
+-;Berthold;Auerbach;150;02.03.1962;15o.Geburtstg.2.3.62  u.13.7.62(Gottgetreu);-;-
+Dr.;Elias;Auerbach;80;27.07.1962;(HT)  u.3.8.62(Preiser);-;-
+-;Victor;Bach;70;08.01.1965;7o:  Kishoni);-;-
+Dr.;Leo;Baeck;90;24.05.1963;(B.hebräisch)9o.Geburtstg.24.5.63(Wilhelm);-;-
+-;Bertha;Badt-Strauss;80;10.12.1965;8o:lo.12.65;-;-
+Dr.;Albert;Baer;75;05.04.1963;;-;-
+-;Jacob Georg;Baer;-;13.12.1963;Georg;Nachruf;-
+Dr.;Kurt Jacob;Ball-Kaduri;-;03.05.1965;YadWashem)3•5.63;-;-
+Prof.;Fritz;Bamberger;-;12.01.1962;Professur  egl);-;-
+-;Ludwig;Bamberger;-;-;Reminiszenz  B.v.Brentano:3o.3.62,<<  j;-;-
+-;Shulamit;Batdori;-;27.09.1962;"Gespräch  MTP)	''";-;-
+Prof.;David;Baumgardt;-;09.08.1963;(ESimon);Nachruf;-
+-;Arthur;Beermann;70;13.07.1962;"7o;13.7.62";-;-
+Dr.;Alex;Bein;60;18.01.1963;6o:18.1.63(Herlitz);-;-
+;M.Y.;Ben Gawriel;;08.10.1965;;;
 -;Walter;Benjamin;-;-;;-;1892-194o
 -;Gottfried;Benn;-;-;in  Times  Lit.21.12.62;-;-
--;Prof;Bentwich;-;13.7.62;.Norman  Memoiren  PAmold);-;-
+Prof.;Norman;Bentwich;-;13.07.1962;.Norman  Memoiren  PAmold);-;-
 Dr.;Fritz;Berger;-;-;6o:23.3.62(ER);-;-
--;Herzl;Berger;-;7.9.62;Azaniah);Nachruf;-
+-;Herzl;Berger;-;07.09.1962;Azaniah);Nachruf;-
 Prof.;Hugo;Bergman;-;-;Rez.26.1.62(RW);-;-
--;-;-;-;-;t--1;-;-
+;Jitzchak;Ben Zwi;-;-;t--1;-;-
 -;Elisabeth;Bergner;-;-;Schiller-Preis  3o.11.62;-;-
--;Ruth;Berlak-Baeck;-;19.11.65;;Nachruf;-
--;Alfred;Bernheim;-;16.7.65;So:;-;-
--;Karl;Bick;-;15.1.65;Kröner);Nachruf;-
+-;Ruth;Berlak-Baeck;-;19.11.1965;;Nachruf;-
+-;Alfred;Bernheim;80;16.07.1965;;-;-
+-;Karl;Bick;-;15.01.1965;Kröner);Nachruf;-
 -;Herbert;Biermann;-;-;5.1o.62(pTau);Nachruf;-
--;Rudolf;Bing;-;1.11.63;;Nachruf;-
+;Micha Josef;Bin Gorion;;;;;
+-;Rudolf;Bing;-;01.11.1963;;Nachruf;-
 Dr.;Arthur;Biram;-;-;85:3o.8.63;-;-
 -;Leo;Bloch;-;-;2o.12.63;Nachruf;-
-Dr.;Werner;Bloch;-;1.5.64;HT);Nachruf;-
-Dr.;Richard;Blum;-;15.3.63;;Nachruf;-
--;Jenny;Blumenfeld;-;2.3.62;HT);Nachruf;-
+Dr.;Werner;Bloch;-;01.05.1964;HT);Nachruf;-
+Dr.;Richard;Blum;-;15.03.1963;;Nachruf;-
+-;Jenny;Blumenfeld;-;02.03.1962;HT);Nachruf;-
 -;Kurt;Blumenfeld;-;29.5.34:;"""Jiid.Rundschau""  50";-;-
--;Leo;.Blumstein;-;3.12.65;I31umst  ein,  Lola;Nachruf;-
-Prof.;Franz;Böhm;-;-;7o:19.2.65(HT);-;-
--;Zwi;Boral;-;4.1.63;;Todesanzeige;-
+-;Leo;Blumstein;-;03.12.1965;I31umst  ein,  Lola;Nachruf;-
+;Lola;Blumstein;;;;;
+Prof.;Franz;B�hm;-;-;7o:19.2.65(HT);-;-
+-;Zwi;Boral;-;04.01.1963;;Todesanzeige;-
 -;Rudolf;Borchardt;-;-;Timea  Lit.21.12.62;-;1877-1945
--;Ludwig;Börne;-;16.3.62;125.Todestag  (1786-1837);-;-
--;Alex.U.Nachruf;Boskowitch;-;4.12.64;;-;-
-Dr.;Siegfr.;Braun;-;-;8o:5.11.65;-;-
-Dr.;Ludw.E.Nachruf;Bregmann;-;22.3.63;;-;-
--;Hermann;Broch;-;16.4.62;Artikel  11?)	  1886-1951);-;-
-Dr.;Max;Brod;-;22.5.64;8o:  HT  FW  KL).  -  Ehrungen:5.6.64;-;-
+-;Ludwig;B�rne;-;16.03.1962;125.Todestag  (1786-1837);-;-
+-;Alexander Uriah;Boskowitch;;04.12.1964;;-;-
+Dr.;Siegfried;Braun;-;-;8o:5.11.65;-;-
+Dr.;Ludwig E.;Bregmann;-;22.03.1963;;-;-
+-;Hermann;Broch;-;16.04.1962;"Artikel  11?)	  1886-1951)";-;-
+Dr.;Max;Brod;-;22.05.1964;8o:  HT  FW  KL).  -  Ehrungen:5.6.64;-;-
 -;Emmy;Broder;-;-;Todanzeige  23-3.62;-;-
-Dr.;Daniel;Brody;-;17.1.64;So:  (HT);-;-
-Dr.;Jakob;Bronowski;-;1.6.62;Würdigung;-;-
+Dr.;Daniel;Brody;-;17.01.1964;So:  (HT);-;-
+Dr.;Jakob;Bronowski;-;01.06.1962;Würdigung;-;-
 -;David;Bruenn;-;-;5.  7o:5.11,65;-;-
--;Constantin;Brunner;-;31.8.62;loo.Geburtatg;-;-
+-;Constantin;Brunner;-;31.08.1962;loo.Geburtatg;-;-
 Prof.;Martin;Buber;-;-;Rez.Kohn-Biogr.24.8.62(MMayer);-;-
--;Josef;Buloff;-;8.2.63;Kritik  Ceis);-;-
--;Carl;Burckhardt;-;8.1.6o;J.  Danziger  Mission);-;-
--;Pablo;Casals;-;27.4.62;Notiz;-;-
--;Marc;Chagall;-;16.2.62;Hadassa—Eenster  HStr)-19.2.65  HStr);-;-
--;WS;Churchill;-;29.1.65;;-;-
+-;Josef;Buloff;-;08.02.1963;Kritik  Ceis);-;-
+-;Carl J.;Burckhardt;-;8.1.6o;J.  Danziger  Mission);-;-
+-;Pablo;Casals;-;27.04.1962;Notiz;-;-
+-;Marc;Chagall;-;16.02.1962;Hadassa—Eenster  HStr)-19.2.65  HStr);-;-
+-;Winston;Churchill;-;29.01.1965;;-;-
 -;Carl;Cohen;-;-;6o:23.2.62(ESimon);-;-
--;Erich;Cohn;-;14.9.62;Lichtheim);Nachruf;-
--;hens;Cohn;-;-;8o:7.9.62(llerlitz);-;-
--;Josef;Cohn;-;6.9.64;6o:  (RW);-;-
-Dr.;Ludwig;Cohn;-;25.5.62;Marth);Nachruf;-
-Dr.;Fritz;Corsing;-;12.1.62;2X  (EGL);Nachruf;-
--;Alfrfede;Cortot;-;13.7.62;Risenfeld);Nachruf;-
--;Richard(in;Crossman/;-;-;Rechovot)15.5.59;-;-
+-;Erich;Cohn;-;14.09.1962;Lichtheim);Nachruf;-
+-;Lene;Cohn;-;-;8o:7.9.62(llerlitz);-;-
+-;Josef;Cohn;-;06.09.1964;6o:  (RW);-;-
+Dr.;Ludwig;Cohn;-;25.05.1962;Marth);Nachruf;-
+Dr.;Fritz;Corsing;-;12.01.1962;2X  (EGL);Nachruf;-
+-;Alfr�de;Cortot;-;13.07.1962;Risenfeld);Nachruf;-
+-;Richard;Crossman;-;-;Rechovot)15.5.59;-;-
 -;Hillel;Dan;-;-;Bez<,Autobiogr.(GLi);-;-
 -;Walter;Danziger;-;-;7o:16.2.62;-;-
 -;Ernst;Deutsch;-;-;Kainzmedaille  17.lo.62;-;-
--;Alfred;Döblin;-;-;;-;187S-195V
+-;Alfred;D�blin;-;-;;-;187S-195V
 -;Alice;Domker;-;-;Nachr.23-3-62;-;-
-Prof.;Simon;Dubnow;-;3.1.64;RW)  (186o-1941);-;-
-Rabb.;;Dünner;-;4.1.63;Joa.liirsch(v.Amsterdam);-;-
+Prof.;Simon;Dubnow;-;03.01.1964;RW)  (186o-1941);-;-
+Rabb.;Joseph Hirsch;D�nner;-;04.01.1963;Joa.liirsch(v.Amsterdam);-;-
+;Tilla;Durieux;85;03.09.1965;;;
 Dr.;Ephraim;Edelstein;-;-;Nachr.1.6.62;-;-
 Rabb.;Salomon;Ehrmann;-;-;Nachr.2.7.65;-;-
-Prof.;Paul;Ehrlich;-;24.8.62;Würdigung;-;-
+Prof.;Paul;Ehrlich;-;24.08.1962;Würdigung;-;-
+;Adolf;Eichmann;;;;;
 -;Nathan;Eidinger;-;-;Würdigung  17.lo.62;-;-
-Prof.;Alb.;Einstein;-;15.2.65;E-Buch  in  Russland;-;-
+Prof.;Albert;Einstein;-;15.02.1965;E-Buch  in  Russland;-;-
 -;Hanns;Eisler;-;-;Nachr.14.9.62;-;-
 Prof.;Ismar;Elbogen;-;2.8.6j;2o.Todestg  Wilhelm);-;-
 -;Regi;Elbogen;-;-;Nachr.14.5.65;-;-
 -;Fritz;Elkan;-;-;Nachr.31.1.64;-;-
--;Clara;Eltern;-;24.1.64;schloschim  Ettlinger);-;-
--;Harry;Epstein;85;18.9.64	f;;-;-
+-;Clara;Ellern;-;24.01.1964;schloschim  Ettlinger);-;-
+;Paul;Engelmann;;;Nachr.2.4.65;;
+-;Irwin ;Epstein;85;"18.9.64	f";;-;-
 Rabb.;Max;EscheIbacher;-;-;Nachr.7.8.64;-;-
 Dr.;Erich;Eyck;-;-;Nachr.3.7.64;-;-
--;Paul;Engelmann;-;-;Nachr.2.4.65;-;-
 Dr.;Ernst;Feder;-;-;Nachr.17.4.64;-;-
-Dr.;Hugo;Feilchenfeld;-;6.5.64;9o:  AStern);-;-
+Dr.;Hugo;Feilchenfeld;-;06.05.1964;9o:  AStern);-;-
 -;Berthold;Feiwel;-;-;(n.GLandauers  Nachr.'58)2.2.62;-;-
 Dr.;Ernst;Feldsberg;-;-;Präs.d.Wiener  Gem.8.5.65;-;-
 -;Mouloud;Feraoun;-;-;Nachr.6.4.62;-;-
 -;Lion;Feuchtwanger;-;-;(1884-1958);-;-
--;Isaak;Feuerring;-;18.1.65;25.Todestg;-;-
-Dr.;Walter;Fischer;75;15.5.64;EAuerbach);-;-
+-;Isaak;Feuerring;-;18.01.1965;25.Todestg;-;-
+Dr.;Walter;Fischer;75;15.05.1964;EAuerbach);-;-
 -;Ella;Fleischmann;-;-;Nachr.26.1.62(VKellner);-;-
 -;Alfred;Frank;-;-;Todanz.6.9.65;-;-
-Prof.;Abr.Halevi;Fränkel;-;-;Nachr.29.Io.65;-;-
--;Jakob;Fränkel;-;-;8o:26.1.62;-;Haifa
-Prof.;Jonas;Fränkel;-;18.6.65;85:  -Nachr.Notiz;-;-
--;Noemi;Fränkel;-;-;Rez.l7.1o.62(MMAyer);-;-
-Dr.;Stefan;Fränkel;-;-;Todanz.1.1.65;-;-
--;Felix;Frankfurter;-;5.5.65;Würdigung  ßaumgardt);-;-
+Prof.;Abraham Halevi;Fr�nkel;-;-;Nachr.29.Io.65;-;-
+-;Jakob;Fr�nkel;-;-;8o:26.1.62;-;Haifa
+Prof.;Jonas;Fr�nkel;-;18.06.1965;85:  -Nachr.Notiz;-;-
+-;Noemi;Fr�nkel;-;-;Rez.l7.1o.62(MMAyer);-;-
+Dr.;Stefan;Fr�nkel;-;-;Todanz.1.1.65;-;-
+-;Felix;Frankfurter;-;05.05.1965;Würdigung  ßaumgardt);-;-
 -;Frieda;Frankl;-;-;Nachr.25.5.62;-;-
--;Sigmund;Freud;-;27.11.64;1856-1959);-;-
--;Otto;Freundlich;-;24.7.64;;-;-
--;Paula;Frenke1;-;-;8o:5.2.65(EMayer,Lotan);-;-
+-;Sigmund;Freud;-;27.11.1964;1856-1959);-;-
+-;Otto;Freundlich;-;24.07.1964;;-;-
+-;Paula;Frenkel;-;-;8o:5.2.65(EMayer,Lotan);-;-
 Dr.;Arthur;Freund;-;-;Nachr.24.12.65;-;-
 Dr.;Erich;Frey;-;-;Nachr.24.4.64;-;-
--;Edw.M.;Frischauer;-;-;Nachr.51.1.64;-;-
+Dr.;Wilhelm;Freyhan;;;;;
+Dr.;Kurt;Freyer;;;;;
+;Ferenc;Fricsay;;;;;
+-;Edward M.;Frischauer;-;-;Nachr.51.1.64;-;-
 -;Erich;Fromm;-;-;Rez.25.8.65(MGerson);-;-
 -;Robert;Frost;-;-;Nachr.15.2.65;-;poet
 -;Ludwig;Fulda;-;-;Gdenkausstellg.Frankft.7.9.62(1862-1959);-;-
@@ -127,364 +135,386 @@ Dr.;Erich;Frey;-;-;Nachr.24.4.64;-;-
 -;Sail;Geis;-;-;Nachr.22.2.63;-;-
 Dr.;N.M.;Gelber;-;-;7o:7.8.64;-;-
 -;Zvi;Gelles;-;-;Nachr.20.12.63;-;-
--;Stefan	g.u.Judentm;George;-;5.4.63;Kraft)  auch:8.4.60)  s.Jüd.Rundsch.22.12.33);-;-
-Dr.;Eugen;Gerstenmaier;-;23.11.62;in  Israel;-;-
+-;Stefan;George;-;05.04.1963;Kraft)  auch:8.4.60)  s.Jüd.Rundsch.22.12.33);-;-
+Dr.;Eugen;Gerstenmaier;-;23.11.1962;in  Israel;-;-
 -;Ephraim;Ginsberg;-;-;Gedenknot.11.5.62;-;-
 -;Karl;Glaser;-;-;Nachr.29.1.65(WFischer);-;-
 Prof.;N.N.;Glatzer;-;-;6o:22.3.63(Wilhelm);-;-
-Dr.;Nahum;Goldmann;-;17.5.63;Rede  (geb.10.7.1895);-;-
-Dr.;Daniel;Goldschmidt;-;-;7o:31.12.65	.;-;-
-Dr.;Nax;\^Goldschmidt;-;-;lodanz.16.2.62—<	4  T-t  ?>  (  H  U  O;-;-
--;Aron;Gordon;-;23.2.62;David  4o.Todestg  HBergman);-;-
+Dr.;Nahum;Goldmann;-;17.05.1963;Rede  (geb.10.7.1895);-;-
+Dr.;Daniel;Goldschmidt;-;-;"7o:31.12.65	.";-;-
+Dr.;Max;Goldschmidt;-;-;"lodanz.16.2.62—<	4  T-t  ?>  (  H  U  O";-;-
+;;Goldstein;;;;;
+-;Aron David;Gordon;-;23.02.1962;David  4o.Todestg  HBergman);-;-
 -;Hermann;Goering;-;-;Biogr.il.1.63;-;-
--;Erich;Gottgetreu;-;9.8.63;6o:;-;-
--;Martha;Graham/;-;2.11.62;Kritik  Geis);-;Tänzerin
+-;Erich;Gottgetreu;-;09.08.1963;6o:;-;-
+-;Martha;Graham;-;02.11.1962;Kritik  Geis);-;Tänzerin
 Dr.;Abr.;Granot;-;-;Nachr.27.7.62;-;-
--;J.L.;Grasowsky;-;9.2.62;loo.Geburtstg;-;-
-Prof.;Heinr.;Graetz;-;6.9.63;Briefe  an  MHess  Bato)  1817-1891);-;-
+-;J.L.;Grasowsky;-;09.02.1962;loo.Geburtstg;-;-
+Prof.;Heinrich;Graetz;-;06.09.1963;Briefe  an  MHess  Bato)  1817-1891);-;-
 -;Sammy;Gronemann;-;-;lo.Todestg.23.3«62(Geis);-;-
--;Kurt;Grossmann;65;18.5.62;R.;-;-
+-;Kurt;Grossmann;65;18.05.1962;R.;-;-
 Dr.;Benjamin;Grzebinasch;-;-;Nachr.21.5•65;-;-
 -;Simon;Gruenewald;-;-;Nachr.18.5.62;-;-
-Rabb.;Max;Grünewald;-;9.4.65;4o.Jubiläum  MK);-;-
-Dr.;M.J.;Gutmann;-;29.6.62;l.Todestg;-;-
+Rabb.;Max;Gr�newald;-;09.04.1965;4o.Jubiläum  MK);-;-
+Dr.;M.J.;Gutmann;-;29.06.1962;l.Todestg;-;-
 -;Jacob;Haarpuder;-;-;Todanz.18.lo.63;-;-
 -;David;Hacohen;-;-;Rez.27.12.63(Gh);-;-
-Dr.;Kurt;Hahn;-;7.2.64;;-;-
+Dr.;Kurt;Hahn;-;07.02.1964;;-;-
 -;Toni;Halle;-;-;Hachr.14.8.64;-;-
 Dr.;Georg;Halpern;-;-;Nachr.1.6.62;-;-
--;Dag;Hammarskjoeld;-;11.1.63;H  u.Buber;-;-
+-;Dag H.;Hammarskjoeld;-;11.01.1963;H  u.Buber;-;-
 -;Abr.;Haft;-;-;Nachr.15.1.65;-;-
--;Josephine;Handler;-;-;Else  Nachr.23.11.62;-;-
-Dr.;Arthur;Hantke;-;29.10.65;lo.Todestg;-;-
--;Gerhart;Hauptmann;-;6.4.62;loo.Geburtstg;-;-
+-;Josephine Else;Handler;-;-;Else  Nachr.23.11.62;-;-
+Dr.;Arthur;Hantke;-;29.10.1965;lo.Todestg;-;-
+-;Gerhart;Hauptmann;-;06.04.1962;loo.Geburtstg;-;-
 -;Jakob;Hegner;-;-;Nachr.26.lo.62;-;-
--;Max;Hecker;-;-;M.  Nachr.lo.7.64(Herlitz);-;-
--;;Heine;-;16.4.62;He  inrich  FamilienHaggada  (Braun);-;-
--;Sir;Henriques;-;-;Basil  Nachr.5.1.62(EG1>);-;-
+-;Max M.;Hecker;-;-;M.  Nachr.lo.7.64(Herlitz);-;-
+-;Heinrich;Heine;-;16.04.1962;He  inrich  FamilienHaggada  (Braun);-;-
+-;Basil;Henriques;-;-;Basil  Nachr.5.1.62(EG1>);-;-
 Dr.;Georg;Herlitz;-;-;8o:12.3.65(FrMeyer,ESimon);-;-
 -;Theodor;Herzl;-;-;Rez.Famgesch.15.11.63(Braun);-;-
--;Artur;Herzog;-;29.3.63;7o:;-;-
+-;Artur;Herzog;-;29.03.1963;7o:;-;-
 -;Robert;Hess;-;-;Nachr.3o.11.62(Elk);-;-
--;Hermann;Hesse;-;6.7.62;H-Archiv;-;-
-Prof.;Th.;Heuss;-;-;Nachr.2o.12.63;-;-
-Rabb.;Egriel;Hildesheimer;-;11.5.62;(Briefe  gesucht);-;-
+-;Hermann;Hesse;-;06.07.1962;H-Archiv;-;-
+Prof.;Theodor;Heuss;-;-;Nachr.2o.12.63;-;-
+Rabb.;Esriel;Hildesheimer;-;11.05.1962;(Briefe  gesucht);-;-
 -;Kurt;Hiller;-;-;8o:2o.8.65(Freeden);-;-
 -;Paul;Hindemith;-;-;Nachr.Io.1.64(Seelfr);-;-
 -;Charlotte;Hirsch;-;-;Nachr.1.11.63(Wilhelm);-;-
 Dr.;Salli;Hirsch;-;-;in  memor(8o.Geburtg)2.7.65(SM);-;-
--;Leo;Hirsch;-;2.11.62;Notiz;-;-
--;Martin;Hirsch;-;24.5.63;in  TelAviv;-;ßonn
+-;Leo;Hirsch;-;02.11.1962;Notiz;-;-
+-;Martin;Hirsch;-;24.05.1963;in  TelAviv;-;ßonn
 -;Emmy;Hirschberg;-;-;8o:19.2.65(MTP);-;-
--;Rolf;Hoohhuth;-;19.4.63;Stellvertreter  HT);-;-
+-;Rolf;Hochhuth;-;19.04.1963;Stellvertreter  HT);-;-
 -;Martha;Hofmann;-;-;7o:  26,11.65;-;-
 -;Rosa;Holde;-;-;Nachr.17.9.65;-;-
-Dr.;Gerhard;Holdheim;-;23.11.62;7o:  PHirsch);-;-
--;Ricarda;Huch;-;17.7.64;(1864-1947);-;-
-Dr.;Erich;Hurwitz;-;3.5.63;2.Todestg;-;-
+Dr.;Gerhard;Holdheim;-;23.11.1962;7o:  PHirsch);-;-
+-;Ricarda;Huch;-;17.07.1964;(1864-1947);-;-
+Dr.;Erich;Hurwitz;-;03.05.1963;2.Todestg;-;-
 -;Rafael;Hurwitz;-;-;Todanz.8.3.63;-;-
 -;Max;Hurwitz;-;-;Nachr.5.3.65;-;-
--;Abr.Adolf;Israeli(Israelski);-;-;Nachr.21.12.62;-;-
+-;Abraham Adolf;Israeli;-;-;Nachr.21.12.62;-;-
 Dr.;Josef;Jacobsohn;-;-;6o:8.5.64;-;-
 Dr.;Jacob;Jacobsohn;-;-;7o:22.11.63  (ST);-;-
+Dr.;Paul;Jakob;;;;;
 Prof.;Karl;Jaspers;-;2.9.6o;Gespräch;-;-
--;Jewgeni;Jewtuschenko;-;29.6.62;Babi  Jar  EMayer);-;-
+Prof.;Edmund;Jerusalem;;;;;
+-;Jewgeni;Jewtuschenko;-;29.06.1962;Babi  Jar  EMayer);-;-
 Prof.;Karl;Joel;-;27.7.34.;"(1864-1934)""Jiid.Rundschau""  u.27.11.34";-;-
-Dr.;Giora;Josephtai;-;-;Nachr.31.8.62(Lotan);-;-
+Dr.;Giora;Josephtal;-;-;Nachr.31.8.62(Lotan);-;-
 Dr.;Adolf;Juda;-;-;8o:2.3.62;-;-
-Dr.;Max;Jungmann;-;2.4.65;90:  EAuerbach);-;-
+Dr.;Max;Jungmann;-;02.04.1965;90:  EAuerbach);-;-
 Dr.;Schlomo;Juliusburger;-;-;Nachr.3o.4.65;-;-
 Dr.;Leo;Kadman;-;-;Nachr.lo.l.64(Preuss);-;-
--;Franz;Kafka;-;16.4.62;Betrachtungen  Kraft);-;1885-1924
+-;Franz;Kafka;-;16.04.1962;Betrachtungen  Kraft);-;1885-1924
 Prof.;Paul;Kahle;-;-;Nachr.5o.Io.64;-;-
 Dr.;Paul;Kahn;-;-;Nachr.20.5.64;-;-
 Dr.;Siegfried;Kanowitz;-;-;l.Todestg  lo.8.62(BC);-;-
-Dr.;Ch.J.;Kapralik;-;-;7o:  5o.4.65(ht);-;-
--;Ktharina;Kardorff-Oheimb;-;-;v.  Nachr.6.4.62;-;-
--;Shmuel;Katz;-;14.9.62;Würdigung  (HStrauss);-;-
+Dr.;Charles J.;Kapralik;-;-;7o:  5o.4.65(ht);-;-
+-;Katharina;Kardorff-Oheimb von;-;-;v.  Nachr.6.4.62;-;-
+-;Shmuel;Katz;-;14.09.1962;Würdigung  (HStrauss);-;-
 Dr.;Julius;Kaufmann;-;-;Nachr.2.4.65;-;-
 -;Eugen;Kaufmann;75;51.8.62;;-;-
--;Jizchak;Kaznelson;-;5.7.64;2o.Todestg;-;-
-Dr.;Victor;Ketlner;75;25.11.62;(HBergman);-;-
+-;Jizchak;Kaznelson;-;05.07.1964;2o.Todestg;-;-
+Dr.;Victor;Kellner;75;25.11.1962;(HBergman);-;-
 -;Shoshana;Kellner-Gilad;-;-;"Nachr.5.5.65  """;-;-
--;Moshe;Keren(Krämer);-;-;Erich  Nachr.2o.8.65(RW);-;-
-Dr.;Siegfried;Kessler;-;9.8.65;Gedächthisfonds;-;-
-Prof.;Leo;Kestenberg;-;26.1.62;Nachrufe  aJ-L.  .);-;-
+-;Moshe;Keren;-;-;Erich  Nachr.2o.8.65(RW);-;-
+;Moshe;Kr�mer;;;;;
+Dr.;Siegfried;Kessler;-;09.08.1965;Gedächthisfonds;-;-
+Prof.;Leo;Kestenberg;-;26.01.1962;Nachrufe  aJ-L.  .);-;-
 Dr.;Bruno;Kirschner;-;-;Nachr.24.4.64(Herlitz);-;-
 -;Martin;Kirschstein;-;-;Nachr.26.7.65(BC);-;-
 -;Edith;Klee;-;-;Nachr.18112.64;-;-
-Dr.;Rudolf;«■Kiwi;-;17.9.65;Nachr.;-;-
--;;Klinghoffer;-;7.2.64;David  Nachr.  (ZKr)KMpfxkrxKKrrjrx?5xi2xix£2;-;-
-Dr.;Harry;Knopf;-;12.1.62;75:  (OH);-;-
+Dr.;Rudolf;Kiwi;-;17.09.1965;Nachr.;-;-
+-;David;Klinghoffer;-;07.02.1964;David  Nachr.  (ZKr)KMpfxkrxKKrrjrx?5xi2xix£2;-;-
+Dr.;Harry;Knopf;-;12.01.1962;75:  (OH);-;-
 -;Else;Kober;-;-;Nachr.8.5.64;-;-
 Dr.;Franz;Kobler;-;-;Nachr.4.6.65  u.25.6.65;-;-
--;Charlotte;Köbner;-;-;"""achr.6.8.65";-;-
+-;Charlotte;K�bner;-;-;"""achr.6.8.65";-;-
 Prof.;Hans;Kohn;-;-;Rez.25.5.62(Gottgetreu);-;-
 -;Arthur;Kohn;-;-;8o:5o.lo.64;-;-
--;Meir;Königshöfer;-;-;9o:9-5.62;-;-
+-;Meir;K�nigsh�fer;-;-;9o:9-5.62;-;-
 -;Fritz;Kortner;-;-;7o:25.5.62;-;-
-Dr.;Siegfried;Kracauer;-;-;75  :51.1.64;-;-
+Dr.;Siegfried;Kracauer;-;-;23380,16042;-;-
 Dr.;Markus;Kraemer;-;-;Nachr.12.6.64;-;-
 -;Karl;Kraus;-;-;K.K.29.5.55(M.Teich);-;1874-1956
 -;Elijahu;Krause;-;-;Nachr.1.6.62;-;-
--;Wilhelm;Kreil;-;-;6o:24.8.62(HT);-;-
-Dr.;Gustav;Krojanker;-;16.7.65;2o.Todestg  HT);-;-
-Prof.;Baruch;Kurzweil;-;24.1.64;Bialikpreis;-;-
-Dr.;Rudolf;K'istermeier;-;-;6o:22.2.65;-;-
--;Hedwig;Lachmann;-;10.9.65;loo.Geburtstg;-;-
+-;Wilhelm;Krell;-;-;6o:24.8.62(HT);-;-
+Dr.;Gustav;Krojanker;-;16.07.1965;2o.Todestg  HT);-;-
+Dr.;Chaim H.;Kuhn;;;;;
+Prof.;Baruch;Kurzweil;-;24.01.1964;Bialikpreis;-;-
+Dr.;Rudolf;K�stermeier;-;-;6o:22.2.65;-;-
+-;Hedwig;Lachmann;-;10.09.1965;loo.Geburtstg;-;-
 Dr.;Siegfried;Landau;-;-;Todanz.1.6.62;-;-
--;^r.Georg;Landauer;-;2.2.62;8.Todestg  HT);-;-
-Dr.;Abraham;Landsberg;75;27.4.62;HT);-;-
--;Silvius;Landsberg;-;26.4.63;Würdigung  Gottgetr);-;-
+Dr.;Georg;Landauer;-;02.02.1962;8.Todestg  HT);-;-
+Dr.;Abraham;Landsberg;75;27.04.1962;HT);-;-
+-;Silvius;Landsberg;-;26.04.1963;Würdigung  Gottgetr);-;-
 Prof.;Franz;Landsberger;-;-;Nachr.10.4.64;-;-
--;Ferdinand;lassale;-;6.11.64;loo.Todestg;-;-
-Dr.;Max;Läufer;-;-;Nachr.25.1.63;-;-
-Dr.;Fr.E.Nachr.26.2.65;Laupheimer;-;-;;-;HBarth
--;Sir;Lauterpacht;-;4.5.62;Hersh  2.Todestg;-;-
--;T.E.;Lawrence;-;7.6.63;Briefe  Arnold);-;-
--;Bernard;Lazare;-;11.6.65;loo.Geburtatg;-;-
-Dr.;Julius;Leber;-;2.8.63;(PRosenblüth);-;SPD-Führer
-Dr.;Siegfried;Lehmann;-;5.1.62;(Gedenken:7o);-;-
-Prof.;Theodor(;Lessing;-;-;"1872-1933)	x.  faS""  Ct<L-  )  '  /";-;-
-Dr.;John;Levy;-;-;7o:8.2.63	U;-;-
--;Shmarjahu;Levin;-;18.6.65;3o.Todestg;-;-
--;Anna;Levy-Salz;-;3.12.65;Nachr.;-;-
+;Else;Lasker-Sch�ler;;;;;
+-;Ferdinand;Lassale;-;06.11.1964;loo.Todestg;-;-
+Dr.;Max;Laufer;-;-;Nachr.25.1.63;-;-
+Dr.;Fr.E.;Laupheimer;-;26.02.1965;;-;HBarth
+-;Hersch;Lauterpacht;-;04.05.1962;Hersh  2.Todestg;-;-
+-;T.E.;Lawrence;-;07.06.1963;Briefe  Arnold);-;-
+-;Bernard;Lazare;-;11.06.1965;loo.Geburtatg;-;-
+Dr.;Julius;Leber;-;02.08.1963;(PRosenblüth);-;SPD-Führer
+Dr.;Siegfried;Lehmann;-;05.01.1962;(Gedenken:7o);-;-
+Prof.;Theodor;Lessing;-;-;"1872-1933)	x.  faS""  Ct<L-  )  '  /";-;-
+Dr.;John;Levy;-;-;"7o:8.2.63	U";-;-
+-;Shmarjahu;Levin;-;18.06.1965;3o.Todestg;-;-
+-;Anna;Levy-Salz;-;03.12.1965;Nachr.;-;-
 Dr.;Ernst;Lewy;-;-;Nachr.  lo.5.63(MTP);-;-
 -;Philipp;Lichtenstein;-;-;Nachr.9.3.62;-;-
-Prof.;Hans;Liebeschütz;-;-;7o:29.11.63(HT);-;-
--;"E.M.(6o:""";Lilien;-;25.5.34);"Jlid.  Rundschau""";-;-
+;Richard;Lichtheim;;10.05.1963;Nachruf;;
+Prof.;Hans;Liebesch�tz;-;-;7o:29.11.63(HT);-;-
+-;E.M.;Lilien;-;25.5.34);"Jlid.  Rundschau""";-;-
 Dr.;Eduard;Liepmann;-;-;Nachr.3.1.64;-;-
 -;Shlomo;Lion;-;-;7o:22.11.63;-;-
+;Joachim;Lipsch�tz;;;;;
 -;Marianne;Littmann;-;-;Todanz„9.8.63;-;-
--;Berl;Locker;75;1.6.62;AdlerRudel);-;-
+-;Berl;Locker;75;01.06.1962;AdlerRudel);-;-
+Dr.;Gustav;Loeffler;;;;;
 Dr.;Giora;Lothan;-;-;6o:13.7.62(HT,MTP);-;-
--;Jakob;Löw;-;-;Nachr.21.6.63	H  T  );-;-
--;Alexander;Löwenstein;-;-;9°:11.1.63;-;-
+-;Jakob;L�w;-;-;"Nachr.21.6.63	H  T  )";-;-
+-;Alexander;L�wenstein;-;-;9°:11.1.63;-;-
 Dr.;Fritz;Loewenstein;-;-;;-;perez
--;Joseph;Löwy;-;-;in  roemor.29.lo.65;-;-
-Rabb.;S„;Löwy;-;-;8o:3.9.65;-;-
-Dr.;E.G.;\Lowenthal;-;25.12.64;6o:  HT)	—w  *•';-;-
--;Bernhard;Lustig;-;6.9.64;"8o;";-;-
+-;Joseph;L�wy;-;-;in  roemor.29.lo.65;-;-
+Rabb.;S.;L�wy;-;-;8o:3.9.65;-;-
+Dr.;E.G.;Lowenthal;-;25.12.1964;"6o:  HT)	—w  *•'";-;-
+;Samuel;Lublinski;;;;;
+-;Bernhard;Lustig;-;06.09.1964;"8o;";-;-
 -;David;Luschnat;-;-;7o:8.1o.65;-;-
--;;Lüth;-;31.1.64;Erich(  geb.  19o2)6o:  irr);-;-
+-;Erich;L�th;-;31.01.1964;Erich(  geb.  19o2)6o:  irr);-;-
 -;Gustav;Mahler;-;-;;-;186o-1911
+;J.L.;Maimon;;;;;
 -;Thomas;Mann;-;-;l.Briefbd.2.2„62(Gottgetr);-;-
 Dr.;Alfred;Marcus;-;-;"Nachr.26.1.62	""	t  /'";-;-
 -;Hanna;Marcus;-;-;Nachr.21.5.65;-;-
-Dr.;Max;Marcuse;65;6.4.62;;-;-
--;Julius;Ma^golinski;-;-;7o:26.11.65;-;-
+Dr.;Max;Marcuse;65;06.04.1962;;-;-
+-;Julius;Margolinski;-;-;7o:26.11.65;-;-
 -;Ludwig;Markowicz;-;-;Nachr.21.12.62(I-Uacohs  on);-;-
-Dr.;Walter;-Mannheim;-;-;7o:  22.lo.65;-;-
+Dr.;Walter;Mannheim;-;-;7o:  22.lo.65;-;-
+;Simon;Marks;;;;;
 -;Roland;Marwitz;-;-;Nachr.5.1.62;-;-
 -;Zenta;Maurina;-;-;Rez.16.3.62(ArnoId);-;-
 -;Richard;Mayer;-;-;9o:17.9.65;-;-
-Dr.;Bugen;Mayer;-;-;8o:6.6.62(ESiraon);-;-
--;Ludwig;Mayer;85;21.2.64;;-;-
--;Ludwig;Meidner;80;8.5.64;;-;-
--;Moses;Mendelssohn;-;25.5.62;Judenstaatsprojekt  /7.6.62/lo.8.62;-;-
+Dr.;Eugen;Mayer;-;-;8o:6.6.62(ESiraon);-;-
+-;Ludwig;Mayer;85;21.02.1964;;-;-
+-;Ludwig;Meidner;80;08.05.1964;;-;-
+-;Moses;Mendelssohn;-;25.05.1962;Judenstaatsprojekt  /7.6.62/lo.8.62;-;-
 Dr.;Andreas;Meyer;-;-;"75;6.9-63(Gerling)";-;-
 Dr.;Seew;Meyer;-;-;H.6o:23.8.63(Gumpertz);-;-
--;G.;Meyerbeer;-;6.5.49;"s.""Vergötterte  jüd.Musiker""";-;-
+-;G.;Meyerbeer;-;06.05.1949;"s.""Vergötterte  jüd.Musiker""";-;-
 -;Edwin;Meyersohn;-;-;7o:1.11.63;-;-
 -;Chaim;Michels;-;-;Nachr.l7.4.64(BC);-;-
 Dr.;Fritz;Millner;-;-;Nachr.29.3.63(ESimon(s.a.Erlittene  Dichtg  2o.3.59);-;-
--;Rafael;Mohar;-;1.3.63;Gedenkausstellg;-;-
+-;Rafael;Mohar;-;01.03.1963;Gedenkausstellg;-;-
 -;Hans;Moller;-;-;Hachr.17.lo.62(Ollendorff);-;-
--;Alfred(;Mombert;-;9.2.62;18'72-1942)Mystifikation  ht);-;-
--;62(Times;21.12;-;-;Lit);-;-
--;Lady;Montagu;-;-;Lily  Nachr.15.2.63;-;-
--;Leonard;Monteflore;-;-;G.  Nachr.12.1.62/26.1.62;-;-
+-;Alfred;Mombert;-;09.02.1962;18'72-1942)Mystifikation  ht);-;-
+-;Lily;Montagu;-;-;Lily  Nachr.15.2.63;-;-
+;Judith;Montfiore;;;;;
+-;Leonard;Montefiore;-;-;G.  Nachr.12.1.62/26.1.62;-;-
 -;Moses;Montefiore;-;-;loo.Todestg  seiner  Frau  Judith  lo.8.62;-;-
-Dr.;Kurt;Mossberg;-;25.6.65;A.Museum  Haaretz;-;-
+Dr.;Kurt;Mossberg;-;25.06.1965;A.Museum  Haaretz;-;-
 -;Christian;Morgenstern;-;-;Rez.Briefe  5.lo.62(HBergman);-;-
 Dr.;Siegfried;Moses;-;-;DavidRosiliopreis  3o.3.62;-;-
--;Margarete;Moses;75;15.10.65;;-;-
+-;Margarete;Moses;75;15.10.1965;;-;-
 Dr.;Herman;Muller;-;-;7o:18.lo.63(HT);-;-
--;Anita;Hiiller-Cohen;-;-;Nachr.6.7.62;-;-
-Dr.;Leo;Münz;-;-;Hachr.14.5.65(HT);-;-
--;Fritz;Naphtali;-;25.5.62;Perez  l.Todestg  Lotan);-;-
--;Thea;I^than;-;5.11.65;Jerusalempreis;-;-
+-;Anita;M�ller-Cohen;-;-;Nachr.6.7.62;-;-
+Dr.;Leo;M�nz;-;-;Hachr.14.5.65(HT);-;-
+-;Fritz;Naphtali;-;25.05.1962;Perez  l.Todestg  Lotan);-;-
+-;Thea;Nathan;-;05.11.1965;Jerusalempreis;-;-
 Dr.;Bruno;Nathan;-;-;Vo:15.6.62;-;-
 -;Wolfgang;Nehab;-;-;Naehr.Zo.il.62;-;-
 -;Hertha;Neufeld;-;-;8o:24.12.65;-;-
--;Robert;Neumann;65;25.5.62;;-;Schriftat
+-;Robert;Neumann;65;25.05.1962;;-;Schriftat
 Dr.;Fritz;Neumann;-;-;Simon  Nachr.16.4.65/  Zo.4.65;-;-
-Dr.;Max;Nordau;-;14.6.63;4o.Todestg    geb.  1849)■;-;-
+Rabb.;Israel;Nobel;;;;;
+Dr.;Max;Nordau;-;14.06.1963;4o.Todestg    geb.  1849)■;-;-
 Dr.;Hugo;Nothmann;-;-;Zwi  Nachr.lo.9.65(AStern);-;-
 -;Samuel;Nothmann;-;-;Naohr.9.Z.62(0Weissmann);-;-
 Dr.;Meinhold;Nussbaum;-;18.9.6j;lo.Todestg  ffr,Lion);-;-
 Dr.;Robert;Nussbaum;-;-;Naohr.9.11.62JLev^)  /21.12.62(Blumenfeld);-;-
--;Kae;01ivenbaum;-;-;te  Tode  ganz.25.1.63;-;-
-Prof.;Eranz;Oppenheiner;-;-;2o.3.64;-;1864-1943
+-;Kaete;0livenbaum;-;-;te  Tode  ganz.25.1.63;-;-
+;Erich;Ollenhauer;;;;;
+Prof.;Franz;Oppenheiner;-;-;2o.3.64;-;1864-1943
 -;Sascha;Parnes;-;-;Nachr.l7.1.64(WSchocken);-;-
--;Bertha;PappenheIm;-;-;Biogr.27.3.64;-;-
+-;Bertha;Pappenheim;-;-;Biogr.27.3.64;-;-
+Dr.;Rudolf;Pechel;;;;;
 Dr.;Alfred;Perlmutter;-;-;5.Todestg  3o.3.62;-;-
--;Leo;Perutz;-;21.9.62;posthume  Ehrung;-;-
-Rabb.;A.;Philipp;60;6.3.64;;-;-
--;Luise;Philipp;-;-;A.Nachr.7.8.64;-;-
-Dr.;Fritz;Pick;75;25.5.62;;-;-
+-;Leo;Perutz;-;21.09.1962;posthume  Ehrung;-;-
+Rabb.;A.;Philipp;60;06.03.1964;;-;-
+-;Luise A.;Philipp;-;-;A.Nachr.7.8.64;-;-
+Dr.;Fritz;Pick;75;25.05.1962;;-;-
 -;Ludwig;Pineoffs;-;-;Nachr.lo.1,64(HT);-;-
-Dr.;Ludwig;Pinner;-;29.1.65;75:  3«  HT  GLu);-;-
+Dr.;Ludwig;Pinner;-;29.01.1965;75:  3«  HT  GLu);-;-
 -;Siegfried;Pirker;-;-;Nachr.7.12.62;-;-
-Dr.;S.J.Nachr.21.8.64;Plaschkes;-;-;;-;ZKr
+Dr.;S.J.;Plaschkes;-;-;;-;ZKr
 Prof.;Menko;Plaut;-;-;Nachr.14.2.64;-;-
 Dr.;R.;Pokorny;-;-;7o:lo.7.64;-;-
 -;Max;Pottlitzer;-;-;M.  Nachr.2,11.62;-;-
 Dr.;Bruno;Powitzer;-;-;Nachr.21.5.65;-;-
-Dr.;Jpseph;Prager;-;25.6.65;80:  MJacobsohn);-;-
--;Willy;Preise;-;-;Nachr,24.8.62;-;-
+Dr.;Joseph;Prager;-;25.06.1965;80:  MJacobsohn);-;-
+-;Willy;Preiss;-;-;Nachr,24.8.62;-;-
 Dr.;Max;Preuss;-;-;7o:8.11.63;-;-
 Dr.;Walter;Preuss;-;-;7o:22.1.65(HT);-;-
 Dr.;Heinz;Pringsheim;-;-;8o:27.4.62;-;-
 -;Emmi;Prius-Feuerstein;-;-;Todesanz.22.6.62;-;-
+;Arthur;Rank;;;;;
 Prof.;Jochanan;Ratner;-;-;E.(geb.lS91)Nachr.12.3.65(Ollendorff);-;-
--;Arhtur;Rau;-;-;Nachr.9.2.62;-;-
+-;Arthur;Rau;-;-;Nachr.9.2.62;-;-
 -;Gustav;Regler;-;-;Nachr.15.2.63;-;-
 Dr.;Hans;Reichmann;-;-;Nachr.5.6.64  (HT);-;-
 Dr.;Paul;Riesenfeld;-;-;Nachr.4.6.65;-;-
-Dr.;Gabriel;Riesser;-;25.1.63;loo.Todestg;-;18o6-63
--;Paula;Risch;75;9.11.62;GLu)  s.a.Wirtin  f.Tausend:15.11.57(Geis);-;-
+Dr.;Gabriel;Riesser;-;25.01.1963;loo.Todestg;-;18o6-63
+-;Paula;Risch;75;09.11.1962;GLu)  s.a.Wirtin  f.Tausend:15.11.57(Geis);-;-
 Dr.;Nehemia;Robinson;-;-;Nachr.31.1.64(HT);-;-
 -;Eleanor;Roosevelt;-;-;dachr.16.11.62;-;-
 -;Felix;Rosen;-;-;P.  75:(Sonderbeilage)4.5.62;-;-
-Dr.;Eduard;Rosenbaum;75;27.7.62;HT);-;-
+Dr.;Eduard;Rosenbaum;75;27.07.1962;HT);-;-
 Dr.;Adolf;Rosenberg;-;-;Nachr.7.2.64;-;-
-Dr.;l«eo;Rosenbliith;-;-;"7o;23.8.63(BC)";-;-
--;;Rosenbliith;-;-;Dr.Martin  Nachr.l2.7.63/19.7.63(SN);-;-
+Dr.;Leo;Rosenbl�th;-;-;"7o;23.8.63(BC)";-;-
+Dr.;Martin;Rosenbl�th;-;-;Dr.Martin  Nachr.l2.7.63/19.7.63(SN);-;-
 Prof.;Paul;Rosenstein;-;-;Nachr.2o.11.64;-;-
 Dr.;Kurt;Rosenthal;-;-;Nachr,25.1.63;-;-
 Dr.;Theodor;Rosenthal;-;-;Nachr.3.7.64;-;-
 -;Erich;Roth;-;-;Nachr.2o.7.62(LCohn)  /lo.S.62  /21.9.62;-;-
--;Prof;Roth;-;5.4.63;.-^eon  Kritik  HBergman);-;-
--;Arnold);26.lo.62(RW;-;-;;-;-
--;J.J.;Rousseau;-;29.6.62;25o.Geburtstg;-;-
+Prof.;Leon;Roth;-;05.04.1963;.-^eon  Kritik  HBergman);-;-
+-;;Rothschild;-;-;;-;-
+-;J.J.;Rousseau;-;29.06.1962;25o.Geburtstg;-;-
 Dr.;Chanan;Rubin;-;-;Hans  Nachr.9.11.62(Preuss);-;-
-Dr.;Arthur;Ruppin;-;11.1.63;2o.Todestg(Brief  Senator);-;-
+Dr.;Arthur;Ruppin;-;11.01.1963;2o.Todestg(Brief  Senator);-;-
 -;Kurt;Ruppin;-;-;7o:lo.4»64;-;-
+Dr.;S.;Saalheimer;;;;;
 -;Julius;Sachs;-;-;7o:1.3.63;-;-
 -;Nelly;Sachs;-;-;(Times  1,11)21.12.62;-;-
--;Erich;Salomon;-;17.1.64;der  1.Bildreporter  ht);-;-
+-;Erich;Salomon;-;17.01.1964;der  1.Bildreporter  ht);-;-
 Dr.;Hans;Salomon;-;-;Nachr.15.6.62(HT);-;-
 -;Clara;Samuel;-;-;Nachr.2.3.62(ECL);-;-
 -;Edith;Samuel;-;-;Nachr.26.6.64;-;-
--;Jakob;Sandbank;-;29.5.64;25.Todestg  GLu);-;-
+;Herbert;Samuel;;;;;
+-;Jakob;Sandbank;-;29.05.1964;25.Todestg  GLu);-;-
 -;J.P.;Sartre;-;-;Biogr.9.2.62;-;-
--;Paul;Schallück;-;-;Notiz  26.lo.62;-;Köln
+-;Paul;Schall�ck;-;-;Notiz  26.lo.62;-;Köln
 -;Shin;Schalom;-;-;Rez.5.4.63(MMayer);-;-
 -;Moshe;Schareth;-;-;Nachr.16.7.65(HT);-;-
 -;Mordechai;Schattner;-;-;Nachr.1.5.64(Lotan);-;-
--;nargathe;Sehelas;-;-;Todesanz.27.9-63;-;-
--;Fr.W.;Schelling;-;5.7.63;Mythos  u.Bibel  HBergman)  /26.1J.63;-;-
+-;Margathe;Schelas;-;-;Todesanz.27.9-63;-;-
+-;Fr.W.;Schelling;-;05.07.1963;Mythos  u.Bibel  HBergman)  /26.1J.63;-;-
+;Leo;Scherek;;;;;
 Dr.;Fritz;Schiff;-;-;Nachr.18.12.64;-;-
 -;Jacob;Schiff;-;-;Frkft  Reminiszenz  3o.3.62(EMayer);-;-
 -;Joseph;Schildkraut;-;-;Nachr.7.2.64;-;-
-Rabb.;Wilh.;Schlesinger;-;25.5.62;25.Jubiläum;-;-
+Rabb.;Wilhelm;Schlesinger;-;25.05.1962;25.Jubiläum;-;-
 -;Basilea;Schlink;-;-;;-;dt.Diakonissin
 -;Arthur;Schnitzler;-;16.3.62/18.5.62;tg;-;1862-1931
--;Arnold;Schönberg;-;25.9.64;;-;-
-Dr.;Fritz;Schoenfeld;-;4.1.63;Nachr.XI;-;-
--;Bruno;Schönlank;-;-;Nachr.l8.6.65(Gottgetr);-;-
--;Ella;Schüler;-;-;Nachr.6.8.65;-;-
+-;Arnold;Sch�nberg;-;25.09.1964;;-;-
+Dr.;Fritz;Schoenfeld;-;04.01.1963;Nachr.XI;-;-
+-;Bruno;Sch�nlank;-;-;Nachr.l8.6.65(Gottgetr);-;-
+-;Ella;Sch�ler;-;-;Nachr.6.8.65;-;-
 -;Moshe;Schwarz;-;-;Karl  8o:lo.12.65;-;-
 Dr.;Albert;Schweitzer;-;-;Sammelschrift  17.lo.62;-;-
 -;Lotte;Seelenfreund;-;-;Todesanz.23.il.62;-;-
 -;Martin;Seeligmann;-;-;Nachr.23.3.62;-;-
--;Giorgos;Seferis;-;8.11.63;Nobelpreis;-;-
+-;Giorgos;Seferis;-;08.11.1963;Nobelpreis;-;-
 -;Elieser;Sekey;-;-;Todesnaz.23.11.62;-;-
-Dr.;David;Senator;-;21.12.62;W.  Gedenkfeier;-;-
--;George;Shaw;-;2.11.62;Bernard  Briefe  Arnold);-;-
+Dr.;David W.;Senator;-;21.12.1962;W.  Gedenkfeier;-;-
+-;George;Shaw;-;02.11.1962;Bernard  Briefe  Arnold);-;-
 Dr.;Felix;Shinnar;-;-;E.  6o:16.4.65(ht);-;-
--;Rabbi;Silver;-;-;A.H.  Nachr.6.12.63;-;-
--;ProfoE.A.;Simon;-;-;65:  2o.3.64(EMayer);-;-
--;Helene;Simon;-;23.11.62;loo.Geburtstg  bTTP)/28.12.62  Briefe;-;-
+Rabb.;A.H.;Silver;-;-;A.H.  Nachr.6.12.63;-;-
+Prof.;Ernst A.;Simon;-;-;65:  2o.3.64(EMayer);-;-
+-;Helene;Simon;-;23.11.1962;loo.Geburtstg  bTTP)/28.12.62  Briefe;-;-
 Dr.;Adolf;Sindler;-;-;Nachr.3.9.65;-;-
-Dr.;Josef;Smoira;-;12.6.64;Schloschim;-;-
+Dr.;Josef;Smoira;-;12.06.1964;Schloschim;-;-
 Dr.;Saul;Sokal;-;-;Nachr.l6.1o.64(ZKr);-;-
 -;Wladimir;Sokoloff;-;-;Nachr.27.4.62;-;-
-Dr.;Belmar;Spier;-;-;“achr.23.11.62(kl);-;-
-Dr.;Abr.;Spighel;-;-;7o:31.8.62(RahelStraus);-;-
+Dr.;Selmar;Spier;-;-;“achr.23.11.62(kl);-;-
+Dr.;Abraham;Spighel;-;-;7o:31.8.62(RahelStraus);-;-
 Prof.;Eugene;Spiro;-;-;9o:6.5.64;-;-
-Prof.;Eduard;Spranger;-;7.10.63;Todesnachricht;-;-
+Prof.;Eduard;Spranger;-;07.10.1963;Todesnachricht;-;-
 Dr.;Max;Stein;-;-;Nachr.1.5.64;-;-
--;Nadja;Stein;-;15.2.63;z.l.Todestg;-;-
--;John;Steinbeck;-;9.11.62;Nobelpreis  Arnold);-;-
+-;Nadja;Stein;-;15.02.1963;z.l.Todestg;-;-
+-;John;Steinbeck;-;09.11.1962;Nobelpreis  Arnold);-;-
 -;Moritz;Steinschneider;-;-;;-;1816-19o7
 Dr.;W.;Sternbach;-;-;Nachr.22.2.63;-;-
 -;Hermann;Sternberg;-;-;Nachr.22.lo.65;-;-
--;;Sterng&jlss;-;26.4.63;Dr.  Ernest  J.  Würdigung  Baumgardt);-;-
+Dr.;Ernest;Sternglass;-;26.04.1963;Dr.  Ernest  J.  Würdigung  Baumgardt);-;-
 -;Adlai;Stevenson;-;-;Nachr.23.7.65;-;-
 -;Otto;Stiel;-;-;7o:I.11.63;-;-
 -;Paul;Stiel;-;-;Todesanz.12.1.62;-;-
-Dr.;Rahe1;Straus;-;2.2.62;Erinnerungen  EMayer);-;-
--;Franz;Strauss;-;7.6.63;Joseph(Mlnister  in  Israel;-;-
--;Louis;Strauss;-;21.6.63;L.)USA)  Memoiren  RW);-;-
--;Ludwig;Strauss;-;5.4.63;Bubers  Geleitwort;-;Dichter
+Dr.;Rahel;Straus;-;02.02.1962;Erinnerungen  EMayer);-;-
+-;Franz;Strauss;-;07.06.1963;Joseph(Mlnister  in  Israel;-;-
+-;Louis;Strauss;-;21.06.1963;L.)USA)  Memoiren  RW);-;-
+-;Ludwig;Strauss;-;05.04.1963;Bubers  Geleitwort;-;Dichter
 -;Igor;Strawinski;-;-;8o:6.6.62(Seelenfr);-;-
 Prof.;Fritz;Strich;-;-;Nachr.6.9.63/27.9.63(brief  Wörmann);-;-
--;Erich;Stroheim;-;9.2.62;v.  jüd.Herkunft;-;-
+-;Erich;Stroheim;-;09.02.1962;v.  jüd.Herkunft;-;-
 -;Manfred;Sturmann;-;-;Rez.2o.l2.63(Flusser);-;-
--;Joachim;Stutschewsky;-;15.3.63;Preis;-;-
--;‘‘iargarete;Susman;-;-;9o:  17.lo.62(HBergmann,Rotenstreich)/26.lo.62  Optimismus;-;-
+-;Joachim;Stutschewsky;-;15.03.1963;Preis;-;-
+-;Margarete;Susman;-;-;9o:  17.lo.62(HBergmann,Rotenstreich)/26.lo.62  Optimismus;-;-
 Dr.;Saul;Symann;-;-;Nachr.14.6.63;-;-
 -;Frieda;Szilard;-;-;Nachr.19.4.63;-;-
--;Henrietta;Szold;-;19.2.65;2o.Todestg  MTP);-;-
+-;Henrietta;Szold;-;19.02.1965;2o.Todestg  MTP);-;-
 -;Fritz;Tau;-;-;6o:22.Z.6Z(Ll);-;-
 Dr.;Max;Tau;-;-;Autobiogr.19.1.62(10?);-;-
--;Michael;Taube;75;26.3.65;;-;-
+-;Michael;Taube;75;26.03.1965;;-;-
 Dr.;Ernst;Tausig;-;-;E.Nachr.15.1.65;-;-
--;Ludwig;Tietz;-;8.11.63;3o.Todestg  Horn);-;-
+-;Ludwig;Tietz;-;08.11.1963;3o.Todestg  Horn);-;-
 Prof.;Paul;Tillich;-;-;Rede  in  Frkft.17.Io62;-;-
 -;Ernst;Toch;-;-;Wachr.16.lo.64;-;-
--;Ernst;Toller;-;19.1.62;Werke  Freeden);-;-
--;Liddy;Treidel;85;21.5.65;;-;-
--;Irma;-Tranier;-;19.4.63;Todesanz.;-;-
+-;Ernst;Toller;-;19.01.1962;Werke  Freeden);-;-
+-;Liddy;Treidel;85;21.05.1965;;-;-
+-;Irma;Tramer;-;19.04.1963;Todesanz.;-;-
 Dr.;Josef;Treu;-;-;Nachr.3.7.64;-;-
--;David;Tschertok(Tesher);-;-;6o:2o.3.64;-;-
--;Kurt;Tuchler;-;11.12.64;7o:  llT  FiM);-;-
--;Kurt;Tucholsky;-;9.11.62;T-Preis;-;-
+-;David;Tschertok;-;-;6o:2o.3.64;-;-
+;David;Tesher;;;;;
+-;Kurt;Tuchler;-;11.12.1964;7o:  llT  FiM);-;-
+-;Kurt;Tucholsky;-;09.11.1962;T-Preis;-;-
 -;Margarete;Turnowsky-Pinner;-;-;Brief-_KW  3o.12.49;-;-
 -;Irene;Triesch;-;-;Uachr.8.1.65  (MT?)  j;-;-
-Prof.;Sinai;Ucko;-;5.11.65;60:;-;-
--;Lesser;Ury;-;2.11.62;Katalogplan;-;1861-1931
--;Johannes;Urzidil;-;5.10.62;in  Jerusalem;-;-
+Prof.;Sinai;Ucko;-;05.11.1965;60:00:00;-;-
+-;Lesser;Ury;-;02.11.1962;Katalogplan;-;1861-1931
+-;Johannes;Urzidil;-;05.10.1962;in  Jerusalem;-;-
 -;Diego;Viga;-;-;;-;pseud?dt.Jude
--;Moses;Waldmann;-;13.11.64;lo.Todestg;-;-
--;Bruno;Walter;-;9.3.62;Gedenken  rw)  /6.4.62(Braband)(1876-1962);-;-
+-;Moses;Waldmann;-;13.11.1964;lo.Todestg;-;-
+-;Bruno;Walter;-;09.03.1962;Gedenken  rw)  /6.4.62(Braband)(1876-1962);-;-
 Dr.;Fritz;Warburg;-;-;Nachr.23.lo.64;-;-
--;Jacob;Wassermann;-;15.3.63;in  metnorSo.Geburtg.;-;-
-Prof.;Alfred;Weber;-;-;Adolf  Nachr.15.2.63;-;-
-Prof.;Max;Weber;-;1.5.64;loo.Geburtstg;-;-
--;Jerome;/Weidman;-;-;Kez.26.7.63(Arnold);-;-
+-;Jacob;Wassermann;-;15.03.1963;in  metnorSo.Geburtg.;-;-
+Prof.;Adolf;Weber;-;-;Adolf  Nachr.15.2.63;-;-
+Prof.;Max;Weber;-;01.05.1964;loo.Geburtstg;-;-
+-;Jerome;Weidman;-;-;Kez.26.7.63(Arnold);-;-
 -;Fanni;Wechsler;-;-;Nachr.5-2.65;-;-
 -;Herzl;Weigler;-;-;i4achr.22.2.63;-;-
 -;Gertrude;Weil;-;-;“achr.13.12.63;-;-
--;Frieda;Weinreich(hanf);-;-;Nachr.3o.4.65/21.5.65;-;-
+-;Frieda;Weinreich;-;-;Nachr.3o.4.65/21.5.65;-;-
+;Frieda;Hanf;;;;;
 -;Siegfried;Weiner;-;-;Nachr.6.9.63;-;-
 Dr.;Elias;Weinstein;-;-;Nachr.19.3.65(ZKr);-;-
 Dr.;George;Weis;-;-;in  Israel  17.lo.62;-;Wien
--;Frieda;Weissmann;85;2.7.65;;-;-
-Dr.;Georg;Weissmann;-;1.2.63;Nachr.  Frtf);-;-
+-;Frieda;Weissmann;85;02.07.1965;;-;-
+Dr.;Georg;Weissmann;-;01.02.1963;Nachr.  Frtf);-;-
 Dr.;Felix;Weltsch;-;-;"8o;2.1o.64";-;-
 -;Hans;Werner;-;-;7o:23.7.65;-;-
--;Franz;Werfel;-;10.9.65;2o.Todestg;-;-
+-;Franz;Werfel;-;10.09.1965;2o.Todestg;-;-
 Dr.;Alfred;Wiener;-;-;Nadir.28.2.64(HT);-;-
 -;Norbert;Wiener;-;-;Nachr.Io.4.64;-;-
--;Oscar;Wilde;-;6.6.62;Briefe  Arnold);-;-
-Rabb.;Kurt;WilheIm;-;-;D.  Nachr.28.5.65(HT  HBergman);-;-
--;General;Wingate;-;9.2.62;Orde  Buch;-;-
--;Salomon;Wininger;-;1.2.63;85:;-;-
+-;Oscar;Wilde;-;06.06.1962;Briefe  Arnold);-;-
+Rabb.;Kurt D.;WilheIm;-;-;D.  Nachr.28.5.65(HT  HBergman);-;-
+-;Orde;Wingate;-;09.02.1962;Orde  Buch;-;-
+-;Salomon;Wininger;-;01.02.1963;85:00:00;-;-
 -;Paul;Winter;-;-;Rez.Prozess  Jesu  7.1o.63(Flusser);-;Engl
 -;Fritz;Wisten;-;-;Nachr.4.1.63;-;Regisseur
+;Adelheid;Witteles;;;;;
 Rabb.;Benedict;Wolf;-;-;Oinchas  9o:5.3.65;-;-
 Dr.;Max;Wolf;-;-;Nachr.4.5.62;-;-
 -;Hilde;Wolff;-;-;Nachr.12.11.65;-;-
--;Kurt;Wolff;-;8.11.63;;-;Verleger
--;David;Wolffsohn;-;18.9.64;5o.Todestg;-;-
--;Karl;Wolfskehl;-;21.12.62;TimesLit);-;1869-1948
+-;Kurt;Wolff;-;08.11.1963;;-;Verleger
+-;David;Wolffsohn;-;18.09.1964;5o.Todestg;-;-
+-;Karl;Wolfskehl;-;21.12.1962;TimesLit);-;1869-1948
 -;Dodi;Wolfson;-;-;Nachr.26.2.65(HT);-;-
-Dr.;Hans;Wollin;75;24.9.65;ThNathan);-;-
--;Dorothea;Wörmann;-;11.5.62;3o.Todestg;-;-
--;Julius;Zeliner;-;-;Nachr.2.3.62;-;-
--;Arnold;Zweig;75;23.11.62;;-;1887-
--;Max;Zweig;-;23.2.62;5  Dramen  7o.Geburtstg,Arnold);-;-
--;Stefan;Zweig;-;23.2.62;2o.Todestg;-;1881-1942
+Dr.;Hans;Wollin;75;24.09.1965;ThNathan);-;-
+-;Dorothea;Wormann;-;11.05.1962;3o.Todestg;-;-
+-;Julius;Zellner;-;-;Nachr.2.3.62;-;-
+-;Arnold;Zweig;75;23.11.1962;;-;1887-
+-;Max;Zweig;-;23.02.1962;5  Dramen  7o.Geburtstg,Arnold);-;-
+-;Stefan;Zweig;-;23.02.1962;2o.Todestg;-;1881-1942
