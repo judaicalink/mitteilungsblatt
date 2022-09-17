@@ -1,0 +1,4588 @@
+{
+    "MBNR.3.PER.2": {
+        "name": {
+            "title": "Prof.",
+            "first": "Karl",
+            "last": "Adler"
+        },
+        "info": [
+            "75:5.2.65"
+        ]
+    },
+    "MBNR.3.PER.3": {
+        "name": {
+            "first": "S.",
+            "last": "Adler-Rudel"
+        },
+        "info": [
+            "70:26.6.64(SM HT MK)"
+        ]
+    },
+    "MBNR.3.PER.4": {
+        "name": {
+            "first": "S.J.",
+            "last": "Agnon"
+        },
+        "info": [
+            "75:2.8.63(MMayer)"
+        ]
+    },
+    "MBNR.3.PER.5": {
+        "name": {
+            "first": "Hermann",
+            "last": "Ahlfeld"
+        },
+        "info": [
+            "70: 6.4.62(mTP)"
+        ]
+    },
+    "MBNR.3.PER.6": {
+        "name": {
+            "first": "Marianne",
+            "last": "Ahlfeld-Heymann"
+        },
+        "info": [
+            "60: 5.2.65(mTP)"
+        ]
+    },
+    "MBNR.3.PER.7": {
+        "name": {
+            "first": "Ur.Kurt",
+            "last": "Alexander"
+        },
+        "info": [
+            ",Nachruf 9.3.62(EGL)"
+        ]
+    },
+    "MBNR.3.PER.8": {
+        "name": {
+            "first": "Kartin",
+            "last": "Altertum"
+        },
+        "info": [
+            "75:7.9.62"
+        ]
+    },
+    "MBNR.3.PER.9": {
+        "name": {
+            "first": "Jakob",
+            "last": "Altmaier"
+        },
+        "info": [
+            "Todesanzeige 15.2.63",
+            "(Amann,Paul \"J\u00fcd.Rundsch\" 30.11,34 Rez."
+        ]
+    },
+    "MBNR.3.PER.11": {
+        "name": {
+            "title": "Dr.",
+            "first": "Rudolf",
+            "last": "Amelunxen"
+        },
+        "info": [
+            "75:9.8.63"
+        ]
+    },
+    "MBNR.3.PER.12": {
+        "name": {
+            "first": "Jehuda",
+            "last": "Amichai"
+        },
+        "info": [
+            "Rez.18.9.63(WLewin)"
+        ]
+    },
+    "MBNR.3.PER.13": {
+        "name": {
+            "first": "Hannah",
+            "last": "Arendt"
+        },
+        "info": [
+            "Rez.Rahel 14.11.58(WLewin)",
+            "Rez.Essays 27.9.62(gl)",
+            "Kritik Eichmannart.5.4.63(KE)",
+            "Briefwechsel m.Scholem 16.8.63",
+            "Kritik 7.10.63 (SM,Buber)"
+        ]
+    },
+    "MBNR.3.PER.18": {
+        "name": {
+            "first": "Meir",
+            "last": "Argov"
+        },
+        "info": [
+            "Nachruf 6.12,63"
+        ]
+    },
+    "MBNR.3.PER.19": {
+        "name": {
+            "first": "Ch.",
+            "last": "Arlosoroff"
+        },
+        "info": [
+            "30.Todestag 21.6.63"
+        ]
+    },
+    "MBNR.3.PER.20": {
+        "name": {
+            "first": "Paula",
+            "last": "Arnold"
+        },
+        "info": [
+            "80(?):22.6.62",
+            "80: 5.2.65(KL)"
+        ]
+    },
+    "MBNR.3.PER.22": {
+        "name": {
+            "first": "Berthold",
+            "last": "Auerbach"
+        },
+        "info": [
+            "150.Geburtstg.2.3.62 u.13.7.62(Gottgetreu)"
+        ]
+    },
+    "MBNR.3.PER.23": {
+        "name": {
+            "title": "Dr.",
+            "first": "Elias",
+            "last": "Auerbach"
+        },
+        "info": [
+            "27.7.62:80 (HT) u.3.8.62(Preiser)",
+            "\"MB\" 1962/65 -2-"
+        ]
+    },
+    "MBNR.3.PER.25": {
+        "name": {
+            "first": "Victor",
+            "last": "Bach"
+        },
+        "info": [
+            "70: 8.1.65(Kishoni)"
+        ]
+    },
+    "MBNR.3.PER.26": {
+        "name": {
+            "title": "Dr.",
+            "first": "Leo",
+            "last": "Baeck"
+        },
+        "info": [
+            "(B.hebr\u00e4isch)90.Geburtstg.24.5.63(Wilhelm)"
+        ]
+    },
+    "MBNR.3.PER.27": {
+        "name": {
+            "first": "Bertha",
+            "last": "Badt-Strauss"
+        },
+        "info": [
+            "80:lo.12.65"
+        ]
+    },
+    "MBNR.3.PER.28": {
+        "name": {
+            "title": "Dr.",
+            "first": "Albert",
+            "last": "Baer"
+        },
+        "info": [
+            "75:5.4.63"
+        ]
+    },
+    "MBNR.3.PER.29": {
+        "name": {
+            "first": "Jacob",
+            "last": "Baer"
+        },
+        "info": [
+            "Georg Nachruf 13.12.63"
+        ]
+    },
+    "MBNR.3.PER.30": {
+        "name": {
+            "title": "Dr.",
+            "first": "K.",
+            "last": "Bal1-Kaduri"
+        },
+        "info": [
+            "(Empfang",
+            "YadWashem)3\u20225.63"
+        ]
+    },
+    "MBNR.3.PER.31": {
+        "name": {
+            "title": "Prof.",
+            "first": "Fritz",
+            "last": "Bamberger"
+        },
+        "info": [
+            "Professur 12.1.62(egl)",
+            "-Jiamberger,Ludwig Reminiszenz B.v.Brentano:30.3.62,<< j"
+        ]
+    },
+    "MBNR.3.PER.33": {
+        "name": {
+            "first": "Shulamit",
+            "last": "Batdori"
+        },
+        "info": [
+            "Gespr\u00e4ch 27.9.62(MTP)\t''"
+        ]
+    },
+    "MBNR.3.PER.34": {
+        "name": {
+            "title": "Prof.",
+            "first": "David",
+            "last": "Baumgardt"
+        },
+        "info": [
+            "Nachruf 9.8.63 (ESimon)"
+        ]
+    },
+    "MBNR.3.PER.35": {
+        "name": {
+            "first": "Arthur",
+            "last": "Beermann"
+        },
+        "info": [
+            "70;13.7.62"
+        ]
+    },
+    "MBNR.3.PER.36": {
+        "name": {
+            "title": "Dr.",
+            "first": "Alex",
+            "last": "Bein"
+        },
+        "info": [
+            "60:18.1.63(Herlitz)",
+            "Ben Gawriel,M.Y.Nachruf 8.10.65"
+        ]
+    },
+    "MBNR.3.PER.38": {
+        "name": {
+            "first": "Gottfried",
+            "last": "Benn"
+        },
+        "info": [
+            "in Times Lit.21.12.62"
+        ]
+    },
+    "MBNR.3.PER.39": {
+        "name": {
+            "first": "Prof",
+            "last": "Bentwich"
+        },
+        "info": [
+            ".Norman Memoiren 13.7.62(PAmold)",
+            "Ben Zvi,Jitzchak(Pr\u00e4s)Nachruf 26.4.63(KL)",
+            "Berendsohn.Prof.W.A. Goethemedaille 19.4.63"
+        ]
+    },
+    "MBNR.3.PER.42": {
+        "name": {
+            "title": "Dr.",
+            "first": "Fritz",
+            "last": "Berger"
+        },
+        "info": [
+            "60:23.3.62(ER)"
+        ]
+    },
+    "MBNR.3.PER.43": {
+        "name": {
+            "first": "Herzl",
+            "last": "Berger"
+        },
+        "info": [
+            "Nachruf 7.9.62(Azaniah)"
+        ]
+    },
+    "MBNR.3.PER.44": {
+        "name": {
+            "title": "Prof.",
+            "first": "Hugo",
+            "last": "Bergman"
+        },
+        "info": [
+            "Rez.26.1.62(RW)",
+            "80:13.12.63(HT,FW,Kellner,Brod) t--1"
+        ]
+    },
+    "MBNR.3.PER.46": {
+        "name": {
+            "first": "Elisabeth",
+            "last": "Bergner"
+        },
+        "info": [
+            "Schiller-Preis 30.11.62"
+        ]
+    },
+    "MBNR.3.PER.47": {
+        "name": {
+            "first": "Ruth",
+            "last": "Berlak-Baeck"
+        },
+        "info": [
+            "Nachruf 19.11.65"
+        ]
+    },
+    "MBNR.3.PER.48": {
+        "name": {
+            "first": "Alfred",
+            "last": "Bernheim"
+        },
+        "info": [
+            "So: 16.7.65",
+            "Beveridge(Lord) Nachruf 29.3.63"
+        ]
+    },
+    "MBNR.3.PER.50": {
+        "name": {
+            "first": "Karl",
+            "last": "Bick"
+        },
+        "info": [
+            "Nachruf 15.1.65(Kr\u00f6ner)"
+        ]
+    },
+    "MBNR.3.PER.51": {
+        "name": {
+            "first": "Herbert",
+            "last": "Biermann"
+        },
+        "info": [
+            "Nachruf 5.10.62(pTau)",
+            "Bin Gorion,Micha Jos. loo.Geburtatg.3.9.65"
+        ]
+    },
+    "MBNR.3.PER.53": {
+        "name": {
+            "first": "Rudolf",
+            "last": "Bing"
+        },
+        "info": [
+            "Nachruf 1.11.63"
+        ]
+    },
+    "MBNR.3.PER.54": {
+        "name": {
+            "title": "Dr.",
+            "first": "Arthur",
+            "last": "Biram"
+        },
+        "info": [
+            "85:30.8.63"
+        ]
+    },
+    "MBNR.3.PER.55": {
+        "name": {
+            "first": "Leo",
+            "last": "Bloch"
+        },
+        "info": [
+            "Nachruf 20.12.63"
+        ]
+    },
+    "MBNR.3.PER.56": {
+        "name": {
+            "title": "Dr.",
+            "first": "Werner",
+            "last": "Bloch"
+        },
+        "info": [
+            "Nachruf 1.5.64(HT)",
+            "1.\tTodestag 30.4.65(BC)"
+        ]
+    },
+    "MBNR.3.PER.58": {
+        "name": {
+            "title": "Dr.",
+            "first": "Richard",
+            "last": "Blum"
+        },
+        "info": [
+            "Nachruf 15.3.63"
+        ]
+    },
+    "MBNR.3.PER.59": {
+        "name": {
+            "first": "Jenny",
+            "last": "Blumenfeld"
+        },
+        "info": [
+            "Nachruf 2.3.62(HT)",
+            "Schloschim 23.3.62(MTV,3moira)",
+            "Gedenkfeier 6.4.62",
+            "1.Todestag 1.3.63"
+        ]
+    },
+    "MBNR.3.PER.63": {
+        "name": {
+            "first": "Kurt",
+            "last": "Blumenfeld"
+        },
+        "info": [
+            "\"Jiid.Rundschau\" 29.5.34: 50",
+            "Nachrufe 31.5.63 (SM,HT)",
+            "Gedenkfeieranzeige 14.6.63",
+            "Gedenkfeiern 28.6.63",
+            "Erinnerungen hebr\u00e4.30.8.63(KL)",
+            "Jahrzeit 29.5.64(Rosen RW HT)u.5.6.64(NGoldmann)",
+            "2.\tTodestag 4.6.65(h1\u2019)",
+            ".Blumstein,Leo Nachruf 16.8.63_______ I31umst ein, Lola Nachruf 3.12.65",
+            "Bodenheimer.Max J. loo.Geburtstag 19.3.65(Braun/"
+        ]
+    },
+    "MBNR.3.PER.72": {
+        "name": {
+            "title": "Prof.",
+            "first": "Franz",
+            "last": "B\u00f6hm"
+        },
+        "info": [
+            "70:19.2.65(HT)"
+        ]
+    },
+    "MBNR.3.PER.73": {
+        "name": {
+            "first": "Zwi",
+            "last": "Boral"
+        },
+        "info": [
+            "Todesanzeige 4.1.63",
+            "MB\" 1962/65 ,3."
+        ]
+    },
+    "MBNR.3.PER.75": {
+        "name": {
+            "first": "Rudolf",
+            "last": "Borchardt"
+        },
+        "info": [
+            "(1877-1945)\u00b1*",
+            "Timea Lit.21.12.62"
+        ]
+    },
+    "MBNR.3.PER.76": {
+        "name": {
+            "first": "Ludwig",
+            "last": "B\u00f6rne"
+        },
+        "info": [
+            "125.Todestag 16.3.62 (1786-1837)"
+        ]
+    },
+    "MBNR.3.PER.77": {
+        "name": {
+            "first": "Alex.U.Nachruf",
+            "last": "Boskowitch"
+        },
+        "info": [
+            "4.12.64"
+        ]
+    },
+    "MBNR.3.PER.78": {
+        "name": {
+            "title": "Dr.",
+            "first": "Siegfr.",
+            "last": "Braun"
+        },
+        "info": [
+            "80:5.11.65"
+        ]
+    },
+    "MBNR.3.PER.79": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ludw.E.Nachruf",
+            "last": "Bregmann"
+        },
+        "info": [
+            "22.3.63"
+        ]
+    },
+    "MBNR.3.PER.80": {
+        "name": {
+            "first": "Hermann",
+            "last": "Broch"
+        },
+        "info": [
+            "Artikel 16.4.62(11?)\t(1886-1951)",
+            "Wien Gedenktafel 18.5.62",
+            "Philosophie 27.9.62(Kurzweil)"
+        ]
+    },
+    "MBNR.3.PER.83": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "Brod"
+        },
+        "info": [
+            "80: 22.5.64(HT FW KL). - Ehrungen:5.6.64"
+        ]
+    },
+    "MBNR.3.PER.84": {
+        "name": {
+            "first": "Emmy",
+            "last": "Broder"
+        },
+        "info": [
+            "Todanzeige 23-3.62"
+        ]
+    },
+    "MBNR.3.PER.85": {
+        "name": {
+            "title": "Dr.",
+            "first": "Daniel",
+            "last": "Brody"
+        },
+        "info": [
+            "So: 17.1.64 (HT)"
+        ]
+    },
+    "MBNR.3.PER.86": {
+        "name": {
+            "title": "Dr.",
+            "first": "Jakob",
+            "last": "Bronowski"
+        },
+        "info": [
+            "W\u00fcrdigung 1.6.62"
+        ]
+    },
+    "MBNR.3.PER.87": {
+        "name": {
+            "first": "David",
+            "last": "Bruenn"
+        },
+        "info": [
+            "5. 70:5.11,65"
+        ]
+    },
+    "MBNR.3.PER.88": {
+        "name": {
+            "first": "Constantin",
+            "last": "Brunner"
+        },
+        "info": [
+            "loo.Geburtatg 31.8.62",
+            "Rez.Neuausgabe 25.1.63"
+        ]
+    },
+    "MBNR.3.PER.90": {
+        "name": {
+            "title": "Prof.",
+            "first": "Martin",
+            "last": "Buber"
+        },
+        "info": [
+            "Rez.Kohn-Biogr.24.8.62(MMayer)",
+            "B u.Hammerskj\u00f6Id 11.1.63",
+            "85: 8.2.63(Beilage)",
+            "Ehrung durch Studenten 22.2.63",
+            "Erasmuspreis 5.4.63",
+            "B \u00fcb.Ludw.Strauss 5.4.63",
+            "B u.Bibel 17.5.63(WGoldstein)",
+            "B in Amsterdam(Preis) 19.7.63(HT)",
+            "Baumspenden in Deutschland 23.8.63",
+            "Erasmus-Rede 13.12.63",
+            "Nachrufe 18.6.65 (HT KL)u.l6.7.65(Brod,Simon,RW,Kohn,Glatzer...)"
+        ]
+    },
+    "MBNR.3.PER.101": {
+        "name": {
+            "first": "Josef",
+            "last": "Buloff"
+        },
+        "info": [
+            "Kritik 8.2.63(Ceis)"
+        ]
+    },
+    "MBNR.3.PER.102": {
+        "name": {
+            "first": "Carl",
+            "last": "Burckhardt"
+        },
+        "info": [
+            "J. 8.1.60(Danziger Mission)",
+            "\"MB\" 1962/65 , -4-"
+        ]
+    },
+    "MBNR.3.PER.104": {
+        "name": {
+            "first": "Pablo",
+            "last": "Casals"
+        },
+        "info": [
+            "Notiz 27.4.62"
+        ]
+    },
+    "MBNR.3.PER.105": {
+        "name": {
+            "first": "Marc",
+            "last": "Chagall"
+        },
+        "info": [
+            "Hadassa\u2014Eenster 16.2.62(HStr)-19.2.65(HStr)"
+        ]
+    },
+    "MBNR.3.PER.106": {
+        "name": {
+            "first": "WS",
+            "last": "Churchill"
+        },
+        "info": [
+            "29.1.65"
+        ]
+    },
+    "MBNR.3.PER.107": {
+        "name": {
+            "first": "Carl",
+            "last": "Cohen"
+        },
+        "info": [
+            "60:23.2.62(ESimon)"
+        ]
+    },
+    "MBNR.3.PER.108": {
+        "name": {
+            "first": "Erich",
+            "last": "Cohn"
+        },
+        "info": [
+            "Nachruf 14.9.62(Lichtheim)",
+            "Todestag 16.8.6}(sm)"
+        ]
+    },
+    "MBNR.3.PER.110": {
+        "name": {
+            "first": "hens",
+            "last": "Cohn"
+        },
+        "info": [
+            "80:7.9.62(llerlitz)"
+        ]
+    },
+    "MBNR.3.PER.111": {
+        "name": {
+            "first": "Josef",
+            "last": "Cohn"
+        },
+        "info": [
+            "60: 6.9.64 (RW)"
+        ]
+    },
+    "MBNR.3.PER.112": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ludwig",
+            "last": "Cohn"
+        },
+        "info": [
+            "Nachruf 25.5.62(Marth)"
+        ]
+    },
+    "MBNR.3.PER.113": {
+        "name": {
+            "title": "Dr.",
+            "first": "Fritz",
+            "last": "Corsing"
+        },
+        "info": [
+            "Nachruf 2X 12.1.62 (EGL)"
+        ]
+    },
+    "MBNR.3.PER.114": {
+        "name": {
+            "first": "Alfrfede",
+            "last": "Cortot"
+        },
+        "info": [
+            "Nachruf 13.7.62(Risenfeld)"
+        ]
+    },
+    "MBNR.3.PER.115": {
+        "name": {
+            "first": "Richard",
+            "last": "Crossman/"
+        },
+        "info": [
+            "(in",
+            "Rechovot)15.5.59",
+            "\"MB\" 1962/65 - 5-"
+        ]
+    },
+    "MBNR.3.PER.117": {
+        "name": {
+            "first": "Hillel",
+            "last": "Dan"
+        },
+        "info": [
+            "Bez<,Autobiogr.(GLi)"
+        ]
+    },
+    "MBNR.3.PER.118": {
+        "name": {
+            "first": "Walter",
+            "last": "Danziger"
+        },
+        "info": [
+            "70:16.2.62",
+            "de Haan,Jacob 5.2.65(Braun)\u201419.2.65(HBergman)"
+        ]
+    },
+    "MBNR.3.PER.120": {
+        "name": {
+            "first": "Ernst",
+            "last": "Deutsch"
+        },
+        "info": [
+            "Kainzmedaille 17.lo.62",
+            "in TelAviv 5.2.65(HT)"
+        ]
+    },
+    "MBNR.3.PER.122": {
+        "name": {
+            "first": "Alice",
+            "last": "Domker"
+        },
+        "info": [
+            "Nachr.23-3-62"
+        ]
+    },
+    "MBNR.3.PER.123": {
+        "name": {
+            "title": "Prof.",
+            "first": "Simon",
+            "last": "Dubnow"
+        },
+        "info": [
+            "3.1.64(RW) (1860-1941)"
+        ]
+    },
+    "MBNR.3.PER.124": {
+        "name": {
+            "title": "Rabb.",
+            "first": "",
+            "last": "D\u00fcnner"
+        },
+        "info": [
+            "Joa.liirsch(v.Amsterdam) 4.1.63",
+            "Durieux/l\u2019illa 85: 3-9-65",
+            "\"MB\" 1962/65 -6-"
+        ]
+    },
+    "MBNR.3.PER.127": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ephraim",
+            "last": "Edelstein"
+        },
+        "info": [
+            "Nachr.1.6.62"
+        ]
+    },
+    "MBNR.3.PER.128": {
+        "name": {
+            "title": "Rabb.",
+            "first": "Salomon",
+            "last": "Ehrmann"
+        },
+        "info": [
+            "Nachr.2.7.65"
+        ]
+    },
+    "MBNR.3.PER.129": {
+        "name": {
+            "title": "Prof.",
+            "first": "Paul",
+            "last": "Ehrlich"
+        },
+        "info": [
+            "W\u00fcrdigung 24.8.62",
+            "Eichmann (s.a.u.Arendt,H.) 7.6.62"
+        ]
+    },
+    "MBNR.3.PER.131": {
+        "name": {
+            "first": "Nathan",
+            "last": "Eidinger"
+        },
+        "info": [
+            "W\u00fcrdigung 17.lo.62"
+        ]
+    },
+    "MBNR.3.PER.132": {
+        "name": {
+            "title": "Prof.",
+            "first": "Alb.",
+            "last": "Einstein"
+        },
+        "info": [
+            "E-Buch in Russland 15.2.65"
+        ]
+    },
+    "MBNR.3.PER.133": {
+        "name": {
+            "first": "Hanns",
+            "last": "Eisler"
+        },
+        "info": [
+            "Nachr.14.9.62"
+        ]
+    },
+    "MBNR.3.PER.134": {
+        "name": {
+            "title": "Prof.",
+            "first": "Ismar",
+            "last": "Elbogen"
+        },
+        "info": [
+            "20.Todestg 2.8.6j(Wilhelm)"
+        ]
+    },
+    "MBNR.3.PER.135": {
+        "name": {
+            "first": "Regi",
+            "last": "Elbogen"
+        },
+        "info": [
+            "Nachr.14.5.65"
+        ]
+    },
+    "MBNR.3.PER.136": {
+        "name": {
+            "first": "Fritz",
+            "last": "Elkan"
+        },
+        "info": [
+            "Nachr.31.1.64"
+        ]
+    },
+    "MBNR.3.PER.137": {
+        "name": {
+            "first": "Clara",
+            "last": "Eltern"
+        },
+        "info": [
+            "schloschim 24.1.64(Ettlinger)",
+            "/ Eppstein,Irwin Nachr.20.12.63",
+            "f\t1.Todestg 11.12.64"
+        ]
+    },
+    "MBNR.3.PER.140": {
+        "name": {
+            "first": "Harry",
+            "last": "Epstein"
+        },
+        "info": [
+            "85:18.9.64\tf"
+        ]
+    },
+    "MBNR.3.PER.141": {
+        "name": {
+            "title": "Rabb.",
+            "first": "Max",
+            "last": "EscheIbacher"
+        },
+        "info": [
+            "Nachr.7.8.64"
+        ]
+    },
+    "MBNR.3.PER.142": {
+        "name": {
+            "title": "Dr.",
+            "first": "Erich",
+            "last": "Eyck"
+        },
+        "info": [
+            "Nachr.3.7.64"
+        ]
+    },
+    "MBNR.3.PER.143": {
+        "name": {
+            "first": "Paul",
+            "last": "Engelmann"
+        },
+        "info": [
+            "Nachr.2.4.65",
+            "\"MB\" 1962/65 -7-"
+        ]
+    },
+    "MBNR.3.PER.145": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ernst",
+            "last": "Feder"
+        },
+        "info": [
+            "Nachr.17.4.64"
+        ]
+    },
+    "MBNR.3.PER.146": {
+        "name": {
+            "title": "Dr.",
+            "first": "Hugo",
+            "last": "Feilchenfeld"
+        },
+        "info": [
+            "90: 6.5.64(AStern)"
+        ]
+    },
+    "MBNR.3.PER.147": {
+        "name": {
+            "first": "Berthold",
+            "last": "Feiwel"
+        },
+        "info": [
+            "(n.GLandauers Nachr.'58)2.2.62"
+        ]
+    },
+    "MBNR.3.PER.148": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ernst",
+            "last": "Feldsberg"
+        },
+        "info": [
+            "Pr\u00e4s.d.Wiener Gem.8.5.65"
+        ]
+    },
+    "MBNR.3.PER.149": {
+        "name": {
+            "first": "Mouloud",
+            "last": "Feraoun"
+        },
+        "info": [
+            "Nachr.6.4.62",
+            "* euchtwanger, Dr .Heinr. Nachr. 6.9.65"
+        ]
+    },
+    "MBNR.3.PER.151": {
+        "name": {
+            "first": "Lion",
+            "last": "Feuchtwanger"
+        },
+        "info": [
+            "(1884-1958)"
+        ]
+    },
+    "MBNR.3.PER.152": {
+        "name": {
+            "first": "Isaak",
+            "last": "Feuerring"
+        },
+        "info": [
+            "25.Todestg 18.1.65"
+        ]
+    },
+    "MBNR.3.PER.153": {
+        "name": {
+            "title": "Dr.",
+            "first": "Walter",
+            "last": "Fischer"
+        },
+        "info": [
+            "75:15.5.64(EAuerbach)"
+        ]
+    },
+    "MBNR.3.PER.154": {
+        "name": {
+            "first": "Ella",
+            "last": "Fleischmann"
+        },
+        "info": [
+            "Nachr.26.1.62(VKellner)"
+        ]
+    },
+    "MBNR.3.PER.155": {
+        "name": {
+            "first": "Alfred",
+            "last": "Frank"
+        },
+        "info": [
+            "Todanz.6.9.65"
+        ]
+    },
+    "MBNR.3.PER.156": {
+        "name": {
+            "title": "Prof.",
+            "first": "Abr.Halevi",
+            "last": "Fr\u00e4nkel"
+        },
+        "info": [
+            "Nachr.29.Io.65"
+        ]
+    },
+    "MBNR.3.PER.157": {
+        "name": {
+            "first": "Jakob",
+            "last": "Fr\u00e4nkel"
+        },
+        "info": [
+            "(Haifa)",
+            "80:26.1.62"
+        ]
+    },
+    "MBNR.3.PER.158": {
+        "name": {
+            "title": "Prof.",
+            "first": "Jonas",
+            "last": "Fr\u00e4nkel"
+        },
+        "info": [
+            "85: 25.9.64 -Nachr.Notiz 18.6.65"
+        ]
+    },
+    "MBNR.3.PER.159": {
+        "name": {
+            "first": "Noemi",
+            "last": "Fr\u00e4nkel"
+        },
+        "info": [
+            "Rez.l7.10.62(MMAyer)",
+            "Nach Vortrag 18.1.65",
+            "Das Los 18.lo.65"
+        ]
+    },
+    "MBNR.3.PER.162": {
+        "name": {
+            "title": "Dr.",
+            "first": "Stefan",
+            "last": "Fr\u00e4nkel"
+        },
+        "info": [
+            "Todanz.1.1.65"
+        ]
+    },
+    "MBNR.3.PER.163": {
+        "name": {
+            "first": "Felix",
+            "last": "Frankfurter"
+        },
+        "info": [
+            "W\u00fcrdigung 5.5.65(\u00dfaumgardt)"
+        ]
+    },
+    "MBNR.3.PER.164": {
+        "name": {
+            "first": "Frieda",
+            "last": "Frankl"
+        },
+        "info": [
+            "Nachr.25.5.62"
+        ]
+    },
+    "MBNR.3.PER.165": {
+        "name": {
+            "first": "Sigmund",
+            "last": "Freud"
+        },
+        "info": [
+            "27.11.64(1856-1959)"
+        ]
+    },
+    "MBNR.3.PER.166": {
+        "name": {
+            "first": "Otto",
+            "last": "Freundlich"
+        },
+        "info": [
+            "24.7.64"
+        ]
+    },
+    "MBNR.3.PER.167": {
+        "name": {
+            "first": "Paula",
+            "last": "Frenke1"
+        },
+        "info": [
+            "80:5.2.65(EMayer,Lotan)"
+        ]
+    },
+    "MBNR.3.PER.168": {
+        "name": {
+            "title": "Dr.",
+            "first": "Arthur",
+            "last": "Freund"
+        },
+        "info": [
+            "Nachr.24.12.65"
+        ]
+    },
+    "MBNR.3.PER.169": {
+        "name": {
+            "title": "Dr.",
+            "first": "Erich",
+            "last": "Frey"
+        },
+        "info": [
+            "Nachr.24.4.64",
+            "/\"Freyhan.Dr.Wilh. 80:5.7.65",
+            "< Freyer.^r.Kurt 80; 28.5.65",
+            "Fricsay\u00bbFerenc nachr.8.5.65(Seelenfreund)"
+        ]
+    },
+    "MBNR.3.PER.173": {
+        "name": {
+            "first": "Edw.M.",
+            "last": "Frischauer"
+        },
+        "info": [
+            "Nachr.51.1.64"
+        ]
+    },
+    "MBNR.3.PER.174": {
+        "name": {
+            "first": "Erich",
+            "last": "Fromm"
+        },
+        "info": [
+            "Rez.25.8.65(MGerson)"
+        ]
+    },
+    "MBNR.3.PER.175": {
+        "name": {
+            "first": "Robert",
+            "last": "Frost"
+        },
+        "info": [
+            "(poet)",
+            "Nachr.15.2.65"
+        ]
+    },
+    "MBNR.3.PER.176": {
+        "name": {
+            "first": "Ludwig",
+            "last": "Fulda"
+        },
+        "info": [
+            "Gdenkausstellg.Frankft.7.9.62(1862-1959)",
+            "\"MB\" 1962/65 - 8-"
+        ]
+    },
+    "MBNR.3.PER.178": {
+        "name": {
+            "first": "John",
+            "last": "Galsworthy"
+        },
+        "info": [
+            "Rez.Biogr.29.3.63(Arnold)"
+        ]
+    },
+    "MBNR.3.PER.179": {
+        "name": {
+            "first": "Sail",
+            "last": "Geis"
+        },
+        "info": [
+            "Nachr.22.2.63"
+        ]
+    },
+    "MBNR.3.PER.180": {
+        "name": {
+            "title": "Dr.",
+            "first": "N.M.",
+            "last": "Gelber"
+        },
+        "info": [
+            "70:7.8.64"
+        ]
+    },
+    "MBNR.3.PER.181": {
+        "name": {
+            "first": "Zvi",
+            "last": "Gelles"
+        },
+        "info": [
+            "Nachr.20.12.63"
+        ]
+    },
+    "MBNR.3.PER.182": {
+        "name": {
+            "first": "Stefan\tg.u.Judentm",
+            "last": "George"
+        },
+        "info": [
+            "5.4.63(Kraft)(auch:8.4.60)(s.J\u00fcd.Rundsch.22.12.33)"
+        ]
+    },
+    "MBNR.3.PER.183": {
+        "name": {
+            "title": "Dr.",
+            "first": "Eugen",
+            "last": "Gerstenmaier"
+        },
+        "info": [
+            "in Israel 23.11.62"
+        ]
+    },
+    "MBNR.3.PER.184": {
+        "name": {
+            "first": "Ephraim",
+            "last": "Ginsberg"
+        },
+        "info": [
+            "Gedenknot.11.5.62"
+        ]
+    },
+    "MBNR.3.PER.185": {
+        "name": {
+            "first": "Karl",
+            "last": "Glaser"
+        },
+        "info": [
+            "Nachr.29.1.65(WFischer)"
+        ]
+    },
+    "MBNR.3.PER.186": {
+        "name": {
+            "title": "Prof.",
+            "first": "N.N.",
+            "last": "Glatzer"
+        },
+        "info": [
+            "60:22.3.63(Wilhelm)"
+        ]
+    },
+    "MBNR.3.PER.187": {
+        "name": {
+            "title": "Dr.",
+            "first": "Nahum",
+            "last": "Goldmann"
+        },
+        "info": [
+            "Rede 17.5.63 (geb.10.7.1895)"
+        ]
+    },
+    "MBNR.3.PER.188": {
+        "name": {
+            "title": "Dr.",
+            "first": "Daniel",
+            "last": "Goldschmidt"
+        },
+        "info": [
+            "70:31.12.65\t.",
+            "\\^Goldschmidt,Dr.Nax lodanz.16.2.62\u2014<\t4 T-t ?> ( H U O"
+        ]
+    },
+    "MBNR.3.PER.190": {
+        "name": {
+            "first": "Aron",
+            "last": "Gordon"
+        },
+        "info": [
+            "David 40.Todestg 23.2.62(HBergman)"
+        ]
+    },
+    "MBNR.3.PER.191": {
+        "name": {
+            "first": "Hermann",
+            "last": "Goering"
+        },
+        "info": [
+            "Biogr.il.1.63"
+        ]
+    },
+    "MBNR.3.PER.192": {
+        "name": {
+            "first": "Erich",
+            "last": "Gottgetreu"
+        },
+        "info": [
+            "60: 9.8.63"
+        ]
+    },
+    "MBNR.3.PER.193": {
+        "name": {
+            "first": "Martha",
+            "last": "Graham/"
+        },
+        "info": [
+            "(T\u00e4nzerin)",
+            "Kritik 2.11.62(Geis)"
+        ]
+    },
+    "MBNR.3.PER.194": {
+        "name": {
+            "title": "Dr.",
+            "first": "Abr.",
+            "last": "Granot"
+        },
+        "info": [
+            "Nachr.27.7.62"
+        ]
+    },
+    "MBNR.3.PER.195": {
+        "name": {
+            "first": "J.L.",
+            "last": "Grasowsky"
+        },
+        "info": [
+            "loo.Geburtstg 9.2.62"
+        ]
+    },
+    "MBNR.3.PER.196": {
+        "name": {
+            "title": "Prof.",
+            "first": "Heinr.",
+            "last": "Graetz"
+        },
+        "info": [
+            "Briefe an MHess 6.9.63(Bato)(1817-1891)"
+        ]
+    },
+    "MBNR.3.PER.197": {
+        "name": {
+            "first": "Sammy",
+            "last": "Gronemann"
+        },
+        "info": [
+            "lo.Todestg.23.3\u00ab62(Geis)"
+        ]
+    },
+    "MBNR.3.PER.198": {
+        "name": {
+            "first": "Kurt",
+            "last": "Grossmann"
+        },
+        "info": [
+            "R. 65:18.5.62"
+        ]
+    },
+    "MBNR.3.PER.199": {
+        "name": {
+            "title": "Dr.",
+            "first": "Benjamin",
+            "last": "Grzebinasch"
+        },
+        "info": [
+            "Nachr.21.5\u202265"
+        ]
+    },
+    "MBNR.3.PER.200": {
+        "name": {
+            "first": "Simon",
+            "last": "Gruenewald"
+        },
+        "info": [
+            "Nachr.18.5.62"
+        ]
+    },
+    "MBNR.3.PER.201": {
+        "name": {
+            "title": "Rabb.",
+            "first": "Max",
+            "last": "Gr\u00fcnewald"
+        },
+        "info": [
+            "40.Jubil\u00e4um 9.4.65(MK)"
+        ]
+    },
+    "MBNR.3.PER.202": {
+        "name": {
+            "title": "Dr.",
+            "first": "M.J.",
+            "last": "Gutmann"
+        },
+        "info": [
+            "l.Todestg 29.6.62",
+            "\"MB\" 1962/65 -9-"
+        ]
+    },
+    "MBNR.3.PER.204": {
+        "name": {
+            "first": "Jacob",
+            "last": "Haarpuder"
+        },
+        "info": [
+            "Todanz.18.lo.63"
+        ]
+    },
+    "MBNR.3.PER.205": {
+        "name": {
+            "first": "David",
+            "last": "Hacohen"
+        },
+        "info": [
+            "Rez.27.12.63(Gh)"
+        ]
+    },
+    "MBNR.3.PER.206": {
+        "name": {
+            "title": "Dr.",
+            "first": "Kurt",
+            "last": "Hahn"
+        },
+        "info": [
+            "7.2.64"
+        ]
+    },
+    "MBNR.3.PER.207": {
+        "name": {
+            "first": "Toni",
+            "last": "Halle"
+        },
+        "info": [
+            "Hachr.14.8.64"
+        ]
+    },
+    "MBNR.3.PER.208": {
+        "name": {
+            "title": "Dr.",
+            "first": "Georg",
+            "last": "Halpern"
+        },
+        "info": [
+            "Nachr.1.6.62"
+        ]
+    },
+    "MBNR.3.PER.209": {
+        "name": {
+            "first": "Dag",
+            "last": "Hammarskjoeld"
+        },
+        "info": [
+            "H u.Buber 11.1.63"
+        ]
+    },
+    "MBNR.3.PER.210": {
+        "name": {
+            "first": "Abr.",
+            "last": "Haft"
+        },
+        "info": [
+            "Nachr.15.1.65"
+        ]
+    },
+    "MBNR.3.PER.211": {
+        "name": {
+            "first": "Josephine",
+            "last": "Handler"
+        },
+        "info": [
+            "Else Nachr.23.11.62"
+        ]
+    },
+    "MBNR.3.PER.212": {
+        "name": {
+            "title": "Dr.",
+            "first": "Arthur",
+            "last": "Hantke"
+        },
+        "info": [
+            "lo.Todestg 29.10.65"
+        ]
+    },
+    "MBNR.3.PER.213": {
+        "name": {
+            "first": "Gerhart",
+            "last": "Hauptmann"
+        },
+        "info": [
+            "loo.Geburtstg 6.4.62"
+        ]
+    },
+    "MBNR.3.PER.214": {
+        "name": {
+            "first": "Jakob",
+            "last": "Hegner"
+        },
+        "info": [
+            "Nachr.26.lo.62"
+        ]
+    },
+    "MBNR.3.PER.215": {
+        "name": {
+            "first": "Max",
+            "last": "Hecker"
+        },
+        "info": [
+            "M. Nachr.lo.7.64(Herlitz)"
+        ]
+    },
+    "MBNR.3.PER.216": {
+        "name": {
+            "first": "",
+            "last": "Heine"
+        },
+        "info": [
+            "He inrich FamilienHaggada 16.4.62 (Braun)",
+            "Brunnen in M\u00fcnchen 5.10.62",
+            "Briefe 17.lo.62",
+            "s.Brief W\u00f6rmann \u00fcb.Strich 27.9.63",
+            "Tagesprosa 6,9.64(HT)",
+            "Grab 27.11.64(Gottgetreu)"
+        ]
+    },
+    "MBNR.3.PER.222": {
+        "name": {
+            "first": "Sir",
+            "last": "Henriques"
+        },
+        "info": [
+            "Basil Nachr.5.1.62(EG1>)"
+        ]
+    },
+    "MBNR.3.PER.223": {
+        "name": {
+            "title": "Dr.",
+            "first": "Georg",
+            "last": "Herlitz"
+        },
+        "info": [
+            "80:12.3.65(FrMeyer,ESimon)"
+        ]
+    },
+    "MBNR.3.PER.224": {
+        "name": {
+            "first": "Theodor",
+            "last": "Herzl"
+        },
+        "info": [
+            "Rez.Famgesch.15.11.63(Braun)",
+            "60.Todestg 3.7.64"
+        ]
+    },
+    "MBNR.3.PER.226": {
+        "name": {
+            "first": "Artur",
+            "last": "Herzog"
+        },
+        "info": [
+            "70: 29.3.63"
+        ]
+    },
+    "MBNR.3.PER.227": {
+        "name": {
+            "first": "Robert",
+            "last": "Hess"
+        },
+        "info": [
+            "Nachr.30.11.62(Elk)"
+        ]
+    },
+    "MBNR.3.PER.228": {
+        "name": {
+            "first": "Hermann",
+            "last": "Hesse"
+        },
+        "info": [
+            "H-Archiv 6.7.62",
+            "z.Tode 17.8.62",
+            "Erinnerung 24.8.62"
+        ]
+    },
+    "MBNR.3.PER.231": {
+        "name": {
+            "title": "Prof.",
+            "first": "Th.",
+            "last": "Heuss"
+        },
+        "info": [
+            "Nachr.20.12.63"
+        ]
+    },
+    "MBNR.3.PER.232": {
+        "name": {
+            "title": "Rabb.",
+            "first": "Egriel",
+            "last": "Hildesheimer"
+        },
+        "info": [
+            "(Briefe gesucht) 11.5.62"
+        ]
+    },
+    "MBNR.3.PER.233": {
+        "name": {
+            "first": "Kurt",
+            "last": "Hiller"
+        },
+        "info": [
+            "8o:20.8.65(Freeden)"
+        ]
+    },
+    "MBNR.3.PER.234": {
+        "name": {
+            "first": "Paul",
+            "last": "Hindemith"
+        },
+        "info": [
+            "Nachr.Io.1.64(Seelfr)"
+        ]
+    },
+    "MBNR.3.PER.235": {
+        "name": {
+            "first": "Charlotte",
+            "last": "Hirsch"
+        },
+        "info": [
+            "Nachr.1.11.63(Wilhelm)"
+        ]
+    },
+    "MBNR.3.PER.236": {
+        "name": {
+            "title": "Dr.",
+            "first": "Salli",
+            "last": "Hirsch"
+        },
+        "info": [
+            "in memor(80.Geburtg)2.7.65(SM)"
+        ]
+    },
+    "MBNR.3.PER.237": {
+        "name": {
+            "first": "Leo",
+            "last": "Hirsch"
+        },
+        "info": [
+            "Notiz 2.11.62"
+        ]
+    },
+    "MBNR.3.PER.238": {
+        "name": {
+            "first": "Martin",
+            "last": "Hirsch"
+        },
+        "info": [
+            "(\u00dfonn)",
+            "in TelAviv 24.5.63"
+        ]
+    },
+    "MBNR.3.PER.239": {
+        "name": {
+            "first": "Emmy",
+            "last": "Hirschberg"
+        },
+        "info": [
+            "80:19.2.65(MTP)"
+        ]
+    },
+    "MBNR.3.PER.240": {
+        "name": {
+            "first": "Rolf",
+            "last": "Hoohhuth"
+        },
+        "info": [
+            "Stellvertreter 19.4.63(HT)",
+            "\"\t10.5.63 \"",
+            "\" 14.6.63(Gr\u00fcber,WSchwarz)",
+            "** 5.7.63 (Brief FTau)s.a. :*Nebenbei\""
+        ]
+    },
+    "MBNR.3.PER.244": {
+        "name": {
+            "first": "Martha",
+            "last": "Hofmann"
+        },
+        "info": [
+            "70: 26,11.65"
+        ]
+    },
+    "MBNR.3.PER.245": {
+        "name": {
+            "first": "Rosa",
+            "last": "Holde"
+        },
+        "info": [
+            "Nachr.17.9.65"
+        ]
+    },
+    "MBNR.3.PER.246": {
+        "name": {
+            "title": "Dr.",
+            "first": "Gerhard",
+            "last": "Holdheim"
+        },
+        "info": [
+            "70: 23.11.62(PHirsch)"
+        ]
+    },
+    "MBNR.3.PER.247": {
+        "name": {
+            "first": "Ricarda",
+            "last": "Huch"
+        },
+        "info": [
+            "17.7.64 (1864-1947)"
+        ]
+    },
+    "MBNR.3.PER.248": {
+        "name": {
+            "title": "Dr.",
+            "first": "Erich",
+            "last": "Hurwitz"
+        },
+        "info": [
+            "2.Todestg 3.5.63"
+        ]
+    },
+    "MBNR.3.PER.249": {
+        "name": {
+            "first": "Rafael",
+            "last": "Hurwitz"
+        },
+        "info": [
+            "Todanz.8.3.63"
+        ]
+    },
+    "MBNR.3.PER.250": {
+        "name": {
+            "first": "Max",
+            "last": "Hurwitz"
+        },
+        "info": [
+            "Nachr.5.3.65",
+            "Hussein(K\u00f6nig) Autobiogr.l7.8.62(Amold)",
+            "\"MB\u201d 1962/65 -10-"
+        ]
+    },
+    "MBNR.3.PER.253": {
+        "name": {
+            "first": "Abr.Adolf",
+            "last": "Israeli(Israelski)"
+        },
+        "info": [
+            "Nachr.21.12.62"
+        ]
+    },
+    "MBNR.3.PER.254": {
+        "name": {
+            "title": "Dr.",
+            "first": "Josef",
+            "last": "Jacobsohn"
+        },
+        "info": [
+            "60:8.5.64"
+        ]
+    },
+    "MBNR.3.PER.255": {
+        "name": {
+            "title": "Dr.",
+            "first": "Jacob",
+            "last": "Jacobsohn"
+        },
+        "info": [
+            "70:22.11.63 (ST)",
+            "Zakob.Dr.Paul Nachr.12.3.65"
+        ]
+    },
+    "MBNR.3.PER.257": {
+        "name": {
+            "title": "Prof.",
+            "first": "Karl",
+            "last": "Jaspers"
+        },
+        "info": [
+            "Gespr\u00e4ch 2.9.60",
+            "Je rusalem,Prof.Edmund Nachr.6.4.6 2(HBe rgman)"
+        ]
+    },
+    "MBNR.3.PER.259": {
+        "name": {
+            "first": "Jewgeni",
+            "last": "Jewtuschenko"
+        },
+        "info": [
+            "Babi Jar 29.6.62(EMayer)",
+            "in Israel 1.3.63"
+        ]
+    },
+    "MBNR.3.PER.261": {
+        "name": {
+            "title": "Prof.",
+            "first": "Karl",
+            "last": "Joel"
+        },
+        "info": [
+            "(1864-1934)\"Jiid.Rundschau\" 27.7.34. u.27.11.34",
+            "Johannes XXIII Nachruf 14.6.63"
+        ]
+    },
+    "MBNR.3.PER.263": {
+        "name": {
+            "title": "Dr.",
+            "first": "Giora",
+            "last": "Josephtai"
+        },
+        "info": [
+            "Nachr.31.8.62(Lotan)",
+            "l.Todestg 16.8.63(HBein)",
+            "Gedenkfeier 23.8.63"
+        ]
+    },
+    "MBNR.3.PER.266": {
+        "name": {
+            "title": "Dr.",
+            "first": "Adolf",
+            "last": "Juda"
+        },
+        "info": [
+            "80:2.3.62"
+        ]
+    },
+    "MBNR.3.PER.267": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "Jungmann"
+        },
+        "info": [
+            "90: 2.4.65(EAuerbach)"
+        ]
+    },
+    "MBNR.3.PER.268": {
+        "name": {
+            "title": "Dr.",
+            "first": "Schlomo",
+            "last": "Juliusburger"
+        },
+        "info": [
+            "Nachr.30.4.65",
+            "\"MB\" 1962/65 -11-"
+        ]
+    },
+    "MBNR.3.PER.270": {
+        "name": {
+            "title": "Dr.",
+            "first": "Leo",
+            "last": "Kadman"
+        },
+        "info": [
+            "Nachr.lo.l.64(Preuss)"
+        ]
+    },
+    "MBNR.3.PER.271": {
+        "name": {
+            "first": "Franz",
+            "last": "Kafka"
+        },
+        "info": [
+            "(1885-1924)",
+            "Betrachtungen 16.4.62(Kraft)",
+            "Prozess als Drama 8.5.65(Geis)",
+            "Brudermord 28.6.65(Kraft)",
+            "Hilfe 18.9.65",
+            "a.Brief W\u00f6rmann 27.9.65",
+            "K.u.Kaiser Franz 27.5.64(Flusser)",
+            "K.im Ostblock 17.4.64"
+        ]
+    },
+    "MBNR.3.PER.278": {
+        "name": {
+            "title": "Prof.",
+            "first": "Paul",
+            "last": "Kahle"
+        },
+        "info": [
+            "Nachr.50.Io.64"
+        ]
+    },
+    "MBNR.3.PER.279": {
+        "name": {
+            "title": "Dr.",
+            "first": "Paul",
+            "last": "Kahn"
+        },
+        "info": [
+            "Nachr.20.5.64"
+        ]
+    },
+    "MBNR.3.PER.280": {
+        "name": {
+            "title": "Dr.",
+            "first": "Siegfried",
+            "last": "Kanowitz"
+        },
+        "info": [
+            "l.Todestg lo.8.62(BC)",
+            "Gedenkfeier 17.8.62",
+            "K-Fonda 14.12.62",
+            "2.Todestg 2.8.65",
+            "5.Todestg 17.7.64(HT)"
+        ]
+    },
+    "MBNR.3.PER.285": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ch.J.",
+            "last": "Kapralik"
+        },
+        "info": [
+            "7o: 50.4.65(ht)"
+        ]
+    },
+    "MBNR.3.PER.286": {
+        "name": {
+            "first": "Ktharina",
+            "last": "Kardorff-Oheimb"
+        },
+        "info": [
+            "v. Nachr.6.4.62",
+            "Kardorff.Ursula v. Rez.Memoiren 7.12.65"
+        ]
+    },
+    "MBNR.3.PER.288": {
+        "name": {
+            "first": "Shmuel",
+            "last": "Katz"
+        },
+        "info": [
+            "W\u00fcrdigung 14.9.62 (HStrauss)"
+        ]
+    },
+    "MBNR.3.PER.289": {
+        "name": {
+            "title": "Dr.",
+            "first": "Julius",
+            "last": "Kaufmann"
+        },
+        "info": [
+            "Nachr.2.4.65"
+        ]
+    },
+    "MBNR.3.PER.290": {
+        "name": {
+            "first": "Eugen",
+            "last": "Kaufmann"
+        },
+        "info": [
+            "75:51.8.62"
+        ]
+    },
+    "MBNR.3.PER.291": {
+        "name": {
+            "first": "Jizchak",
+            "last": "Kaznelson"
+        },
+        "info": [
+            "20.Todestg 5.7.64"
+        ]
+    },
+    "MBNR.3.PER.292": {
+        "name": {
+            "title": "Dr.",
+            "first": "Victor",
+            "last": "Ketlner"
+        },
+        "info": [
+            "75:25.11.62 (HBergman)"
+        ]
+    },
+    "MBNR.3.PER.293": {
+        "name": {
+            "first": "Shoshana",
+            "last": "Kellner-Gilad"
+        },
+        "info": [
+            "Nachr.5.5.65 \""
+        ]
+    },
+    "MBNR.3.PER.294": {
+        "name": {
+            "first": "Moshe",
+            "last": "Keren(Kr\u00e4mer)"
+        },
+        "info": [
+            "Erich Nachr.20.8.65(RW)"
+        ]
+    },
+    "MBNR.3.PER.295": {
+        "name": {
+            "title": "Dr.",
+            "first": "Siegfried",
+            "last": "Kessler"
+        },
+        "info": [
+            "Ged\u00e4chthisfonds 9.8.65"
+        ]
+    },
+    "MBNR.3.PER.296": {
+        "name": {
+            "title": "Prof.",
+            "first": "Leo",
+            "last": "Kestenberg"
+        },
+        "info": [
+            "Nachrufe 26.1.62(aJ-L. .)",
+            "16.2.62 Erinnerung(Kiwi)"
+        ]
+    },
+    "MBNR.3.PER.298": {
+        "name": {
+            "title": "Dr.",
+            "first": "Bruno",
+            "last": "Kirschner"
+        },
+        "info": [
+            "Nachr.24.4.64(Herlitz)"
+        ]
+    },
+    "MBNR.3.PER.299": {
+        "name": {
+            "first": "Martin",
+            "last": "Kirschstein"
+        },
+        "info": [
+            "Nachr.26.7.65(BC)",
+            "JCishoni(Kober)M. 70:21.8.64"
+        ]
+    },
+    "MBNR.3.PER.301": {
+        "name": {
+            "first": "Edith",
+            "last": "Klee"
+        },
+        "info": [
+            "Nachr.18112.64",
+            "\u00ab\u25a0Kiwi,Dr.Rudolf Nachr. 17.9.65"
+        ]
+    },
+    "MBNR.3.PER.303": {
+        "name": {
+            "first": "",
+            "last": "Klinghoffer"
+        },
+        "info": [
+            "David Nachr. 7.2.64 (ZKr)KMpfxkrxKKrrjrx?5xi2xix\u00a32"
+        ]
+    },
+    "MBNR.3.PER.304": {
+        "name": {
+            "title": "Dr.",
+            "first": "Harry",
+            "last": "Knopf"
+        },
+        "info": [
+            "75: 12.1.62 (OH)"
+        ]
+    },
+    "MBNR.3.PER.305": {
+        "name": {
+            "first": "Else",
+            "last": "Kober"
+        },
+        "info": [
+            "Nachr.8.5.64"
+        ]
+    },
+    "MBNR.3.PER.306": {
+        "name": {
+            "title": "Dr.",
+            "first": "Franz",
+            "last": "Kobler"
+        },
+        "info": [
+            "Nachr.4.6.65 u.25.6.65"
+        ]
+    },
+    "MBNR.3.PER.307": {
+        "name": {
+            "first": "Charlotte",
+            "last": "K\u00f6bner"
+        },
+        "info": [
+            "\"achr.6.8.65"
+        ]
+    },
+    "MBNR.3.PER.308": {
+        "name": {
+            "title": "Prof.",
+            "first": "Hans",
+            "last": "Kohn"
+        },
+        "info": [
+            "Rez.25.5.62(Gottgetreu)",
+            "Rez.Buch Hb.Buber 24.8.62(MMayer)",
+            "Erinnerungen 17.12.65"
+        ]
+    },
+    "MBNR.3.PER.311": {
+        "name": {
+            "first": "Arthur",
+            "last": "Kohn"
+        },
+        "info": [
+            "8o:50.lo.64"
+        ]
+    },
+    "MBNR.3.PER.312": {
+        "name": {
+            "first": "Meir",
+            "last": "K\u00f6nigsh\u00f6fer"
+        },
+        "info": [
+            "90:9-5.62",
+            "Kook(Raw) \u00fcb.K.16.4.62(HBe rgman)(1865-1955)"
+        ]
+    },
+    "MBNR.3.PER.314": {
+        "name": {
+            "first": "Fritz",
+            "last": "Kortner"
+        },
+        "info": [
+            "70:25.5.62"
+        ]
+    },
+    "MBNR.3.PER.315": {
+        "name": {
+            "title": "Dr.",
+            "first": "Siegfried",
+            "last": "Kracauer"
+        },
+        "info": [
+            "75 :51.1.64"
+        ]
+    },
+    "MBNR.3.PER.316": {
+        "name": {
+            "title": "Dr.",
+            "first": "Markus",
+            "last": "Kraemer"
+        },
+        "info": [
+            "Nachr.12.6.64"
+        ]
+    },
+    "MBNR.3.PER.317": {
+        "name": {
+            "first": "Karl",
+            "last": "Kraus"
+        },
+        "info": [
+            "(1874-1956)",
+            "K.K.29.5.55(M.Teich)",
+            "\" 26.4.57(ESimon)",
+            "\" 25.5.62(HKohn)"
+        ]
+    },
+    "MBNR.3.PER.320": {
+        "name": {
+            "first": "Elijahu",
+            "last": "Krause"
+        },
+        "info": [
+            "Nachr.1.6.62"
+        ]
+    },
+    "MBNR.3.PER.321": {
+        "name": {
+            "first": "Wilhelm",
+            "last": "Kreil"
+        },
+        "info": [
+            "60:24.8.62(HT)"
+        ]
+    },
+    "MBNR.3.PER.322": {
+        "name": {
+            "title": "Dr.",
+            "first": "Gustav",
+            "last": "Krojanker"
+        },
+        "info": [
+            "20.Todestg 16.7.65(HT)",
+            "Kuhn/\u00f6r.Chaim H.Nachr.15.11.65"
+        ]
+    },
+    "MBNR.3.PER.324": {
+        "name": {
+            "title": "Prof.",
+            "first": "Baruch",
+            "last": "Kurzweil"
+        },
+        "info": [
+            "Bialikpreis 24.1.64"
+        ]
+    },
+    "MBNR.3.PER.325": {
+        "name": {
+            "title": "Dr.",
+            "first": "Rudolf",
+            "last": "K'istermeier"
+        },
+        "info": [
+            "60:22.2.65",
+            "-MB\" 1962/65 -12-"
+        ]
+    },
+    "MBNR.3.PER.327": {
+        "name": {
+            "first": "Hedwig",
+            "last": "Lachmann"
+        },
+        "info": [
+            "loo.Geburtstg 10.9.65"
+        ]
+    },
+    "MBNR.3.PER.328": {
+        "name": {
+            "title": "Dr.",
+            "first": "Siegfried",
+            "last": "Landau"
+        },
+        "info": [
+            "Todanz.1.6.62"
+        ]
+    },
+    "MBNR.3.PER.329": {
+        "name": {
+            "first": "^r.Georg",
+            "last": "Landauer"
+        },
+        "info": [
+            "8.Todestg 2.2.62(HT)",
+            "9\u00b0 \"\t8.2.65",
+            "Jugendheim Sde Warburg 26.7.63",
+            "lo.Todestg 7.2.64(HT RW KL",
+            "in meraoriam(70.Geburtgtg)19.11.65(SM HT)"
+        ]
+    },
+    "MBNR.3.PER.334": {
+        "name": {
+            "title": "Dr.",
+            "first": "Abraham",
+            "last": "Landsberg"
+        },
+        "info": [
+            "75:27.4.62(HT)",
+            "Nachruf 14.8.64(KL)"
+        ]
+    },
+    "MBNR.3.PER.336": {
+        "name": {
+            "first": "Silvius",
+            "last": "Landsberg"
+        },
+        "info": [
+            "W\u00fcrdigung 26.4.63(Gottgetr)"
+        ]
+    },
+    "MBNR.3.PER.337": {
+        "name": {
+            "title": "Prof.",
+            "first": "Franz",
+            "last": "Landsberger"
+        },
+        "info": [
+            "Nachr.10.4.64",
+            "Lasker-Schuler.Else (1876-1945)21.12.62",
+            "Brief Kraft 4.1.63"
+        ]
+    },
+    "MBNR.3.PER.340": {
+        "name": {
+            "first": "Ferdinand",
+            "last": "lassale"
+        },
+        "info": [
+            "loo.Todestg 6.11.64"
+        ]
+    },
+    "MBNR.3.PER.341": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "L\u00e4ufer"
+        },
+        "info": [
+            "Nachr.25.1.63"
+        ]
+    },
+    "MBNR.3.PER.342": {
+        "name": {
+            "first": "Sir",
+            "last": "Lauterpacht"
+        },
+        "info": [
+            "Hersh 2.Todestg 4.5.62"
+        ]
+    },
+    "MBNR.3.PER.343": {
+        "name": {
+            "first": "T.E.",
+            "last": "Lawrence"
+        },
+        "info": [
+            "Briefe 7.6.63(Arnold)"
+        ]
+    },
+    "MBNR.3.PER.344": {
+        "name": {
+            "first": "Bernard",
+            "last": "Lazare"
+        },
+        "info": [
+            "loo.Geburtatg 11.6.65"
+        ]
+    },
+    "MBNR.3.PER.345": {
+        "name": {
+            "title": "Dr.",
+            "first": "Julius",
+            "last": "Leber"
+        },
+        "info": [
+            "(SPD-F\u00fchrer)",
+            "2.8.63 (PRosenbl\u00fcth)"
+        ]
+    },
+    "MBNR.3.PER.346": {
+        "name": {
+            "title": "Dr.",
+            "first": "Siegfried",
+            "last": "Lehmann"
+        },
+        "info": [
+            "(Gedenken:70) 5.1.62",
+            "L-Buch3.8.62(HBergman)\t. j S' ft G"
+        ]
+    },
+    "MBNR.3.PER.348": {
+        "name": {
+            "title": "Prof.",
+            "first": "Theodor",
+            "last": "Lessing"
+        },
+        "info": [
+            "(",
+            "1872-1933)\tx. faS\" Ct<L- ) ' /"
+        ]
+    },
+    "MBNR.3.PER.349": {
+        "name": {
+            "title": "Dr.",
+            "first": "John",
+            "last": "Levy"
+        },
+        "info": [
+            "70:8.2.63\tU"
+        ]
+    },
+    "MBNR.3.PER.350": {
+        "name": {
+            "first": "Shmarjahu",
+            "last": "Levin"
+        },
+        "info": [
+            "30.Todestg 18.6.65"
+        ]
+    },
+    "MBNR.3.PER.351": {
+        "name": {
+            "first": "Anna",
+            "last": "Levy-Salz"
+        },
+        "info": [
+            "Nachr. 3.12.65"
+        ]
+    },
+    "MBNR.3.PER.352": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ernst",
+            "last": "Lewy"
+        },
+        "info": [
+            "Nachr. lo.5.63(MTP)",
+            "Schloschim 31.5.63(Lion)",
+            "Jahrzeit 17.4.64(HT)"
+        ]
+    },
+    "MBNR.3.PER.355": {
+        "name": {
+            "first": "Philipp",
+            "last": "Lichtenstein"
+        },
+        "info": [
+            "Nachr.9.3.62",
+            "Lieh the in, Bh. Richard Nachr.Io.5.63(Herlitz)"
+        ]
+    },
+    "MBNR.3.PER.357": {
+        "name": {
+            "title": "Prof.",
+            "first": "Hans",
+            "last": "Liebesch\u00fctz"
+        },
+        "info": [
+            "70:29.11.63(HT)"
+        ]
+    },
+    "MBNR.3.PER.358": {
+        "name": {
+            "first": "E.M.",
+            "last": "Lilien"
+        },
+        "info": [
+            "(60:\"",
+            "Jlid. Rundschau\" 25.5.34)"
+        ]
+    },
+    "MBNR.3.PER.359": {
+        "name": {
+            "title": "Dr.",
+            "first": "Eduard",
+            "last": "Liepmann"
+        },
+        "info": [
+            "Nachr.3.1.64"
+        ]
+    },
+    "MBNR.3.PER.360": {
+        "name": {
+            "first": "Shlomo",
+            "last": "Lion"
+        },
+        "info": [
+            "70:22.11.63",
+            "Lipschltz.Senator Joachim(Berlin) Gedenkfeier 9.2.62"
+        ]
+    },
+    "MBNR.3.PER.362": {
+        "name": {
+            "first": "Marianne",
+            "last": "Littmann"
+        },
+        "info": [
+            "Todanz\u201e9.8.63",
+            "Livneh.Dr.Elijahu K.Nachr.5.7.63 (Ta"
+        ]
+    },
+    "MBNR.3.PER.364": {
+        "name": {
+            "first": "Berl",
+            "last": "Locker"
+        },
+        "info": [
+            "75:1.6.62(AdlerRudel)",
+            "Loeffler.Dr.Gustav Nachr.26.10.62(HBergman)"
+        ]
+    },
+    "MBNR.3.PER.366": {
+        "name": {
+            "title": "Dr.",
+            "first": "Giora",
+            "last": "Lothan"
+        },
+        "info": [
+            "60:13.7.62(HT,MTP)"
+        ]
+    },
+    "MBNR.3.PER.367": {
+        "name": {
+            "first": "Jakob",
+            "last": "L\u00f6w"
+        },
+        "info": [
+            "Nachr.21.6.63\tH T )",
+            "Loewens 0n, Erwin Todanz.1.2.63 (\t\u2022",
+            "Gedenkfeier 22.2.63"
+        ]
+    },
+    "MBNR.3.PER.370": {
+        "name": {
+            "first": "Alexander",
+            "last": "L\u00f6wenstein"
+        },
+        "info": [
+            "9\u00b0:11.1.63"
+        ]
+    },
+    "MBNR.3.PER.371": {
+        "name": {
+            "first": "Joseph",
+            "last": "L\u00f6wy"
+        },
+        "info": [
+            "in roemor.29.lo.65"
+        ]
+    },
+    "MBNR.3.PER.372": {
+        "name": {
+            "title": "Rabb.",
+            "first": "S\u201e",
+            "last": "L\u00f6wy"
+        },
+        "info": [
+            "80:3.9.65",
+            "\\Lowenthal,Dr.E.G. 60: 25.12.64(HT)\t\u2014w *\u2022'",
+            "^'LukaschekJIans Nachr.1.2.63"
+        ]
+    },
+    "MBNR.3.PER.375": {
+        "name": {
+            "first": "Bernhard",
+            "last": "Lustig"
+        },
+        "info": [
+            "80; 6.9.64"
+        ]
+    },
+    "MBNR.3.PER.376": {
+        "name": {
+            "first": "David",
+            "last": "Luschnat"
+        },
+        "info": [
+            "7o:8.10.65"
+        ]
+    },
+    "MBNR.3.PER.377": {
+        "name": {
+            "first": "",
+            "last": "L\u00fcth"
+        },
+        "info": [
+            "Erich( geb. 19o2)60: 31.1.64(irr)",
+            "\"MB\" 1962/65 -13-",
+            "Maimon(Raw)j.L. Nachr.20.7.62"
+        ]
+    },
+    "MBNR.3.PER.380": {
+        "name": {
+            "first": "Thomas",
+            "last": "Mann"
+        },
+        "info": [
+            "l.Briefbd.2.2\u201e62(Gottgetr)",
+            "M-Archiv Zur.11.5.62",
+            "M im Fernsehen 29.11.63",
+            "Briefe 37-47 3.7.64(Goldst)",
+            "M u.d.Juden 24.7.64(Gottgetr)",
+            "----v\tlo.Todestg 18.8.65(HT,Gottgetr) ]\tUJf,,L\\ /"
+        ]
+    },
+    "MBNR.3.PER.386": {
+        "name": {
+            "title": "Dr.",
+            "first": "Alfred",
+            "last": "Marcus"
+        },
+        "info": [
+            "Nachr.26.1.62\t\"\tt /'"
+        ]
+    },
+    "MBNR.3.PER.387": {
+        "name": {
+            "first": "Hanna",
+            "last": "Marcus"
+        },
+        "info": [
+            "Nachr.21.5.65"
+        ]
+    },
+    "MBNR.3.PER.388": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "Marcuse"
+        },
+        "info": [
+            "65:6.4.62"
+        ]
+    },
+    "MBNR.3.PER.389": {
+        "name": {
+            "first": "Julius",
+            "last": "Ma^golinski"
+        },
+        "info": [
+            "70:26.11.65"
+        ]
+    },
+    "MBNR.3.PER.390": {
+        "name": {
+            "first": "Ludwig",
+            "last": "Markowicz"
+        },
+        "info": [
+            "Nachr.21.12.62(I-Uacohs 0n)",
+            "-Mannheim,Dr.Walter 70: 22.lo.65",
+            "Marks(Lord)simon Nachr.18.12.64"
+        ]
+    },
+    "MBNR.3.PER.393": {
+        "name": {
+            "first": "Roland",
+            "last": "Marwitz"
+        },
+        "info": [
+            "Nachr.5.1.62"
+        ]
+    },
+    "MBNR.3.PER.394": {
+        "name": {
+            "first": "Zenta",
+            "last": "Maurina"
+        },
+        "info": [
+            "Rez.16.3.62(ArnoId)",
+            "Brief 17.8.62"
+        ]
+    },
+    "MBNR.3.PER.396": {
+        "name": {
+            "first": "Richard",
+            "last": "Mayer"
+        },
+        "info": [
+            "90:17.9.65"
+        ]
+    },
+    "MBNR.3.PER.397": {
+        "name": {
+            "title": "Dr.",
+            "first": "Bugen",
+            "last": "Mayer"
+        },
+        "info": [
+            "80:6.6.62(ESiraon)"
+        ]
+    },
+    "MBNR.3.PER.398": {
+        "name": {
+            "first": "Ludwig",
+            "last": "Mayer"
+        },
+        "info": [
+            "85:21.2.64"
+        ]
+    },
+    "MBNR.3.PER.399": {
+        "name": {
+            "first": "Ludwig",
+            "last": "Meidner"
+        },
+        "info": [
+            "80:8.5.64"
+        ]
+    },
+    "MBNR.3.PER.400": {
+        "name": {
+            "first": "Moses",
+            "last": "Mendelssohn"
+        },
+        "info": [
+            "Judenstaatsprojekt 25.5.62 /7.6.62/lo.8.62"
+        ]
+    },
+    "MBNR.3.PER.401": {
+        "name": {
+            "title": "Dr.",
+            "first": "Andreas",
+            "last": "Meyer"
+        },
+        "info": [
+            "75;6.9-63(Gerling)"
+        ]
+    },
+    "MBNR.3.PER.402": {
+        "name": {
+            "title": "Dr.",
+            "first": "Seew",
+            "last": "Meyer"
+        },
+        "info": [
+            "H.60:23.8.63(Gumpertz)",
+            "Meyer^Maros.Ilo lo.Todestg 18.9.64"
+        ]
+    },
+    "MBNR.3.PER.404": {
+        "name": {
+            "first": "G.",
+            "last": "Meyerbeer"
+        },
+        "info": [
+            "s.\"Verg\u00f6tterte j\u00fcd.Musiker\" 6.5.49"
+        ]
+    },
+    "MBNR.3.PER.405": {
+        "name": {
+            "first": "Edwin",
+            "last": "Meyersohn"
+        },
+        "info": [
+            "70:1.11.63"
+        ]
+    },
+    "MBNR.3.PER.406": {
+        "name": {
+            "first": "Chaim",
+            "last": "Michels"
+        },
+        "info": [
+            "Nachr.l7.4.64(BC)"
+        ]
+    },
+    "MBNR.3.PER.407": {
+        "name": {
+            "title": "Dr.",
+            "first": "Fritz",
+            "last": "Millner"
+        },
+        "info": [
+            "Nachr.29.3.63(ESimon(s.a.Erlittene Dichtg 20.3.59)"
+        ]
+    },
+    "MBNR.3.PER.408": {
+        "name": {
+            "first": "Rafael",
+            "last": "Mohar"
+        },
+        "info": [
+            "Gedenkausstellg 1.3.63"
+        ]
+    },
+    "MBNR.3.PER.409": {
+        "name": {
+            "first": "Hans",
+            "last": "Moller"
+        },
+        "info": [
+            "Hachr.17.lo.62(Ollendorff)"
+        ]
+    },
+    "MBNR.3.PER.410": {
+        "name": {
+            "first": "Alfred",
+            "last": "Mombert"
+        },
+        "info": [
+            "(",
+            "18'72-1942)Mystifikation 9.2.62(ht)",
+            "21.12,62(Times Lit)"
+        ]
+    },
+    "MBNR.3.PER.412": {
+        "name": {
+            "first": "Lady",
+            "last": "Montagu"
+        },
+        "info": [
+            "Lily Nachr.15.2.63"
+        ]
+    },
+    "MBNR.3.PER.413": {
+        "name": {
+            "first": "Leonard",
+            "last": "Monteflore"
+        },
+        "info": [
+            "G. Nachr.12.1.62/26.1.62"
+        ]
+    },
+    "MBNR.3.PER.414": {
+        "name": {
+            "first": "Moses",
+            "last": "Montefiore"
+        },
+        "info": [
+            "loo.Todestg seiner Frau Judith lo.8.62"
+        ]
+    },
+    "MBNR.3.PER.415": {
+        "name": {
+            "title": "Dr.",
+            "first": "Kurt",
+            "last": "Mossberg"
+        },
+        "info": [
+            "A.Museum Haaretz 25.6.65"
+        ]
+    },
+    "MBNR.3.PER.416": {
+        "name": {
+            "first": "Christian",
+            "last": "Morgenstern"
+        },
+        "info": [
+            "Rez.Briefe 5.lo.62(HBergman)"
+        ]
+    },
+    "MBNR.3.PER.417": {
+        "name": {
+            "title": "Dr.",
+            "first": "Siegfried",
+            "last": "Moses"
+        },
+        "info": [
+            "DavidRosiliopreis 30.3.62"
+        ]
+    },
+    "MBNR.3.PER.418": {
+        "name": {
+            "first": "Margarete",
+            "last": "Moses"
+        },
+        "info": [
+            "75:15.10.65"
+        ]
+    },
+    "MBNR.3.PER.419": {
+        "name": {
+            "title": "Dr.",
+            "first": "Herman",
+            "last": "Muller"
+        },
+        "info": [
+            "70:18.lo.63(HT)"
+        ]
+    },
+    "MBNR.3.PER.420": {
+        "name": {
+            "first": "Anita",
+            "last": "Hiiller-Cohen"
+        },
+        "info": [
+            "Nachr.6.7.62"
+        ]
+    },
+    "MBNR.3.PER.421": {
+        "name": {
+            "title": "Dr.",
+            "first": "Leo",
+            "last": "M\u00fcnz"
+        },
+        "info": [
+            "Hachr.14.5.65(HT)",
+            "\"MB\" 1962/65 -14-"
+        ]
+    },
+    "MBNR.3.PER.423": {
+        "name": {
+            "first": "Fritz",
+            "last": "Naphtali"
+        },
+        "info": [
+            "Perez l.Todestg 25.5.62(Lotan)"
+        ]
+    },
+    "MBNR.3.PER.424": {
+        "name": {
+            "first": "Thea",
+            "last": "I^than"
+        },
+        "info": [
+            "Jerusalempreis 5.11.65"
+        ]
+    },
+    "MBNR.3.PER.425": {
+        "name": {
+            "title": "Dr.",
+            "first": "Bruno",
+            "last": "Nathan"
+        },
+        "info": [
+            "Vo:15.6.62",
+            "Naohr. 18.9.64"
+        ]
+    },
+    "MBNR.3.PER.427": {
+        "name": {
+            "first": "Wolfgang",
+            "last": "Nehab"
+        },
+        "info": [
+            "Naehr.Zo.il.62"
+        ]
+    },
+    "MBNR.3.PER.428": {
+        "name": {
+            "first": "Hertha",
+            "last": "Neufeld"
+        },
+        "info": [
+            "80:24.12.65"
+        ]
+    },
+    "MBNR.3.PER.429": {
+        "name": {
+            "first": "Robert",
+            "last": "Neumann"
+        },
+        "info": [
+            "(Schriftat)",
+            "65:25.5.62"
+        ]
+    },
+    "MBNR.3.PER.430": {
+        "name": {
+            "title": "Dr.",
+            "first": "Fritz",
+            "last": "Neumann"
+        },
+        "info": [
+            "Simon Nachr.16.4.65/ Zo.4.65",
+            "Nobel.Rabb.Israel Schloschira 18.5.62(ESimon)"
+        ]
+    },
+    "MBNR.3.PER.432": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "Nordau"
+        },
+        "info": [
+            "40.Todestg 14.6.63( geb. 1849)\u25a0"
+        ]
+    },
+    "MBNR.3.PER.433": {
+        "name": {
+            "title": "Dr.",
+            "first": "Hugo",
+            "last": "Nothmann"
+        },
+        "info": [
+            "Zwi Nachr.lo.9.65(AStern)"
+        ]
+    },
+    "MBNR.3.PER.434": {
+        "name": {
+            "first": "Samuel",
+            "last": "Nothmann"
+        },
+        "info": [
+            "Naohr.9.Z.62(0Weissmann)"
+        ]
+    },
+    "MBNR.3.PER.435": {
+        "name": {
+            "title": "Dr.",
+            "first": "Meinhold",
+            "last": "Nussbaum"
+        },
+        "info": [
+            "lo.Todestg 18.9.6j(ffr,Lion)"
+        ]
+    },
+    "MBNR.3.PER.436": {
+        "name": {
+            "title": "Dr.",
+            "first": "Robert",
+            "last": "Nussbaum"
+        },
+        "info": [
+            "Naohr.9.11.62JLev^) /21.12.62(Blumenfeld)",
+            "\"MB\" 1962/65 -15-",
+            "01ivenbaum,Kae te Tode ganz.25.1.63",
+            "011enhauerEr4ch(SPl)) Nachr.20.12.63"
+        ]
+    },
+    "MBNR.3.PER.440": {
+        "name": {
+            "title": "Prof.",
+            "first": "Eranz",
+            "last": "Oppenheiner"
+        },
+        "info": [
+            "(1864-1943)Jerusaleminntitut",
+            "20.3.64",
+            "Ehrung in Berlin 15.5.64",
+            "\"NS\" 1962/65 -16-"
+        ]
+    },
+    "MBNR.3.PER.443": {
+        "name": {
+            "first": "Sascha",
+            "last": "Parnes"
+        },
+        "info": [
+            "Nachr.l7.1.64(WSchocken)"
+        ]
+    },
+    "MBNR.3.PER.444": {
+        "name": {
+            "first": "Bertha",
+            "last": "PappenheIm"
+        },
+        "info": [
+            "Biogr.27.3.64",
+            "Paul VI(Papst) Antritt 28.6.63",
+            "P-eche 1, Dr .Rudolf ( Schrif tat )Nachr. 9.2.62"
+        ]
+    },
+    "MBNR.3.PER.447": {
+        "name": {
+            "title": "Dr.",
+            "first": "Alfred",
+            "last": "Perlmutter"
+        },
+        "info": [
+            "5.Todestg 30.3.62"
+        ]
+    },
+    "MBNR.3.PER.448": {
+        "name": {
+            "first": "Leo",
+            "last": "Perutz"
+        },
+        "info": [
+            "posthume Ehrung 21.9.62"
+        ]
+    },
+    "MBNR.3.PER.449": {
+        "name": {
+            "title": "Rabb.",
+            "first": "A.",
+            "last": "Philipp"
+        },
+        "info": [
+            "60:6.3.64"
+        ]
+    },
+    "MBNR.3.PER.450": {
+        "name": {
+            "first": "Luise",
+            "last": "Philipp"
+        },
+        "info": [
+            "A.Nachr.7.8.64"
+        ]
+    },
+    "MBNR.3.PER.451": {
+        "name": {
+            "title": "Dr.",
+            "first": "Fritz",
+            "last": "Pick"
+        },
+        "info": [
+            "75:25.5.62"
+        ]
+    },
+    "MBNR.3.PER.452": {
+        "name": {
+            "first": "Ludwig",
+            "last": "Pineoffs"
+        },
+        "info": [
+            "Nachr.lo.1,64(HT)"
+        ]
+    },
+    "MBNR.3.PER.453": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ludwig",
+            "last": "Pinner"
+        },
+        "info": [
+            "75: 29.1.65(3\u00ab HT GLu)"
+        ]
+    },
+    "MBNR.3.PER.454": {
+        "name": {
+            "first": "Siegfried",
+            "last": "Pirker"
+        },
+        "info": [
+            "Nachr.7.12.62"
+        ]
+    },
+    "MBNR.3.PER.455": {
+        "name": {
+            "title": "Prof.",
+            "first": "Menko",
+            "last": "Plaut"
+        },
+        "info": [
+            "Nachr.14.2.64",
+            "Todestg 15.1.65"
+        ]
+    },
+    "MBNR.3.PER.457": {
+        "name": {
+            "title": "Dr.",
+            "first": "R.",
+            "last": "Pokorny"
+        },
+        "info": [
+            "70:lo.7.64"
+        ]
+    },
+    "MBNR.3.PER.458": {
+        "name": {
+            "first": "Max",
+            "last": "Pottlitzer"
+        },
+        "info": [
+            "M. Nachr.2,11.62"
+        ]
+    },
+    "MBNR.3.PER.459": {
+        "name": {
+            "title": "Dr.",
+            "first": "Bruno",
+            "last": "Powitzer"
+        },
+        "info": [
+            "Nachr.21.5.65"
+        ]
+    },
+    "MBNR.3.PER.460": {
+        "name": {
+            "title": "Dr.",
+            "first": "Jpseph",
+            "last": "Prager"
+        },
+        "info": [
+            "80: 25.6.65(MJacobsohn)"
+        ]
+    },
+    "MBNR.3.PER.461": {
+        "name": {
+            "first": "Willy",
+            "last": "Preise"
+        },
+        "info": [
+            "Nachr,24.8.62"
+        ]
+    },
+    "MBNR.3.PER.462": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "Preuss"
+        },
+        "info": [
+            "70:8.11.63"
+        ]
+    },
+    "MBNR.3.PER.463": {
+        "name": {
+            "title": "Dr.",
+            "first": "Walter",
+            "last": "Preuss"
+        },
+        "info": [
+            "70:22.1.65(HT)"
+        ]
+    },
+    "MBNR.3.PER.464": {
+        "name": {
+            "title": "Dr.",
+            "first": "Heinz",
+            "last": "Pringsheim"
+        },
+        "info": [
+            "80:27.4.62"
+        ]
+    },
+    "MBNR.3.PER.465": {
+        "name": {
+            "first": "Emmi",
+            "last": "Prius-Feuerstein"
+        },
+        "info": [
+            "Todesanz.22.6.62",
+            "\"MB\" 1962/65 -17-",
+            "Rank(Lord)Arthur(Film) 75\u2022 27.12.6Z"
+        ]
+    },
+    "MBNR.3.PER.468": {
+        "name": {
+            "title": "Prof.",
+            "first": "Jochanan",
+            "last": "Ratner"
+        },
+        "info": [
+            "E.(geb.lS91)Nachr.12.3.65(Ollendorff)"
+        ]
+    },
+    "MBNR.3.PER.469": {
+        "name": {
+            "first": "Arhtur",
+            "last": "Rau"
+        },
+        "info": [
+            "Nachr.9.2.62",
+            "l.Todestg S.2.63(EDGoldschm)"
+        ]
+    },
+    "MBNR.3.PER.471": {
+        "name": {
+            "first": "Gustav",
+            "last": "Regler"
+        },
+        "info": [
+            "Nachr.15.2.63"
+        ]
+    },
+    "MBNR.3.PER.472": {
+        "name": {
+            "title": "Dr.",
+            "first": "Hans",
+            "last": "Reichmann"
+        },
+        "info": [
+            "Nachr.5.6.64 (HT)"
+        ]
+    },
+    "MBNR.3.PER.473": {
+        "name": {
+            "title": "Dr.",
+            "first": "Paul",
+            "last": "Riesenfeld"
+        },
+        "info": [
+            "Nachr.4.6.65"
+        ]
+    },
+    "MBNR.3.PER.474": {
+        "name": {
+            "title": "Dr.",
+            "first": "Gabriel",
+            "last": "Riesser"
+        },
+        "info": [
+            "(1806-63)",
+            "loo.Todestg 25.1.63"
+        ]
+    },
+    "MBNR.3.PER.475": {
+        "name": {
+            "first": "Paula",
+            "last": "Risch"
+        },
+        "info": [
+            "75:9.11.62(GLu)(s.a.Wirtin f.Tausend:15.11.57(Geis)"
+        ]
+    },
+    "MBNR.3.PER.476": {
+        "name": {
+            "title": "Dr.",
+            "first": "Nehemia",
+            "last": "Robinson"
+        },
+        "info": [
+            "Nachr.31.1.64(HT)"
+        ]
+    },
+    "MBNR.3.PER.477": {
+        "name": {
+            "first": "Eleanor",
+            "last": "Roosevelt"
+        },
+        "info": [
+            "dachr.16.11.62"
+        ]
+    },
+    "MBNR.3.PER.478": {
+        "name": {
+            "first": "Felix",
+            "last": "Rosen"
+        },
+        "info": [
+            "P. 75:(Sonderbeilage)4.5.62"
+        ]
+    },
+    "MBNR.3.PER.479": {
+        "name": {
+            "title": "Dr.",
+            "first": "Eduard",
+            "last": "Rosenbaum"
+        },
+        "info": [
+            "75:27.7.62(HT)"
+        ]
+    },
+    "MBNR.3.PER.480": {
+        "name": {
+            "title": "Dr.",
+            "first": "Adolf",
+            "last": "Rosenberg"
+        },
+        "info": [
+            "Nachr.7.2.64",
+            "Todestg 29.1.65(Rosen)"
+        ]
+    },
+    "MBNR.3.PER.482": {
+        "name": {
+            "title": "Dr.",
+            "first": "l\u00abeo",
+            "last": "Rosenbliith"
+        },
+        "info": [
+            "70;23.8.63(BC)"
+        ]
+    },
+    "MBNR.3.PER.483": {
+        "name": {
+            "first": "",
+            "last": "Rosenbliith"
+        },
+        "info": [
+            "Dr.Martin Nachr.l2.7.63/19.7.63(SN)"
+        ]
+    },
+    "MBNR.3.PER.484": {
+        "name": {
+            "title": "Prof.",
+            "first": "Paul",
+            "last": "Rosenstein"
+        },
+        "info": [
+            "Nachr.20.11.64"
+        ]
+    },
+    "MBNR.3.PER.485": {
+        "name": {
+            "title": "Dr.",
+            "first": "Kurt",
+            "last": "Rosenthal"
+        },
+        "info": [
+            "Nachr,25.1.63"
+        ]
+    },
+    "MBNR.3.PER.486": {
+        "name": {
+            "title": "Dr.",
+            "first": "Theodor",
+            "last": "Rosenthal"
+        },
+        "info": [
+            "Nachr.3.7.64"
+        ]
+    },
+    "MBNR.3.PER.487": {
+        "name": {
+            "first": "Erich",
+            "last": "Roth"
+        },
+        "info": [
+            "Nachr.20.7.62(LCohn) /lo.S.62 /21.9.62"
+        ]
+    },
+    "MBNR.3.PER.488": {
+        "name": {
+            "first": "Prof",
+            "last": "Roth"
+        },
+        "info": [
+            ".-^eon Kritik 5.4.63(HBergman)",
+            "Rothschild(Barone) 27.4.62"
+        ]
+    },
+    "MBNR.3.PER.490": {
+        "name": {
+            "first": "J.J.",
+            "last": "Rousseau"
+        },
+        "info": [
+            "250.Geburtstg 29.6.62"
+        ]
+    },
+    "MBNR.3.PER.491": {
+        "name": {
+            "title": "Dr.",
+            "first": "Chanan",
+            "last": "Rubin"
+        },
+        "info": [
+            "Hans Nachr.9.11.62(Preuss)"
+        ]
+    },
+    "MBNR.3.PER.492": {
+        "name": {
+            "title": "Dr.",
+            "first": "Arthur",
+            "last": "Ruppin"
+        },
+        "info": [
+            "20.Todestg(Brief Senator) 11.1.63",
+            "Gedenkfeier 1.3.63/\"Beth R.\"8.3.63"
+        ]
+    },
+    "MBNR.3.PER.494": {
+        "name": {
+            "first": "Kurt",
+            "last": "Ruppin"
+        },
+        "info": [
+            "70:lo.4\u00bb64",
+            "\"MB\" 1962/65 -18-",
+            "Saalheimer.Dr.S. Nachr.19.4.63",
+            "1.Todestg 27.3.64(Lehmann)"
+        ]
+    },
+    "MBNR.3.PER.498": {
+        "name": {
+            "first": "Julius",
+            "last": "Sachs"
+        },
+        "info": [
+            "70:1.3.63"
+        ]
+    },
+    "MBNR.3.PER.499": {
+        "name": {
+            "first": "Nelly",
+            "last": "Sachs"
+        },
+        "info": [
+            "(Times 1,11)21.12.62",
+            "Kulturpreis 27.12.63",
+            "Friedenspreis 15.lo.65"
+        ]
+    },
+    "MBNR.3.PER.502": {
+        "name": {
+            "first": "Erich",
+            "last": "Salomon"
+        },
+        "info": [
+            "der 1.Bildreporter 17.1.64(ht)"
+        ]
+    },
+    "MBNR.3.PER.503": {
+        "name": {
+            "title": "Dr.",
+            "first": "Hans",
+            "last": "Salomon"
+        },
+        "info": [
+            "Nachr.15.6.62(HT)"
+        ]
+    },
+    "MBNR.3.PER.504": {
+        "name": {
+            "first": "Clara",
+            "last": "Samuel"
+        },
+        "info": [
+            "Nachr.2.3.62(ECL)"
+        ]
+    },
+    "MBNR.3.PER.505": {
+        "name": {
+            "first": "Edith",
+            "last": "Samuel"
+        },
+        "info": [
+            "Nachr.26.6.64",
+            "Samuel(Lord)Herbert Rez.10.8.62(Arnold)",
+            "Philosophie 7.6.63(HDSchmidt)"
+        ]
+    },
+    "MBNR.3.PER.508": {
+        "name": {
+            "first": "Jakob",
+            "last": "Sandbank"
+        },
+        "info": [
+            "25.Todestg 29.5.64(GLu)"
+        ]
+    },
+    "MBNR.3.PER.509": {
+        "name": {
+            "first": "J.P.",
+            "last": "Sartre"
+        },
+        "info": [
+            "Biogr.9.2.62"
+        ]
+    },
+    "MBNR.3.PER.510": {
+        "name": {
+            "first": "Paul",
+            "last": "Schall\u00fcck"
+        },
+        "info": [
+            "(K\u00f6ln)",
+            "Notiz 26.lo.62"
+        ]
+    },
+    "MBNR.3.PER.511": {
+        "name": {
+            "first": "Shin",
+            "last": "Schalom"
+        },
+        "info": [
+            "Rez.5.4.63(MMayer)",
+            "Schapira.Wilh.Moses Artikel 16.3.62(Bondi)"
+        ]
+    },
+    "MBNR.3.PER.513": {
+        "name": {
+            "first": "Moshe",
+            "last": "Schareth"
+        },
+        "info": [
+            "Nachr.16.7.65(HT)",
+            "Schasar.Jalman W\u00fcrdigung 31.5.63"
+        ]
+    },
+    "MBNR.3.PER.515": {
+        "name": {
+            "first": "Mordechai",
+            "last": "Schattner"
+        },
+        "info": [
+            "Nachr.1.5.64(Lotan)"
+        ]
+    },
+    "MBNR.3.PER.516": {
+        "name": {
+            "first": "nargathe",
+            "last": "Sehelas"
+        },
+        "info": [
+            "Todesanz.27.9-63"
+        ]
+    },
+    "MBNR.3.PER.517": {
+        "name": {
+            "first": "Fr.W.",
+            "last": "Schelling"
+        },
+        "info": [
+            "Mythos u.Bibel 5.7.63(HBergman) /26.1J.63",
+            "Scherek.Leo Nachr.2.3.62"
+        ]
+    },
+    "MBNR.3.PER.519": {
+        "name": {
+            "title": "Dr.",
+            "first": "Fritz",
+            "last": "Schiff"
+        },
+        "info": [
+            "Nachr.18.12.64"
+        ]
+    },
+    "MBNR.3.PER.520": {
+        "name": {
+            "first": "Jacob",
+            "last": "Schiff"
+        },
+        "info": [
+            "Frkft Reminiszenz 30.3.62(EMayer)"
+        ]
+    },
+    "MBNR.3.PER.521": {
+        "name": {
+            "first": "Joseph",
+            "last": "Schildkraut"
+        },
+        "info": [
+            "Nachr.7.2.64"
+        ]
+    },
+    "MBNR.3.PER.522": {
+        "name": {
+            "title": "Rabb.",
+            "first": "Wilh.",
+            "last": "Schlesinger"
+        },
+        "info": [
+            "25.Jubil\u00e4um 25.5.62"
+        ]
+    },
+    "MBNR.3.PER.523": {
+        "name": {
+            "first": "Arthur",
+            "last": "Schnitzler"
+        },
+        "info": [
+            "(1862-1931)loo.Gehurts",
+            "tg 16.3.62/18.5.62"
+        ]
+    },
+    "MBNR.3.PER.524": {
+        "name": {
+            "first": "Arnold",
+            "last": "Sch\u00f6nberg"
+        },
+        "info": [
+            "25.9.64"
+        ]
+    },
+    "MBNR.3.PER.525": {
+        "name": {
+            "title": "Dr.",
+            "first": "Fritz",
+            "last": "Schoenfeld"
+        },
+        "info": [
+            "Nachr.XI 4.1.63"
+        ]
+    },
+    "MBNR.3.PER.526": {
+        "name": {
+            "first": "Bruno",
+            "last": "Sch\u00f6nlank"
+        },
+        "info": [
+            "Nachr.l8.6.65(Gottgetr)"
+        ]
+    },
+    "MBNR.3.PER.527": {
+        "name": {
+            "first": "Ella",
+            "last": "Sch\u00fcler"
+        },
+        "info": [
+            "Nachr.6.8.65"
+        ]
+    },
+    "MBNR.3.PER.528": {
+        "name": {
+            "first": "Moshe",
+            "last": "Schwarz"
+        },
+        "info": [
+            "Karl 80:lo.12.65"
+        ]
+    },
+    "MBNR.3.PER.529": {
+        "name": {
+            "title": "Dr.",
+            "first": "Albert",
+            "last": "Schweitzer"
+        },
+        "info": [
+            "Sammelschrift 17.lo.62"
+        ]
+    },
+    "MBNR.3.PER.530": {
+        "name": {
+            "first": "Lotte",
+            "last": "Seelenfreund"
+        },
+        "info": [
+            "Todesanz.23.il.62"
+        ]
+    },
+    "MBNR.3.PER.531": {
+        "name": {
+            "first": "Martin",
+            "last": "Seeligmann"
+        },
+        "info": [
+            "Nachr.23.3.62"
+        ]
+    },
+    "MBNR.3.PER.532": {
+        "name": {
+            "first": "Giorgos",
+            "last": "Seferis"
+        },
+        "info": [
+            "Nobelpreis 8.11.63"
+        ]
+    },
+    "MBNR.3.PER.533": {
+        "name": {
+            "first": "Elieser",
+            "last": "Sekey"
+        },
+        "info": [
+            "Todesnaz.23.11.62"
+        ]
+    },
+    "MBNR.3.PER.534": {
+        "name": {
+            "title": "Dr.",
+            "first": "David",
+            "last": "Senator"
+        },
+        "info": [
+            "W. Gedenkfeier 21.12.62",
+            "lo.Todestg 15.11.63 /Feier 22.11.63"
+        ]
+    },
+    "MBNR.3.PER.536": {
+        "name": {
+            "first": "George",
+            "last": "Shaw"
+        },
+        "info": [
+            "Bernard Briefe 2.11.62(Arnold)"
+        ]
+    },
+    "MBNR.3.PER.537": {
+        "name": {
+            "title": "Dr.",
+            "first": "Felix",
+            "last": "Shinnar"
+        },
+        "info": [
+            "E. 60:16.4.65(ht)"
+        ]
+    },
+    "MBNR.3.PER.538": {
+        "name": {
+            "first": "Rabbi",
+            "last": "Silver"
+        },
+        "info": [
+            "A.H. Nachr.6.12.63"
+        ]
+    },
+    "MBNR.3.PER.539": {
+        "name": {
+            "first": "ProfoE.A.",
+            "last": "Simon"
+        },
+        "info": [
+            "65: 20.3.64(EMayer)"
+        ]
+    },
+    "MBNR.3.PER.540": {
+        "name": {
+            "first": "Helene",
+            "last": "Simon"
+        },
+        "info": [
+            "loo.Geburtstg 23.11.62(bTTP)/28.12.62 Briefe"
+        ]
+    },
+    "MBNR.3.PER.541": {
+        "name": {
+            "title": "Dr.",
+            "first": "Adolf",
+            "last": "Sindler"
+        },
+        "info": [
+            "Nachr.3.9.65",
+            "\"MB\" 1962/65 -19-"
+        ]
+    },
+    "MBNR.3.PER.543": {
+        "name": {
+            "title": "Dr.",
+            "first": "Josef",
+            "last": "Smoira"
+        },
+        "info": [
+            "Schloschim 12.6.64"
+        ]
+    },
+    "MBNR.3.PER.544": {
+        "name": {
+            "title": "Dr.",
+            "first": "Saul",
+            "last": "Sokal"
+        },
+        "info": [
+            "Nachr.l6.10.64(ZKr)"
+        ]
+    },
+    "MBNR.3.PER.545": {
+        "name": {
+            "first": "Wladimir",
+            "last": "Sokoloff"
+        },
+        "info": [
+            "Nachr.27.4.62"
+        ]
+    },
+    "MBNR.3.PER.546": {
+        "name": {
+            "title": "Dr.",
+            "first": "Belmar",
+            "last": "Spier"
+        },
+        "info": [
+            "\u201cachr.23.11.62(kl)"
+        ]
+    },
+    "MBNR.3.PER.547": {
+        "name": {
+            "title": "Dr.",
+            "first": "Abr.",
+            "last": "Spighel"
+        },
+        "info": [
+            "70:31.8.62(RahelStraus)"
+        ]
+    },
+    "MBNR.3.PER.548": {
+        "name": {
+            "title": "Prof.",
+            "first": "Eugene",
+            "last": "Spiro"
+        },
+        "info": [
+            "90:6.5.64"
+        ]
+    },
+    "MBNR.3.PER.549": {
+        "name": {
+            "title": "Prof.",
+            "first": "Eduard",
+            "last": "Spranger"
+        },
+        "info": [
+            "Todesnachricht 7.10.63"
+        ]
+    },
+    "MBNR.3.PER.550": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "Stein"
+        },
+        "info": [
+            "Nachr.1.5.64"
+        ]
+    },
+    "MBNR.3.PER.551": {
+        "name": {
+            "first": "Nadja",
+            "last": "Stein"
+        },
+        "info": [
+            "z.l.Todestg 15.2.63"
+        ]
+    },
+    "MBNR.3.PER.552": {
+        "name": {
+            "first": "John",
+            "last": "Steinbeck"
+        },
+        "info": [
+            "Nobelpreis 9.11.62(Arnold)"
+        ]
+    },
+    "MBNR.3.PER.553": {
+        "name": {
+            "title": "Dr.",
+            "first": "W.",
+            "last": "Sternbach"
+        },
+        "info": [
+            "Nachr.22.2.63"
+        ]
+    },
+    "MBNR.3.PER.554": {
+        "name": {
+            "first": "Hermann",
+            "last": "Sternberg"
+        },
+        "info": [
+            "Nachr.22.lo.65"
+        ]
+    },
+    "MBNR.3.PER.555": {
+        "name": {
+            "first": "",
+            "last": "Sterng&jlss"
+        },
+        "info": [
+            "Dr. Ernest J. W\u00fcrdigung 26.4.63(Baumgardt)"
+        ]
+    },
+    "MBNR.3.PER.556": {
+        "name": {
+            "first": "Adlai",
+            "last": "Stevenson"
+        },
+        "info": [
+            "Nachr.23.7.65"
+        ]
+    },
+    "MBNR.3.PER.557": {
+        "name": {
+            "first": "Otto",
+            "last": "Stiel"
+        },
+        "info": [
+            "70:I.11.63"
+        ]
+    },
+    "MBNR.3.PER.558": {
+        "name": {
+            "first": "Paul",
+            "last": "Stiel"
+        },
+        "info": [
+            "Todesanz.12.1.62"
+        ]
+    },
+    "MBNR.3.PER.559": {
+        "name": {
+            "title": "Dr.",
+            "first": "Rahe1",
+            "last": "Straus"
+        },
+        "info": [
+            "Erinnerungen 2.2.62(EMayer)",
+            "im dt.Radio 13.7.62/10.8.62",
+            "S-Haus in Jerusalem 27.7.62",
+            "Nachr.Herlitz 24.5.63",
+            "Schloschim 14.6.63(Michaelis) /Feier 21.6.63",
+            "Haus 15.1.65"
+        ]
+    },
+    "MBNR.3.PER.565": {
+        "name": {
+            "first": "Franz",
+            "last": "Strauss"
+        },
+        "info": [
+            "Joseph(Mlnister in Israel 7.6.63"
+        ]
+    },
+    "MBNR.3.PER.566": {
+        "name": {
+            "first": "Louis",
+            "last": "Strauss"
+        },
+        "info": [
+            "L.)USA) Memoiren 21.6.63(RW)"
+        ]
+    },
+    "MBNR.3.PER.567": {
+        "name": {
+            "first": "Ludwig",
+            "last": "Strauss"
+        },
+        "info": [
+            "(Dichter)",
+            "Bubers Geleitwort 5.4.63",
+            "lo.Todestg 16.8.63(Kraft)"
+        ]
+    },
+    "MBNR.3.PER.569": {
+        "name": {
+            "first": "Igor",
+            "last": "Strawinski"
+        },
+        "info": [
+            "80:6.6.62(Seelenfr)"
+        ]
+    },
+    "MBNR.3.PER.570": {
+        "name": {
+            "title": "Prof.",
+            "first": "Fritz",
+            "last": "Strich"
+        },
+        "info": [
+            "Nachr.6.9.63/27.9.63(brief W\u00f6rmann)"
+        ]
+    },
+    "MBNR.3.PER.571": {
+        "name": {
+            "first": "Erich",
+            "last": "Stroheim"
+        },
+        "info": [
+            "v. j\u00fcd.Herkunft 9.2.62"
+        ]
+    },
+    "MBNR.3.PER.572": {
+        "name": {
+            "first": "Manfred",
+            "last": "Sturmann"
+        },
+        "info": [
+            "Rez.20.l2.63(Flusser)"
+        ]
+    },
+    "MBNR.3.PER.573": {
+        "name": {
+            "first": "Joachim",
+            "last": "Stutschewsky"
+        },
+        "info": [
+            "Preis 15.3.63"
+        ]
+    },
+    "MBNR.3.PER.574": {
+        "name": {
+            "first": "\u2018\u2018iargarete",
+            "last": "Susman"
+        },
+        "info": [
+            "90: 17.lo.62(HBergmann,Rotenstreich)/26.lo.62 Optimismus",
+            "Erinnerungen 25.9.64(KL)"
+        ]
+    },
+    "MBNR.3.PER.576": {
+        "name": {
+            "title": "Dr.",
+            "first": "Saul",
+            "last": "Symann"
+        },
+        "info": [
+            "Nachr.14.6.63"
+        ]
+    },
+    "MBNR.3.PER.577": {
+        "name": {
+            "first": "Frieda",
+            "last": "Szilard"
+        },
+        "info": [
+            "Nachr.19.4.63"
+        ]
+    },
+    "MBNR.3.PER.578": {
+        "name": {
+            "first": "Henrietta",
+            "last": "Szold"
+        },
+        "info": [
+            "20.Todestg 19.2.65(MTP)",
+            "\"MB\u201d 1962/65 -20-"
+        ]
+    },
+    "MBNR.3.PER.580": {
+        "name": {
+            "first": "Fritz",
+            "last": "Tau"
+        },
+        "info": [
+            "60:22.Z.6Z(Ll)"
+        ]
+    },
+    "MBNR.3.PER.581": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "Tau"
+        },
+        "info": [
+            "Autobiogr.19.1.62(10?)",
+            "Erinnerungen 30.7.65(HT)"
+        ]
+    },
+    "MBNR.3.PER.583": {
+        "name": {
+            "first": "Michael",
+            "last": "Taube"
+        },
+        "info": [
+            "75:26.3.65"
+        ]
+    },
+    "MBNR.3.PER.584": {
+        "name": {
+            "title": "Dr.",
+            "first": "Ernst",
+            "last": "Tausig"
+        },
+        "info": [
+            "E.Nachr.15.1.65"
+        ]
+    },
+    "MBNR.3.PER.585": {
+        "name": {
+            "first": "Ludwig",
+            "last": "Tietz"
+        },
+        "info": [
+            "30.Todestg 8.11.63(Horn)"
+        ]
+    },
+    "MBNR.3.PER.586": {
+        "name": {
+            "title": "Prof.",
+            "first": "Paul",
+            "last": "Tillich"
+        },
+        "info": [
+            "Rede in Frkft.17.Io62"
+        ]
+    },
+    "MBNR.3.PER.587": {
+        "name": {
+            "first": "Ernst",
+            "last": "Toch"
+        },
+        "info": [
+            "Wachr.16.lo.64"
+        ]
+    },
+    "MBNR.3.PER.588": {
+        "name": {
+            "first": "Ernst",
+            "last": "Toller"
+        },
+        "info": [
+            "Werke 19.1.62(Freeden)"
+        ]
+    },
+    "MBNR.3.PER.589": {
+        "name": {
+            "first": "Liddy",
+            "last": "Treidel"
+        },
+        "info": [
+            "85:21.5.65",
+            "-Tranier,Irma Todesanz. 19.4.63"
+        ]
+    },
+    "MBNR.3.PER.591": {
+        "name": {
+            "title": "Dr.",
+            "first": "Josef",
+            "last": "Treu"
+        },
+        "info": [
+            "Nachr.3.7.64"
+        ]
+    },
+    "MBNR.3.PER.592": {
+        "name": {
+            "first": "David",
+            "last": "Tschertok(Tesher)"
+        },
+        "info": [
+            "6o:20.3.64"
+        ]
+    },
+    "MBNR.3.PER.593": {
+        "name": {
+            "first": "Kurt",
+            "last": "Tuchler"
+        },
+        "info": [
+            "70: 11.12.64(llT FiM)"
+        ]
+    },
+    "MBNR.3.PER.594": {
+        "name": {
+            "first": "Kurt",
+            "last": "Tucholsky"
+        },
+        "info": [
+            "T-Preis 9.11.62",
+            "Jiid.Selbsthass 18.9.63(Gottgetreu)"
+        ]
+    },
+    "MBNR.3.PER.596": {
+        "name": {
+            "first": "Margarete",
+            "last": "Turnowsky-Pinner"
+        },
+        "info": [
+            "Brief-_KW 30.12.49"
+        ]
+    },
+    "MBNR.3.PER.597": {
+        "name": {
+            "first": "Irene",
+            "last": "Triesch"
+        },
+        "info": [
+            "Uachr.8.1.65 (MT?) j",
+            "\"MB\" 1962/65 -21-"
+        ]
+    },
+    "MBNR.3.PER.599": {
+        "name": {
+            "title": "Prof.",
+            "first": "Sinai",
+            "last": "Ucko"
+        },
+        "info": [
+            "60: 5.11.65"
+        ]
+    },
+    "MBNR.3.PER.600": {
+        "name": {
+            "first": "Lesser",
+            "last": "Ury"
+        },
+        "info": [
+            "(1861-1931)",
+            "Katalogplan 2.11.62"
+        ]
+    },
+    "MBNR.3.PER.601": {
+        "name": {
+            "first": "Johannes",
+            "last": "Urzidil"
+        },
+        "info": [
+            "in Jerusalem 5.10.62",
+            "\"MB\" 1962/65 -22-"
+        ]
+    },
+    "MBNR.3.PER.603": {
+        "name": {
+            "first": "Moses",
+            "last": "Waldmann"
+        },
+        "info": [
+            "lo.Todestg 13.11.64"
+        ]
+    },
+    "MBNR.3.PER.604": {
+        "name": {
+            "first": "Bruno",
+            "last": "Walter"
+        },
+        "info": [
+            "Gedenken 9.3.62(rw) /6.4.62(Braband)(1876-1962)"
+        ]
+    },
+    "MBNR.3.PER.605": {
+        "name": {
+            "title": "Dr.",
+            "first": "Fritz",
+            "last": "Warburg"
+        },
+        "info": [
+            "Nachr.23.lo.64"
+        ]
+    },
+    "MBNR.3.PER.606": {
+        "name": {
+            "first": "Jacob",
+            "last": "Wassermann"
+        },
+        "info": [
+            "in metnorSo.Geburtg. 15.3.63"
+        ]
+    },
+    "MBNR.3.PER.607": {
+        "name": {
+            "title": "Prof.",
+            "first": "Alfred",
+            "last": "Weber"
+        },
+        "info": [
+            "Adolf Nachr.15.2.63"
+        ]
+    },
+    "MBNR.3.PER.608": {
+        "name": {
+            "title": "Prof.",
+            "first": "Max",
+            "last": "Weber"
+        },
+        "info": [
+            "loo.Geburtstg 1.5.64",
+            "/Weidman,Jerome Kez.26.7.63(Arnold)"
+        ]
+    },
+    "MBNR.3.PER.610": {
+        "name": {
+            "first": "Fanni",
+            "last": "Wechsler"
+        },
+        "info": [
+            "Nachr.5-2.65"
+        ]
+    },
+    "MBNR.3.PER.611": {
+        "name": {
+            "first": "Herzl",
+            "last": "Weigler"
+        },
+        "info": [
+            "i4achr.22.2.63"
+        ]
+    },
+    "MBNR.3.PER.612": {
+        "name": {
+            "first": "Gertrude",
+            "last": "Weil"
+        },
+        "info": [
+            "\u201cachr.13.12.63"
+        ]
+    },
+    "MBNR.3.PER.613": {
+        "name": {
+            "first": "Frieda",
+            "last": "Weinreich(hanf)"
+        },
+        "info": [
+            "Nachr.30.4.65/21.5.65"
+        ]
+    },
+    "MBNR.3.PER.614": {
+        "name": {
+            "first": "Siegfried",
+            "last": "Weiner"
+        },
+        "info": [
+            "Nachr.6.9.63"
+        ]
+    },
+    "MBNR.3.PER.615": {
+        "name": {
+            "title": "Dr.",
+            "first": "Elias",
+            "last": "Weinstein"
+        },
+        "info": [
+            "Nachr.19.3.65(ZKr)"
+        ]
+    },
+    "MBNR.3.PER.616": {
+        "name": {
+            "title": "Dr.",
+            "first": "George",
+            "last": "Weis"
+        },
+        "info": [
+            "(Wien)",
+            "in Israel 17.lo.62"
+        ]
+    },
+    "MBNR.3.PER.617": {
+        "name": {
+            "first": "Frieda",
+            "last": "Weissmann"
+        },
+        "info": [
+            "85:2.7.65"
+        ]
+    },
+    "MBNR.3.PER.618": {
+        "name": {
+            "title": "Dr.",
+            "first": "Georg",
+            "last": "Weissmann"
+        },
+        "info": [
+            "Nachr. 1.2.63(Frtf)"
+        ]
+    },
+    "MBNR.3.PER.619": {
+        "name": {
+            "title": "Dr.",
+            "first": "Felix",
+            "last": "Weltsch"
+        },
+        "info": [
+            "8o;2.10.64"
+        ]
+    },
+    "MBNR.3.PER.620": {
+        "name": {
+            "first": "Hans",
+            "last": "Werner"
+        },
+        "info": [
+            "70:23.7.65"
+        ]
+    },
+    "MBNR.3.PER.621": {
+        "name": {
+            "first": "Franz",
+            "last": "Werfel"
+        },
+        "info": [
+            "20.Todestg 10.9.65"
+        ]
+    },
+    "MBNR.3.PER.622": {
+        "name": {
+            "title": "Dr.",
+            "first": "Alfred",
+            "last": "Wiener"
+        },
+        "info": [
+            "Nadir.28.2.64(HT)"
+        ]
+    },
+    "MBNR.3.PER.623": {
+        "name": {
+            "first": "Norbert",
+            "last": "Wiener"
+        },
+        "info": [
+            "Nachr.Io.4.64"
+        ]
+    },
+    "MBNR.3.PER.624": {
+        "name": {
+            "first": "Oscar",
+            "last": "Wilde"
+        },
+        "info": [
+            "Briefe 6.6.62(Arnold)"
+        ]
+    },
+    "MBNR.3.PER.625": {
+        "name": {
+            "title": "Rabb.",
+            "first": "Kurt",
+            "last": "WilheIm"
+        },
+        "info": [
+            "D. Nachr.28.5.65(HT HBergman)"
+        ]
+    },
+    "MBNR.3.PER.626": {
+        "name": {
+            "first": "General",
+            "last": "Wingate"
+        },
+        "info": [
+            "Orde Buch 9.2.62"
+        ]
+    },
+    "MBNR.3.PER.627": {
+        "name": {
+            "first": "Salomon",
+            "last": "Wininger"
+        },
+        "info": [
+            "85: 1.2.63"
+        ]
+    },
+    "MBNR.3.PER.628": {
+        "name": {
+            "first": "Paul",
+            "last": "Winter"
+        },
+        "info": [
+            "(Engl)",
+            "Rez.Prozess Jesu 7.10.63(Flusser)"
+        ]
+    },
+    "MBNR.3.PER.629": {
+        "name": {
+            "first": "Fritz",
+            "last": "Wisten"
+        },
+        "info": [
+            "(Regisseur)",
+            "Nachr.4.1.63",
+            "Wit teles,Adelheid Todesanz.7.12.62"
+        ]
+    },
+    "MBNR.3.PER.631": {
+        "name": {
+            "title": "Rabb.",
+            "first": "Benedict",
+            "last": "Wolf"
+        },
+        "info": [
+            "Oinchas 90:5.3.65"
+        ]
+    },
+    "MBNR.3.PER.632": {
+        "name": {
+            "title": "Dr.",
+            "first": "Max",
+            "last": "Wolf"
+        },
+        "info": [
+            "Nachr.4.5.62"
+        ]
+    },
+    "MBNR.3.PER.633": {
+        "name": {
+            "first": "Hilde",
+            "last": "Wolff"
+        },
+        "info": [
+            "Nachr.12.11.65"
+        ]
+    },
+    "MBNR.3.PER.634": {
+        "name": {
+            "first": "Kurt",
+            "last": "Wolff"
+        },
+        "info": [
+            "(Verleger)Todesnachricht",
+            "8.11.63"
+        ]
+    },
+    "MBNR.3.PER.635": {
+        "name": {
+            "first": "David",
+            "last": "Wolffsohn"
+        },
+        "info": [
+            "50.Todestg 18.9.64"
+        ]
+    },
+    "MBNR.3.PER.636": {
+        "name": {
+            "first": "Karl",
+            "last": "Wolfskehl"
+        },
+        "info": [
+            "(1869-1948)",
+            "21.12.62(TimesLit)",
+            "15.Todestg 12.7.63m.Ankund.Bibliogr."
+        ]
+    },
+    "MBNR.3.PER.638": {
+        "name": {
+            "first": "Dodi",
+            "last": "Wolfson"
+        },
+        "info": [
+            "Nachr.26.2.65(HT)"
+        ]
+    },
+    "MBNR.3.PER.639": {
+        "name": {
+            "title": "Dr.",
+            "first": "Hans",
+            "last": "Wollin"
+        },
+        "info": [
+            "75:24.9.65(ThNathan)"
+        ]
+    },
+    "MBNR.3.PER.640": {
+        "name": {
+            "first": "Dorothea",
+            "last": "W\u00f6rmann"
+        },
+        "info": [
+            "30.Todestg 11.5.62",
+            "\"MB\" 1962/65 - 23-"
+        ]
+    },
+    "MBNR.3.PER.642": {
+        "name": {
+            "first": "Julius",
+            "last": "Zeliner"
+        },
+        "info": [
+            "Nachr.2.3.62"
+        ]
+    },
+    "MBNR.3.PER.643": {
+        "name": {
+            "first": "Arnold",
+            "last": "Zweig"
+        },
+        "info": [
+            "(1887-)",
+            "75:23.11.62",
+            "Traum ist teuer 8.3\u00b063(Be rendsobn)"
+        ]
+    },
+    "MBNR.3.PER.645": {
+        "name": {
+            "first": "Max",
+            "last": "Zweig"
+        },
+        "info": [
+            "5 Dramen 23.2.62(70.Geburtstg,Arnold)",
+            "5 neue Dramen 9.8.63"
+        ]
+    },
+    "MBNR.3.PER.647": {
+        "name": {
+            "first": "Stefan",
+            "last": "Zweig"
+        },
+        "info": [
+            "(1881-1942)",
+            "20.Todestg 23.2.62",
+            "Gedenktafel Wien 18.5.62"
+        ]
+    }
+}
